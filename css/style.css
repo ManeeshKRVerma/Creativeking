@@ -1,0 +1,67 @@
+body {
+    font-family: "Open Sans", sans-serif !important;
+    background: #ccc;
+    color: #666;
+    line-height: 20px;
+}
+.container {
+    background: #fff;
+    width: 100%;
+    max-width: 1140px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 16px;
+    line-height: 1.4em;
+}
+h1 {
+    font-size: 24px;
+    color: #000;
+    margin: 20px 0;
+}
+h2 {
+    font-size: 20px;
+    color: #000;
+    margin: 20px 0;
+}
+p {
+    font-size: 16px;
+    line-height: 28px;
+}
+.text-start {
+    text-align: left;
+}
+.text-center {
+    text-align: center;
+}
+.text-end {
+    text-align: right;
+}
+a {
+    color: #5356FF;
+    text-decoration: none;
+}
+a:hover {
+    color: #67C6E3;
+    text-decoration: underline;
+}
+/*============= Header ==============*/
+.header {
+    border-bottom: 4px solid #999;
+}
+.header .divider {
+    padding: 0 10px;
+    color: #ccc;
+}
+/*============= Body ==============*/
+.body-text {
+    font-size: 16px;
+    padding: 50px 30px;
+}
+/*============= Footer ==============*/
+.footer {
+    background: #333;
+}
+.footer td {
+    color: #fff !important;
+    font-size: 14px;
+}
