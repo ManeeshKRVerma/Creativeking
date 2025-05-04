@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Parler Conjugation Viewer</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    h1, h2, h3 { color: #2c3e50; }
+    .tense-section { border-top: 1px solid #ccc; margin-top: 25px; padding-top: 10px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border: 1px solid #ccc; padding: 6px 10px; text-align: left; }
+    th { background-color: #f9f9f9; }
+    .example { margin: 10px 0; font-style: italic; color: #555; }
+  </style>
+</head>
+<body>
+  <h1>French Verb Conjugation Viewer</h1>
+  <div id="output">Loading...</div>
+
+  <script>
+    async function loadConjugation() {
+      try { 
+        const res = await fetch('Parler.json');
+        <!-- const data = await res.json(); -->
+        <!-- document.getElementById("output").innerHTML = ""; -->
+        <!-- renderConjugations(data.conjugations); -->
+      } catch (err) { 
+		document.getElementById("output").innerText = "Error loading JSON file.";
+		alert(err);
+		console.error(err);
+      }
+    }
+
+    function createTable(forms) {
+      const table = document.createElement("table");
+      const header = table.insertRow();
+      header.innerHTML = "<th>Subject</th><th>Conjugation</th>";
+      for (const subject in forms) {
+        const row = table.insertRow();
+        row.innerHTML = `<td>${subject}</td><td>${forms[subject]}</td>`;
+      }
+      return table;
+    }
+
+    function renderConjugations(conjugations) {
+      const output = document.getElementById("output");
+      for (const tense in conjugations) {
+        const tenseData = conjugations[tense];
+        const section = document.createElement("div");
+        section.className = "tense-section";
+
+        const tenseHeader = document.createElement("h2");
+        tenseHeader.textContent = tense.replace(/_/g, " ").toUpperCase();
+        section.appendChild(tenseHeader);
+
+        if (!tenseData.forms && !tenseData.form) {
+          for (const sub in tenseData) {
+            const subTense = tenseData[sub];
+            const subHeader = document.createElement("h3");
+            subHeader.textContent = sub.toUpperCase();
+            section.appendChild(subHeader);
+
+            if (subTense.form) {
+              const p = document.createElement("p");
+              p.innerHTML = `<strong>Form:</strong> ${subTense.form}`;
+              section.appendChild(p);
+            }
+
+            if (subTense.forms) {
+              section.appendChild(createTable(subTense.forms));
+            }
+
+            if (subTense.example) {
+              const example = document.createElement("div");
+              example.className = "example";
+              example.innerHTML = `
+                <strong>Example:</strong> ${subTense.example.fr}<br>
+                <strong>Translation:</strong> ${subTense.example.en}`;
+              section.appendChild(example);
+            }
+          }
+        } else {
+          if (tenseData.form) {
+            const p = document.createElement("p");
+            p.innerHTML = `<strong>Form:</strong> ${tenseData.form}`;
+            section.appendChild(p);
+          }
+
+          if (tenseData.forms) {
+            section.appendChild(createTable(tenseData.forms));
+          }
+
+          if (tenseData.example) {
+            const example = document.createElement("div");
+            example.className = "example";
+            example.innerHTML = `
+              <strong>Example:</strong> ${tenseData.example.fr}<br>
+              <strong>Translation:</strong> ${tenseData.example.en}`;
+            section.appendChild(example);
+          }
+        }
+
+        output.appendChild(section);
+      }
+    }
+
+    loadConjugation();
+  </script>
+</body>
+</html>

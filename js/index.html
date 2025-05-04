@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Parler Conjugation Viewer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    .tense-section {
+      border-top: 1px solid #ccc;
+      margin-top: 25px;
+      padding-top: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 6px 10px;
+      text-align: left;
+    }
+    th {
+      background-color: #f9f9f9;
+    }
+    .example {
+      margin: 10px 0;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Conjugation of "parler" – to speak</h1>
+  <div id="output"></div>
+
+  <script>
+    const data = /* Paste your full JSON here */ {
+  "verb": "parler",
+  "translation": "to speak",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "parle",
+        "tu": "parles",
+        "il/elle/on": "parle",
+        "nous": "parlons",
+        "vous": "parlez",
+        "ils/elles": "parlent"
+      },
+      "example": {
+        "fr": "Je parle français.",
+        "en": "I speak French."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai parlé",
+        "tu": "as parlé",
+        "il/elle/on": "a parlé",
+        "nous": "avons parlé",
+        "vous": "avez parlé",
+        "ils/elles": "ont parlé"
+      },
+      "example": {
+        "fr": "Nous avons parlé hier soir.",
+        "en": "We spoke last night."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "parlai",
+        "tu": "parlas",
+        "il/elle/on": "parla",
+        "nous": "parlâmes",
+        "vous": "parlâtes",
+        "ils/elles": "parlèrent"
+      },
+      "example": {
+        "fr": "Il parla longuement.",
+        "en": "He spoke at length."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "parlais",
+        "tu": "parlais",
+        "il/elle/on": "parlait",
+        "nous": "parlions",
+        "vous": "parliez",
+        "ils/elles": "parlaient"
+      },
+      "example": {
+        "fr": "Elle parlait souvent avec sa sœur.",
+        "en": "She used to speak often with her sister."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais parlé",
+        "tu": "avais parlé",
+        "il/elle/on": "avait parlé",
+        "nous": "avions parlé",
+        "vous": "aviez parlé",
+        "ils/elles": "avaient parlé"
+      },
+      "example": {
+        "fr": "Ils avaient parlé avant mon arrivée.",
+        "en": "They had spoken before I arrived."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "parlerai",
+        "tu": "parleras",
+        "il/elle/on": "parlera",
+        "nous": "parlerons",
+        "vous": "parlerez",
+        "ils/elles": "parleront"
+      },
+      "example": {
+        "fr": "Je parlerai demain.",
+        "en": "I will speak tomorrow."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de parler",
+        "tu": "seras en train de parler",
+        "il/elle/on": "sera en train de parler",
+        "nous": "serons en train de parler",
+        "vous": "serez en train de parler",
+        "ils/elles": "seront en train de parler"
+      },
+      "example": {
+        "fr": "Il sera en train de parler à ce moment-là.",
+        "en": "He will be speaking at that moment."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai parlé",
+        "tu": "auras parlé",
+        "il/elle/on": "aura parlé",
+        "nous": "aurons parlé",
+        "vous": "aurez parlé",
+        "ils/elles": "auront parlé"
+      },
+      "example": {
+        "fr": "Tu auras parlé avant moi.",
+        "en": "You will have spoken before me."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "parlerais",
+        "tu": "parlerais",
+        "il/elle/on": "parlerait",
+        "nous": "parlerions",
+        "vous": "parleriez",
+        "ils/elles": "parleraient"
+      },
+      "example": {
+        "fr": "Je parlerais si j'avais le temps.",
+        "en": "I would speak if I had time."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais parlé",
+        "tu": "aurais parlé",
+        "il/elle/on": "aurait parlé",
+        "nous": "aurions parlé",
+        "vous": "auriez parlé",
+        "ils/elles": "auraient parlé"
+      },
+      "example": {
+        "fr": "Elle aurait parlé si elle avait su.",
+        "en": "She would have spoken if she had known."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "parle",
+        "tu": "parles",
+        "il/elle/on": "parle",
+        "nous": "parlions",
+        "vous": "parliez",
+        "ils/elles": "parlent"
+      },
+      "example": {
+        "fr": "Il faut que je parle.",
+        "en": "I must speak."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie parlé",
+        "tu": "aies parlé",
+        "il/elle/on": "ait parlé",
+        "nous": "ayons parlé",
+        "vous": "ayez parlé",
+        "ils/elles": "aient parlé"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait parlé.",
+        "en": "I doubt he spoke."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "parlasse",
+        "tu": "parlasses",
+        "il/elle/on": "parlât",
+        "nous": "parlassions",
+        "vous": "parlassiez",
+        "ils/elles": "parlassent"
+      },
+      "example": {
+        "fr": "Il fallait qu'elle parlât.",
+        "en": "It was necessary that she spoke."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "eusse parlé",
+        "tu": "eusses parlé",
+        "il/elle/on": "eût parlé",
+        "nous": "eussions parlé",
+        "vous": "eussiez parlé",
+        "ils/elles": "eussent parlé"
+      },
+      "example": {
+        "fr": "Si j'eusse parlé, il aurait compris.",
+        "en": "If I had spoken, he would have understood."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus parlé",
+        "tu": "eus parlé",
+        "il/elle/on": "eut parlé",
+        "nous": "eûmes parlé",
+        "vous": "eûtes parlé",
+        "ils/elles": "eurent parlé"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent parlé, ils partirent.",
+        "en": "As soon as they had spoken, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "parle",
+        "nous": "parlons",
+        "vous": "parlez"
+      },
+      "example": {
+        "fr": "Parle plus fort !",
+        "en": "Speak louder!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie parlé",
+        "nous": "ayons parlé",
+        "vous": "ayez parlé"
+      },
+      "example": {
+        "fr": "Aie parlé avant leur arrivée.",
+        "en": "Have spoken before their arrival."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "parlant",
+        "example": {
+          "fr": "En parlant, il souriait.",
+          "en": "While speaking, he smiled."
+        }
+      },
+      "past": {
+        "form": "parlé",
+        "example": {
+          "fr": "Parlé avec passion.",
+          "en": "Spoken with passion."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "parler",
+        "example": {
+          "fr": "Il aime parler.",
+          "en": "He likes to speak."
+        }
+      },
+      "past": {
+        "form": "avoir parlé",
+        "example": {
+          "fr": "Après avoir parlé, elle est partie.",
+          "en": "After having spoken, she left."
+        }
+      }
+    }
+  }
+}
+;
+
+    const output = document.getElementById("output");
+
+    function createTable(forms) {
+      const table = document.createElement("table");
+      const header = table.insertRow();
+      header.innerHTML = "<th>Subject</th><th>Conjugation</th>";
+
+      for (const subject in forms) {
+        const row = table.insertRow();
+        row.innerHTML = `<td>${subject}</td><td>${forms[subject]}</td>`;
+      }
+
+      return table;
+    }
+
+    function renderConjugations(conjugations) {
+      for (const tense in conjugations) {
+        const tenseData = conjugations[tense];
+        const section = document.createElement("div");
+        section.className = "tense-section";
+
+        const tenseHeader = document.createElement("h2");
+        tenseHeader.textContent = tense.replace(/_/g, " ").toUpperCase();
+        section.appendChild(tenseHeader);
+
+        // Handle sub-objects like participe.present or infinitif.past
+        if (!tenseData.forms && !tenseData.form) {
+          for (const sub in tenseData) {
+            const subTense = tenseData[sub];
+            const subHeader = document.createElement("h3");
+            subHeader.textContent = sub.toUpperCase();
+            section.appendChild(subHeader);
+
+            if (subTense.form) {
+              const p = document.createElement("p");
+              p.innerHTML = `<strong>Form:</strong> ${subTense.form}`;
+              section.appendChild(p);
+            }
+
+            if (subTense.forms) {
+              section.appendChild(createTable(subTense.forms));
+            }
+
+            if (subTense.example) {
+              const example = document.createElement("div");
+              example.className = "example";
+              example.innerHTML = `
+                <strong>Example:</strong> ${subTense.example.fr}<br>
+                <strong>Translation:</strong> ${subTense.example.en}`;
+              section.appendChild(example);
+            }
+          }
+        } else {
+          // Handle regular tenses
+          if (tenseData.form) {
+            const p = document.createElement("p");
+            p.innerHTML = `<strong>Form:</strong> ${tenseData.form}`;
+            section.appendChild(p);
+          }
+
+          if (tenseData.forms) {
+            section.appendChild(createTable(tenseData.forms));
+          }
+
+          if (tenseData.example) {
+            const example = document.createElement("div");
+            example.className = "example";
+            example.innerHTML = `
+              <strong>Example:</strong> ${tenseData.example.fr}<br>
+              <strong>Translation:</strong> ${tenseData.example.en}`;
+            section.appendChild(example);
+          }
+        }
+
+        output.appendChild(section);
+      }
+    }
+
+    renderConjugations(data.conjugations);
+  </script>
+</body>
+</html>
