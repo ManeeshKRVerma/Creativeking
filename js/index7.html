@@ -106,12 +106,15 @@
   });
 
 async function LoadConjugate() {
+  alert("LoadConjugate")
   const verb = document.getElementById("verbInput").value.toLowerCase();
+  alert(verb)
   const match = verbData.find(item => item.verb.toLowerCase() === verb);
+alert(match)
 
   const output = document.getElementById("output");
   output.innerHTML = "Loading...";
-	alert(data);
+	alert("data");
   if (!match) {
     output.innerHTML = `<p style="color: red;">Verb not found in list.</p>`;
     return;
