@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Searchable Verb Form</title>
+  <title>Rechercher un verbe français</title>
   <style>
 #output {
   margin-top: 30px;
@@ -12,7 +12,7 @@
   background-color: #fdfdfd;
   font-family: "Segoe UI", sans-serif;
   max-width: 800px;
-  font-size: 14px; /* reduced font size */
+  font-size: 12px; /* reduced font size */
   line-height: 1.4;
 }
  
@@ -78,7 +78,7 @@ h3 {
 
 form#verbForm {
   background: #ffffff;
-  padding: 20px 25px;
+  padding: 8px 8px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   max-width: 600px;
@@ -88,8 +88,8 @@ form#verbForm {
 form#verbForm input[type="text"] {
   display: block;
   width: 100%;
-  margin-bottom: 15px;
-  padding: 10px;
+  margin-bottom: 8px; /* Reduced spacing */
+  padding: 8px;        /* Slightly reduced padding */
   font-size: 1em;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -98,21 +98,22 @@ form#verbForm input[type="text"] {
 
 form#verbForm label {
   font-weight: bold;
-  margin-top: 10px;
+  margin-top: 5px;
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 4px; /* Reduced spacing below label */
 }
+
 
 form#verbForm button {
   background-color: #3498db;
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 8px 10px;
   font-size: 1em;
   border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.2s ease;
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 form#verbForm button:hover {
@@ -149,22 +150,22 @@ form#verbForm button:hover {
 </head>
 <body>
 
-<h3>French Verb Lookup & Submit</h3>
+<h3>Recherche et soumission de verbes français</h3>
 
 <form id="verbForm" onsubmit="handleSubmit(event)">
-  <input type="text" id="verbInput" name="verb" placeholder="Type a verb..." autocomplete="off">
+  <input type="text" id="verbInput" name="verb" placeholder="Tapez un verbe anglais/français..." autocomplete="off">
   <div id="autocomplete-list" class="autocomplete-suggestions"></div>
 <br><br>
-  <label for="translation">Translation:</label>
+  <label for="translation">Traduction:</label>
   <input type="text" id="translation" name="translation" readonly>
 <br><br>
-  <label for="similar">Similar Conjugation:</label>
+  <label for="similar">Conjugaison similaire:</label>
   <input type="text" id="similar" name="similar" readonly>
 <br><br>
   <button id="btnLoadConjugate" onclick="LoadConjugate();" type="button">Submit</button>
 </form>
 
-<h1>French Verb Conjugation Viewer</h1>
+<h3>French Verb Conjugation Viewer</h3>
 <div id="output">Loading...</div>
 
 <script>
@@ -186,7 +187,20 @@ form#verbForm button:hover {
       "translation": "to sell",
       "Similar Conj.": "Regular RE Verbs.",
       "File Name": "Vendre.json"
+    },
+    {
+      "verb": "Manger",
+      "translation": "to Eat",
+      "Similar Conj.": "Changer(To Change), Nager(To Swim), Neiger(To Snow), Voyager(To Travel)",
+      "File Name": "Manger.json"
+    },
+    {
+      "verb": "Connaitre",
+      "translation": "To Know",
+      "Similar Conj.": "Connaitre(to Recognize)",
+      "File Name": "Connaitre.json"
     }
+	
   ];
 
   const input = document.getElementById("verbInput");
@@ -225,15 +239,15 @@ form#verbForm button:hover {
   });
 
 async function LoadConjugate() {
-  alert("LoadConjugate")
+  //alert("LoadConjugate")
   const verb = document.getElementById("verbInput").value.toLowerCase();
-  alert(verb)
+  //alert(verb)
   const match = verbData.find(item => item.verb.toLowerCase() === verb);
-alert(match)
+//alert(match)
 
   const output = document.getElementById("output");
   output.innerHTML = "Loading...";
-	alert("data");
+	//alert("data");
   if (!match) {
     output.innerHTML = `<p style="color: red;">Verb not found in list.</p>`;
     return;
