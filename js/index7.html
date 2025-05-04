@@ -57,6 +57,66 @@
   #output p {
     margin: 8px 0;
   }
+  
+  #output p strong {
+  color: #34495e;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  padding: 40px;
+  color: #2c3e50;
+}
+
+h3 {
+  margin-bottom: 10px;
+  color: #34495e;
+}
+
+form#verbForm {
+  background: #ffffff;
+  padding: 20px 25px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  max-width: 600px;
+  margin-bottom: 30px;
+}
+
+form#verbForm input[type="text"] {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+form#verbForm label {
+  font-weight: bold;
+  margin-top: 10px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+form#verbForm button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  margin-top: 10px;
+}
+
+form#verbForm button:hover {
+  background-color: #2980b9;
+}
+
 </style>
 
 
@@ -193,12 +253,23 @@ alert(match)
     LoadConjugate();
   }
 
+
 function renderConjugations(data) {
+  //const output = document.getElementById("output");
+  //const { verb, translation, conjugations } = data;
+
+  //let html = `<h2>${verb} — ${translation}</h2>`;
+
   const output = document.getElementById("output");
   const { verb, translation, conjugations } = data;
 
-  let html = `<h2>${verb} — ${translation}</h2>`;
+  let similar = data["Similar Conj."] || "N/A"; // fallback if missing
 
+  let html = `
+    <h2>${verb} — ${translation}</h2>
+    <p><strong>Similar Conjugation Pattern:</strong> ${similar}</p>
+  `;
+  
   for (const [tense, info] of Object.entries(conjugations)) {
     html += `<h3>${formatTenseLabel(tense)}</h3>`;
 
