@@ -4,6 +4,63 @@
   <meta charset="UTF-8">
   <title>Searchable Verb Form</title>
   <style>
+  #output {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+    font-family: "Segoe UI", sans-serif;
+    max-width: 800px;
+  }
+
+  #output h2 {
+    margin-bottom: 10px;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+  }
+
+  #output h3 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #2980b9;
+    font-size: 1.1em;
+  }
+
+  #output ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 5px;
+  }
+
+  #output ul li {
+    padding: 4px 0;
+    border-bottom: 1px dashed #ddd;
+  }
+
+  #output ul li:last-child {
+    border-bottom: none;
+  }
+
+  #output em {
+    display: block;
+    color: #2c3e50;
+    font-style: italic;
+    margin-top: 5px;
+  }
+
+  #output small {
+    color: #555;
+  }
+
+  #output p {
+    margin: 8px 0;
+  }
+</style>
+
+
+  <style>
     /* Basic styling for autocomplete */
     .autocomplete-suggestions {
       border: 1px solid #ccc;
@@ -35,13 +92,13 @@
 <form id="verbForm" onsubmit="handleSubmit(event)">
   <input type="text" id="verbInput" name="verb" placeholder="Type a verb..." autocomplete="off">
   <div id="autocomplete-list" class="autocomplete-suggestions"></div>
-<br>
+<br><br>
   <label for="translation">Translation:</label>
   <input type="text" id="translation" name="translation" readonly>
-<br>
+<br><br>
   <label for="similar">Similar Conjugation:</label>
   <input type="text" id="similar" name="similar" readonly>
-<br>
+<br><br>
   <button id="btnLoadConjugate" onclick="LoadConjugate();" type="button">Submit</button>
 </form>
 
