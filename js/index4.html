@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Searchable Verb Form</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    .autocomplete-items {
+      position: absolute;
+      border: 1px solid #ccc;
+      border-top: none;
+      z-index: 99;
+      background-color: white;
+      max-height: 150px;
+      overflow-y: auto;
+    }
+    .autocomplete-items div {
+      padding: 10px;
+      cursor: pointer;
+    }
+    .autocomplete-items div:hover {
+      background-color: #f0f0f0;
+    }
+    input, label, button {
+      margin: 10px 0;
+      width: 300px;
+      display: block;
+    }
+	  <!-- body { font-family: Arial, sans-serif; padding: 20px; } -->
+    h1, h2, h3 { color: #2c3e50; }
+    .tense-section { border-top: 1px solid #ccc; margin-top: 25px; padding-top: 10px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border: 1px solid #ccc; padding: 6px 10px; text-align: left; }
+    th { background-color: #f9f9f9; }
+    .example { margin: 10px 0; font-style: italic; color: #555; }
+  </style>
+</head>
+<body>
+
+<h3>French Verb Lookup & Submit</h3>
+
+<form id="verbForm" onsubmit="handleSubmit(event)">
+
+  <!-- Autocomplete Verb Input -->
+  <label for="verbInput">Verb:</label>
+  <input type="text" id="verbInput" name="verb" placeholder="Type a verb..." autocomplete="off">
+  <div id="autocomplete-list" class="autocomplete-items"></div>
+
+  <!-- Auto-filled Fields -->
+  <label for="translation">Translation:</label>
+  <input type="text" id="translation" name="translation" readonly>
+
+  <label for="similar">Similar Conjugation:</label>
+  <input type="text" id="similar" name="similar" readonly>
+
+  <!-- Submit Button -->
+  <button type="submit">Submit</button>
+</form>
+
+<h1>French Verb Conjugation Viewer</h1>
+  <div id="output">Loading...</div>
+  
+<script>
+  const verbData = [
+    {
+      "verb": "parler",
+      "translation": "to speak",
+      "Similar Conj.": "Regular ER Verbs.",
+      "File Name": "Parler.json"
+    },
+    {
+      "verb": "finir",
+      "translation": "to finish",
+      "Similar Conj.": "Regular IR Verbs.",
+      "File Name": "Finir.json"
+    },
+    {
+      "verb": "vendre",
+      "translation": "to sell",
+      "Similar Conj.": "Regular RE Verbs.",
+      "File Name": "Vendre.json"
+    }
+  ];
+
+  const input = document.getElementById('verbInput');
+  const list = document.getElementById('autocomplete-list');
+
+  input.addEventListener('input', function () {
+    const val = this.value.toLowerCase();
+    list.innerHTML = '';
+
+    if (!val) return;
+
+    const matches = verbData.filter(item =>
+      item.verb.toLowerCase().includes(val) ||
+      item.translation.toLowerCase().includes(val) ||
+      item["Similar Conj."].toLowerCase().includes(val) ||
+      item["File Name"].toLowerCase().includes(val)
+    );
+
+    matches.forEach(item => {
+      const div = document.createElement('div');
+      div.textContent = item.verb;
+      div.addEventListener('click', () => {
+        input.value = item.verb;
+        document.getElementById('translation').value = item.translation;
+        document.getElementById('similar').value = item["Similar Conj."];
+        // Store the filename in a hidden variable for submission
+        window.selectedFilename = item["File Name"];
+        list.innerHTML = '';
+      });
+      list.appendChild(div);
+    });
+  });
+
+  document.addEventListener('click', function (e) {
+    if (e.target !== input) {
+      list.innerHTML = '';
+    }
+  });
+
+  // Handle form submission
+  function handleSubmit(event) {
+    event.preventDefault(); // prevent actual form submission
+
+    const data = {
+      verb: document.getElementById('verbInput').value,
+      translation: document.getElementById('translation').value,
+      similar: document.getElementById('similar').value,
+      filename: window.selectedFilename // alert the filename here
+    };
+	fileName = window.selectedFilename
+    //alert('Form Submitted:\n' + JSON.stringify(data, null, 2));
+	loadConjugation(fileName);
+  }
+</script>
+
+<script>
+    async function loadConjugation(fileName) {
+      try { 
+		alert(filename)
+        const res = await fetch('Parler.json');
+		const res = await fetch(fileName);
+        const data = await res.json();
+        document.getElementById("output").innerHTML = "";
+        renderConjugations(data.conjugations);
+      } catch (err) { 
+		document.getElementById("output").innerText = "Error loading JSON file.";
+		console.error(err);
+      }
+    }
+
+    function createTable(forms) {
+      const table = document.createElement("table");
+      const header = table.insertRow();
+      header.innerHTML = "<th>Subject</th><th>Conjugation</th>";
+      for (const subject in forms) {
+        const row = table.insertRow();
+        row.innerHTML = `<td>${subject}</td><td>${forms[subject]}</td>`;
+      }
+      return table;
+    }
+
+    function renderConjugations(conjugations) {
+      const output = document.getElementById("output");
+      for (const tense in conjugations) {
+        const tenseData = conjugations[tense];
+        const section = document.createElement("div");
+        section.className = "tense-section";
+
+        const tenseHeader = document.createElement("h2");
+        tenseHeader.textContent = tense.replace(/_/g, " ").toUpperCase();
+        section.appendChild(tenseHeader);
+
+        if (!tenseData.forms && !tenseData.form) {
+          for (const sub in tenseData) {
+            const subTense = tenseData[sub];
+            const subHeader = document.createElement("h3");
+            subHeader.textContent = sub.toUpperCase();
+            section.appendChild(subHeader);
+
+            if (subTense.form) {
+              const p = document.createElement("p");
+              p.innerHTML = `<strong>Form:</strong> ${subTense.form}`;
+              section.appendChild(p);
+            }
+
+            if (subTense.forms) {
+              section.appendChild(createTable(subTense.forms));
+            }
+
+            if (subTense.example) {
+              const example = document.createElement("div");
+              example.className = "example";
+              example.innerHTML = `
+                <strong>Example:</strong> ${subTense.example.fr}<br>
+                <strong>Translation:</strong> ${subTense.example.en}`;
+              section.appendChild(example);
+            }
+          }
+        } else {
+          if (tenseData.form) {
+            const p = document.createElement("p");
+            p.innerHTML = `<strong>Form:</strong> ${tenseData.form}`;
+            section.appendChild(p);
+          }
+
+          if (tenseData.forms) {
+            section.appendChild(createTable(tenseData.forms));
+          }
+
+          if (tenseData.example) {
+            const example = document.createElement("div");
+            example.className = "example";
+            example.innerHTML = `
+              <strong>Example:</strong> ${tenseData.example.fr}<br>
+              <strong>Translation:</strong> ${tenseData.example.en}`;
+            section.appendChild(example);
+          }
+        }
+
+        output.appendChild(section);
+      }
+    }
+</script>
+    //loadConjugation();
+</body>
+</html>
