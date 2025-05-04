@@ -21,12 +21,11 @@
     async function loadConjugation() {
       try { 
         const res = await fetch('Parler.json');
-        <!-- const data = await res.json(); -->
-        <!-- document.getElementById("output").innerHTML = ""; -->
-        <!-- renderConjugations(data.conjugations); -->
+        const data = await res.json();
+        document.getElementById("output").innerHTML = "";
+        renderConjugations(data.conjugations);
       } catch (err) { 
 		document.getElementById("output").innerText = "Error loading JSON file.";
-		alert(err);
 		console.error(err);
       }
     }
