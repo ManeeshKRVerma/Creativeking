@@ -1,0 +1,270 @@
+{
+  "verb": "vendre",
+  "translation": "to sell",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "vends",
+        "tu": "vends",
+        "il/elle/on": "vend",
+        "nous": "vendons",
+        "vous": "vendez",
+        "ils/elles": "vendent"
+      },
+      "example": {
+        "fr": "Je vends ma voiture.",
+        "en": "I am selling my car."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai vendu",
+        "tu": "as vendu",
+        "il/elle/on": "a vendu",
+        "nous": "avons vendu",
+        "vous": "avez vendu",
+        "ils/elles": "ont vendu"
+      },
+      "example": {
+        "fr": "Ils ont vendu leur maison.",
+        "en": "They sold their house."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "vendis",
+        "tu": "vendis",
+        "il/elle/on": "vendit",
+        "nous": "vendîmes",
+        "vous": "vendîtes",
+        "ils/elles": "vendirent"
+      },
+      "example": {
+        "fr": "Il vendit tous ses biens.",
+        "en": "He sold all his belongings."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "vendais",
+        "tu": "vendais",
+        "il/elle/on": "vendait",
+        "nous": "vendions",
+        "vous": "vendiez",
+        "ils/elles": "vendaient"
+      },
+      "example": {
+        "fr": "Nous vendions des fruits au marché.",
+        "en": "We used to sell fruit at the market."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais vendu",
+        "tu": "avais vendu",
+        "il/elle/on": "avait vendu",
+        "nous": "avions vendu",
+        "vous": "aviez vendu",
+        "ils/elles": "avaient vendu"
+      },
+      "example": {
+        "fr": "J'avais vendu mon vélo avant l'été.",
+        "en": "I had sold my bike before summer."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "vendrai",
+        "tu": "vendras",
+        "il/elle/on": "vendra",
+        "nous": "vendrons",
+        "vous": "vendrez",
+        "ils/elles": "vendront"
+      },
+      "example": {
+        "fr": "Elle vendra ses peintures.",
+        "en": "She will sell her paintings."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de vendre",
+        "tu": "seras en train de vendre",
+        "il/elle/on": "sera en train de vendre",
+        "nous": "serons en train de vendre",
+        "vous": "serez en train de vendre",
+        "ils/elles": "seront en train de vendre"
+      },
+      "example": {
+        "fr": "Je serai en train de vendre au marché.",
+        "en": "I will be selling at the market."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai vendu",
+        "tu": "auras vendu",
+        "il/elle/on": "aura vendu",
+        "nous": "aurons vendu",
+        "vous": "aurez vendu",
+        "ils/elles": "auront vendu"
+      },
+      "example": {
+        "fr": "Vous aurez vendu tout avant midi.",
+        "en": "You will have sold everything before noon."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "vendrais",
+        "tu": "vendrais",
+        "il/elle/on": "vendrait",
+        "nous": "vendrions",
+        "vous": "vendriez",
+        "ils/elles": "vendraient"
+      },
+      "example": {
+        "fr": "Je vendrais si j'avais un acheteur.",
+        "en": "I would sell if I had a buyer."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais vendu",
+        "tu": "aurais vendu",
+        "il/elle/on": "aurait vendu",
+        "nous": "aurions vendu",
+        "vous": "auriez vendu",
+        "ils/elles": "auraient vendu"
+      },
+      "example": {
+        "fr": "Il aurait vendu plus avec une meilleure vitrine.",
+        "en": "He would have sold more with a better display."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "vende",
+        "tu": "vendes",
+        "il/elle/on": "vende",
+        "nous": "vendions",
+        "vous": "vendiez",
+        "ils/elles": "vendent"
+      },
+      "example": {
+        "fr": "Il faut que je vende cette table.",
+        "en": "I must sell this table."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie vendu",
+        "tu": "aies vendu",
+        "il/elle/on": "ait vendu",
+        "nous": "ayons vendu",
+        "vous": "ayez vendu",
+        "ils/elles": "aient vendu"
+      },
+      "example": {
+        "fr": "Je doute qu’elle ait vendu sa robe.",
+        "en": "I doubt that she sold her dress."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "vendisse",
+        "tu": "vendisses",
+        "il/elle/on": "vendît",
+        "nous": "vendissions",
+        "vous": "vendissiez",
+        "ils/elles": "vendissent"
+      },
+      "example": {
+        "fr": "Il fallait qu’il vendît ses parts.",
+        "en": "It was necessary that he sell his shares."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "eusse vendu",
+        "tu": "eusses vendu",
+        "il/elle/on": "eût vendu",
+        "nous": "eussions vendu",
+        "vous": "eussiez vendu",
+        "ils/elles": "eussent vendu"
+      },
+      "example": {
+        "fr": "Si j’eusse vendu à temps, j’aurais évité la perte.",
+        "en": "If I had sold on time, I would have avoided the loss."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus vendu",
+        "tu": "eus vendu",
+        "il/elle/on": "eut vendu",
+        "nous": "eûmes vendu",
+        "vous": "eûtes vendu",
+        "ils/elles": "eurent vendu"
+      },
+      "example": {
+        "fr": "Quand ils eurent vendu, ils partirent.",
+        "en": "When they had sold, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "vends",
+        "nous": "vendons",
+        "vous": "vendez"
+      },
+      "example": {
+        "fr": "Vends-le rapidement !",
+        "en": "Sell it quickly!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie vendu",
+        "nous": "ayons vendu",
+        "vous": "ayez vendu"
+      },
+      "example": {
+        "fr": "Ayez vendu avant leur arrivée.",
+        "en": "Have sold before they arrive."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "vendant",
+        "example": {
+          "fr": "En vendant, il souriait.",
+          "en": "While selling, he smiled."
+        }
+      },
+      "past": {
+        "form": "vendu",
+        "example": {
+          "fr": "Produit vendu avec succès.",
+          "en": "Product sold successfully."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "vendre",
+        "example": {
+          "fr": "Elle veut vendre sa moto.",
+          "en": "She wants to sell her motorcycle."
+        }
+      },
+      "past": {
+        "form": "avoir vendu",
+        "example": {
+          "fr": "Après avoir vendu, il est parti.",
+          "en": "After having sold, he left."
+        }
+      }
+    }
+  }
+}

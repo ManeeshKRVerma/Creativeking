@@ -1,0 +1,270 @@
+{
+  "verb": "finir",
+  "translation": "to finish",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "finis",
+        "tu": "finis",
+        "il/elle/on": "finit",
+        "nous": "finissons",
+        "vous": "finissez",
+        "ils/elles": "finissent"
+      },
+      "example": {
+        "fr": "Je finis mes devoirs.",
+        "en": "I finish my homework."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai fini",
+        "tu": "as fini",
+        "il/elle/on": "a fini",
+        "nous": "avons fini",
+        "vous": "avez fini",
+        "ils/elles": "ont fini"
+      },
+      "example": {
+        "fr": "Nous avons fini le projet.",
+        "en": "We finished the project."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "finis",
+        "tu": "finis",
+        "il/elle/on": "finit",
+        "nous": "finîmes",
+        "vous": "finîtes",
+        "ils/elles": "finirent"
+      },
+      "example": {
+        "fr": "Il finit par accepter.",
+        "en": "He ended up accepting."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "finissais",
+        "tu": "finissais",
+        "il/elle/on": "finissait",
+        "nous": "finissions",
+        "vous": "finissiez",
+        "ils/elles": "finissaient"
+      },
+      "example": {
+        "fr": "Elle finissait toujours en dernière.",
+        "en": "She always finished last."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais fini",
+        "tu": "avais fini",
+        "il/elle/on": "avait fini",
+        "nous": "avions fini",
+        "vous": "aviez fini",
+        "ils/elles": "avaient fini"
+      },
+      "example": {
+        "fr": "Ils avaient fini avant nous.",
+        "en": "They had finished before us."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "finirai",
+        "tu": "finiras",
+        "il/elle/on": "finira",
+        "nous": "finirons",
+        "vous": "finirez",
+        "ils/elles": "finiront"
+      },
+      "example": {
+        "fr": "Je finirai demain.",
+        "en": "I will finish tomorrow."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de finir",
+        "tu": "seras en train de finir",
+        "il/elle/on": "sera en train de finir",
+        "nous": "serons en train de finir",
+        "vous": "serez en train de finir",
+        "ils/elles": "seront en train de finir"
+      },
+      "example": {
+        "fr": "Ils seront en train de finir leur repas.",
+        "en": "They will be finishing their meal."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai fini",
+        "tu": "auras fini",
+        "il/elle/on": "aura fini",
+        "nous": "aurons fini",
+        "vous": "aurez fini",
+        "ils/elles": "auront fini"
+      },
+      "example": {
+        "fr": "Tu auras fini avant midi.",
+        "en": "You will have finished before noon."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "finirais",
+        "tu": "finirais",
+        "il/elle/on": "finirait",
+        "nous": "finirions",
+        "vous": "finiriez",
+        "ils/elles": "finiraient"
+      },
+      "example": {
+        "fr": "Je finirais si j'avais plus de temps.",
+        "en": "I would finish if I had more time."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais fini",
+        "tu": "aurais fini",
+        "il/elle/on": "aurait fini",
+        "nous": "aurions fini",
+        "vous": "auriez fini",
+        "ils/elles": "auraient fini"
+      },
+      "example": {
+        "fr": "Elle aurait fini plus tôt avec de l'aide.",
+        "en": "She would have finished earlier with help."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "finisse",
+        "tu": "finisses",
+        "il/elle/on": "finisse",
+        "nous": "finissions",
+        "vous": "finissiez",
+        "ils/elles": "finissent"
+      },
+      "example": {
+        "fr": "Il faut que tu finisses avant la nuit.",
+        "en": "You must finish before nightfall."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie fini",
+        "tu": "aies fini",
+        "il/elle/on": "ait fini",
+        "nous": "ayons fini",
+        "vous": "ayez fini",
+        "ils/elles": "aient fini"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait fini.",
+        "en": "I doubt that he has finished."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "finisse",
+        "tu": "finisses",
+        "il/elle/on": "finît",
+        "nous": "finissions",
+        "vous": "finissiez",
+        "ils/elles": "finissent"
+      },
+      "example": {
+        "fr": "Il fallait qu'elle finît rapidement.",
+        "en": "It was necessary that she finished quickly."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "eusse fini",
+        "tu": "eusses fini",
+        "il/elle/on": "eût fini",
+        "nous": "eussions fini",
+        "vous": "eussiez fini",
+        "ils/elles": "eussent fini"
+      },
+      "example": {
+        "fr": "Si j’eusse fini plus tôt, j’aurais pu venir.",
+        "en": "If I had finished earlier, I could have come."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus fini",
+        "tu": "eus fini",
+        "il/elle/on": "eut fini",
+        "nous": "eûmes fini",
+        "vous": "eûtes fini",
+        "ils/elles": "eurent fini"
+      },
+      "example": {
+        "fr": "Dès qu’ils eurent fini, ils sortirent.",
+        "en": "As soon as they had finished, they went out."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "finis",
+        "nous": "finissons",
+        "vous": "finissez"
+      },
+      "example": {
+        "fr": "Finis ton assiette !",
+        "en": "Finish your plate!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie fini",
+        "nous": "ayons fini",
+        "vous": "ayez fini"
+      },
+      "example": {
+        "fr": "Aie fini avant qu'ils arrivent.",
+        "en": "Have finished before they arrive."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "finissant",
+        "example": {
+          "fr": "En finissant, il a souri.",
+          "en": "While finishing, he smiled."
+        }
+      },
+      "past": {
+        "form": "fini",
+        "example": {
+          "fr": "Travail fini, il est parti.",
+          "en": "Work finished, he left."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "finir",
+        "example": {
+          "fr": "Elle aime finir les puzzles.",
+          "en": "She likes to finish puzzles."
+        }
+      },
+      "past": {
+        "form": "avoir fini",
+        "example": {
+          "fr": "Après avoir fini, ils ont célébré.",
+          "en": "After having finished, they celebrated."
+        }
+      }
+    }
+  }
+}

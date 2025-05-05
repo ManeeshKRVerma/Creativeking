@@ -155,14 +155,17 @@ form#verbForm button:hover {
 <form id="verbForm" onsubmit="handleSubmit(event)">
   <input type="text" id="verbInput" name="verb" placeholder="Tapez un verbe anglais/français..." autocomplete="off">
   <div id="autocomplete-list" class="autocomplete-suggestions"></div>
-<br><br>
+<br>
   <label for="translation">Traduction:</label>
   <input type="text" id="translation" name="translation" readonly>
-<br><br>
+<br>
   <label for="similar">Conjugaison similaire:</label>
-  <input type="text" id="similar" name="similar" readonly>
-<br><br>
-  <button id="btnLoadConjugate" onclick="LoadConjugate();" type="button">Submit</button>
+  <textarea id="similar" name="similar" rows="8" cols="78">
+</textarea>
+
+  <!-- <input type="text" id="similar" name="similar" readonly> -->
+<br>
+  <button id="btnLoadConjugate" onclick="LoadConjugate();" type="button">Soumission</button>
 </form>
 
 <h3>French Verb Conjugation Viewer</h3>
@@ -177,18 +180,74 @@ form#verbForm button:hover {
       "File Name": "Parler.json"
     },
     {
+    "verb": "aimer",
+    "translation": "to like / to love",
+    "Similar Conj.": "Regular ER Verbs.",
+    "File Name": "Parler.json"
+  },
+  {
+    "verb": "aider",
+    "translation": "to help",
+    "Similar Conj.": "Regular ER Verbs.",
+    "File Name": "Parler.json"
+  },
+  {
+    "verb": "chanter",
+    "translation": "to sing",
+    "Similar Conj.": "Regular ER Verbs.",
+    "File Name": "Parler.json"
+  },
+  {
+    "verb": "écouter",
+    "translation": "to listen",
+    "Similar Conj.": "Regular ER Verbs.",
+    "File Name": "Parler.json"
+  },
+  {
+    "verb": "étudier",
+    "translation": "to study",
+    "Similar Conj.": "Regular ER Verbs.",
+    "File Name": "Parler.json"
+  },
+	{
       "verb": "finir",
       "translation": "to finish",
       "Similar Conj.": "Regular IR Verbs.",
       "File Name": "Finir.json"
     },
+      {
+    "verb": "choisir",
+    "translation": "to choose",
+    "Similar Conj.": "Regular IR Verbs.",
+    "File Name": "Finir.json"
+  },
+  {
+    "verb": "réussir",
+    "translation": "to succeed",
+    "Similar Conj.": "Regular IR Verbs.",
+    "File Name": "Finir.json"
+  },
     {
       "verb": "vendre",
       "translation": "to sell",
       "Similar Conj.": "Regular RE Verbs.",
       "File Name": "Vendre.json"
     },
-    {
+  {
+    "verb": "attendre",
+    "translation": "to wait",
+    "Similar Conj.": "Regular RE Verbs.",
+    "File Name": "Vendre.json"
+  },
+  {
+    "verb": "répondre",
+    "translation": "to answer",
+    "Similar Conj.": "Regular RE Verbs.",
+    "File Name": "Vendre.json"
+  },
+
+
+	{
       "verb": "Manger",
       "translation": "to Eat",
       "Similar Conj.": "Changer(To Change), Nager(To Swim), Neiger(To Snow), Voyager(To Travel)",
@@ -197,10 +256,11 @@ form#verbForm button:hover {
     {
       "verb": "Connaitre",
       "translation": "To Know",
-      "Similar Conj.": "Connaitre(to Recognize)",
+      "Similar Conj.": "Reconnaitre(To Recognize)",
       "File Name": "Connaitre.json"
     }
 	
+
   ];
 
   const input = document.getElementById("verbInput");
