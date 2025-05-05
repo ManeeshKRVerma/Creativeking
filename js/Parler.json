@@ -86,6 +86,20 @@
         "en": "I will speak tomorrow."
       }
     },
+	"futur_proche": {
+    "forms": {
+      "je": "vais parler",
+      "tu": "vas parler",
+      "il/elle/on": "va parler",
+      "nous": "allons parler",
+      "vous": "allez parler",
+      "ils/elles": "vont parler"
+    },
+    "example": {
+      "fr": "Je vais parler avec lui demain.",
+      "en": "I am going to speak with him tomorrow."
+    }
+  },
     "futur_continu": {
       "forms": {
         "je": "serai en train de parler",
