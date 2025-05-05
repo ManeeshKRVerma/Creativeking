@@ -86,6 +86,20 @@
         "en": "She will sell her paintings."
       }
     },
+	 "futur_proche": {
+    "forms": {
+      "je": "vais vendre",
+      "tu": "vas vendre",
+      "il/elle/on": "va vendre",
+      "nous": "allons vendre",
+      "vous": "allez vendre",
+      "ils/elles": "vont vendre"
+    },
+    "example": {
+      "fr": "Ils vont vendre leur voiture.",
+      "en": "They are going to sell their car."
+    }
+  },
     "futur_continu": {
       "forms": {
         "je": "serai en train de vendre",

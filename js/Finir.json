@@ -86,6 +86,20 @@
         "en": "I will finish tomorrow."
       }
     },
+	"futur_proche": {
+    "forms": {
+      "je": "vais finir",
+      "tu": "vas finir",
+      "il/elle/on": "va finir",
+      "nous": "allons finir",
+      "vous": "allez finir",
+      "ils/elles": "vont finir"
+    },
+    "example": {
+      "fr": "Je vais finir mes devoirs ce soir.",
+      "en": "I am going to finish my homework tonight."
+    }
+  },
     "futur_continu": {
       "forms": {
         "je": "serai en train de finir",
