@@ -1,0 +1,171 @@
+{
+  "verb": "manger",
+  "translation": "to eat",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "mange",
+        "tu": "manges",
+        "il/elle/on": "mange",
+        "nous": "mangeons",
+        "vous": "mangez",
+        "ils/elles": "mangent"
+      },
+      "example": {
+        "fr": "Je mange une pomme.",
+        "en": "I am eating an apple."
+      }
+    },
+    "passé_composé": {
+      "forms": {
+        "je": "ai mangé",
+        "tu": "as mangé",
+        "il/elle/on": "a mangé",
+        "nous": "avons mangé",
+        "vous": "avez mangé",
+        "ils/elles": "ont mangé"
+      },
+      "example": {
+        "fr": "J'ai mangé une pizza hier.",
+        "en": "I ate a pizza yesterday."
+      }
+    },
+    "passé_simple": {
+      "forms": {
+        "je": "mangeai",
+        "tu": "mangeas",
+        "il/elle/on": "mangea",
+        "nous": " mangeâmes",
+        "vous": " mangeâtes",
+        "ils/elles": "mangèrent"
+      },
+      "example": {
+        "fr": "Je mangeai une salade au déjeuner.",
+        "en": "I ate a salad for lunch."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "mangeais",
+        "tu": "mangeais",
+        "il/elle/on": "mangeait",
+        "nous": "mangions",
+        "vous": "mangiez",
+        "ils/elles": "mangeaient"
+      },
+      "example": {
+        "fr": "Je mangeais toujours à 7 heures.",
+        "en": "I used to eat at 7 o'clock."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais mangé",
+        "tu": "avais mangé",
+        "il/elle/on": "avait mangé",
+        "nous": "avions mangé",
+        "vous": "aviez mangé",
+        "ils/elles": "avaient mangé"
+      },
+      "example": {
+        "fr": "J'avais mangé avant de partir.",
+        "en": "I had eaten before leaving."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "mangerai",
+        "tu": "mangeras",
+        "il/elle/on": "mangera",
+        "nous": "mangerons",
+        "vous": "mangerez",
+        "ils/elles": "mangeront"
+      },
+      "example": {
+        "fr": "Je mangerai plus tard.",
+        "en": "I will eat later."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais manger",
+        "tu": "vas manger",
+        "il/elle/on": "va manger",
+        "nous": "allons manger",
+        "vous": "allez manger",
+        "ils/elles": "vont manger"
+      },
+      "example": {
+        "fr": "Je vais manger maintenant.",
+        "en": "I am going to eat now."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "mangerais",
+        "tu": "mangerais",
+        "il/elle/on": "mangerait",
+        "nous": "mangerions",
+        "vous": "mangeriez",
+        "ils/elles": "mangeraient"
+      },
+      "example": {
+        "fr": "Je mangerais un gâteau si j'avais faim.",
+        "en": "I would eat a cake if I were hungry."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "que_je": "mange",
+        "que_tu": "manges",
+        "qu_il_elle_on": "mange",
+        "que_nous": "mangions",
+        "que_vous": "mangiez",
+        "qu_ils_elles": "mangent"
+      },
+      "example": {
+        "fr": "Il faut que je mange avant de partir.",
+        "en": "It is necessary that I eat before leaving."
+      }
+    },
+    "past_subjunctive": {
+      "forms": {
+        "que_je": "aie mangé",
+        "que_tu": "aies mangé",
+        "qu_il_elle_on": "ait mangé",
+        "que_nous": "ayons mangé",
+        "que_vous": "ayez mangé",
+        "qu_ils_elles": "aient mangé"
+      },
+      "example": {
+        "fr": "Je doute que j'aie mangé assez.",
+        "en": "I doubt that I ate enough."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "mange",
+        "nous": "mangeons",
+        "vous": "mangez"
+      },
+      "example": {
+        "fr": "Mangez vos légumes !",
+        "en": "Eat your vegetables!"
+      }
+    },
+    "present_infinitive": {
+      "form": "manger",
+      "example": {
+        "fr": "Je veux manger maintenant.",
+        "en": "I want to eat now."
+      }
+    },
+    "past_infinitive": {
+      "form": "avoir mangé",
+      "example": {
+        "fr": "Après avoir mangé, il est parti.",
+        "en": "After having eaten, he left."
+      }
+    }
+  }
+}
