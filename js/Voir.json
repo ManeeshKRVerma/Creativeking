@@ -1,0 +1,284 @@
+{
+  "verb": "voir",
+  "translation": "to see",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "vois",
+        "tu": "vois",
+        "il/elle/on": "voit",
+        "nous": "voyons",
+        "vous": "voyez",
+        "ils/elles": "voient"
+      },
+      "example": {
+        "fr": "Je vois un film.",
+        "en": "I see a movie."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai vu",
+        "tu": "as vu",
+        "il/elle/on": "a vu",
+        "nous": "avons vu",
+        "vous": "avez vu",
+        "ils/elles": "ont vu"
+      },
+      "example": {
+        "fr": "Nous avons vu un film hier soir.",
+        "en": "We saw a movie last night."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "vis",
+        "tu": "vis",
+        "il/elle/on": "vit",
+        "nous": "vîmes",
+        "vous": "vîtes",
+        "ils/elles": "virent"
+      },
+      "example": {
+        "fr": "Il vit un oiseau rare.",
+        "en": "He saw a rare bird."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "voyais",
+        "tu": "voyais",
+        "il/elle/on": "voyait",
+        "nous": "voyions",
+        "vous": "voyiez",
+        "ils/elles": "voyaient"
+      },
+      "example": {
+        "fr": "Je voyais souvent Marie dans ce café.",
+        "en": "I used to see Marie often in this café."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais vu",
+        "tu": "avais vu",
+        "il/elle/on": "avait vu",
+        "nous": "avions vu",
+        "vous": "aviez vu",
+        "ils/elles": "avaient vu"
+      },
+      "example": {
+        "fr": "Ils avaient vu ce film avant.",
+        "en": "They had seen that movie before."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "verrai",
+        "tu": "verras",
+        "il/elle/on": "verra",
+        "nous": "verrons",
+        "vous": "verrez",
+        "ils/elles": "verront"
+      },
+      "example": {
+        "fr": "Je verrai Marie demain.",
+        "en": "I will see Marie tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais voir",
+        "tu": "vas voir",
+        "il/elle/on": "va voir",
+        "nous": "allons voir",
+        "vous": "allez voir",
+        "ils/elles": "vont voir"
+      },
+      "example": {
+        "fr": "Je vais voir un médecin.",
+        "en": "I am going to see a doctor."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de voir",
+        "tu": "seras en train de voir",
+        "il/elle/on": "sera en train de voir",
+        "nous": "serons en train de voir",
+        "vous": "serez en train de voir",
+        "ils/elles": "seront en train de voir"
+      },
+      "example": {
+        "fr": "Je serai en train de voir un film.",
+        "en": "I will be watching a movie."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai vu",
+        "tu": "auras vu",
+        "il/elle/on": "aura vu",
+        "nous": "aurons vu",
+        "vous": "aurez vu",
+        "ils/elles": "auront vu"
+      },
+      "example": {
+        "fr": "Tu auras vu ce film avant demain.",
+        "en": "You will have seen this movie before tomorrow."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "verrais",
+        "tu": "verrais",
+        "il/elle/on": "verrait",
+        "nous": "verrions",
+        "vous": "verriez",
+        "ils/elles": "verraient"
+      },
+      "example": {
+        "fr": "Je verrais un médecin si j'étais malade.",
+        "en": "I would see a doctor if I were sick."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais vu",
+        "tu": "aurais vu",
+        "il/elle/on": "aurait vu",
+        "nous": "aurions vu",
+        "vous": "auriez vu",
+        "ils/elles": "auraient vu"
+      },
+      "example": {
+        "fr": "Ils auraient vu le film s'ils avaient eu le temps.",
+        "en": "They would have seen the movie if they had had the time."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "voie",
+        "tu": "voies",
+        "il/elle/on": "voie",
+        "nous": "voyions",
+        "vous": "voyiez",
+        "ils/elles": "voient"
+      },
+      "example": {
+        "fr": "Il faut que je voie un médecin.",
+        "en": "I must see a doctor."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie vu",
+        "tu": "aies vu",
+        "il/elle/on": "ait vu",
+        "nous": "ayons vu",
+        "vous": "ayez vu",
+        "ils/elles": "aient vu"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait vu cela.",
+        "en": "I doubt he saw that."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "visse",
+        "tu": "visses",
+        "il/elle/on": "vît",
+        "nous": "vissions",
+        "vous": "vissiez",
+        "ils/elles": "vissent"
+      },
+      "example": {
+        "fr": "Il fallait que tu visses ce film.",
+        "en": "It was necessary that you saw this movie."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "fusse vu",
+        "tu": "fusses vu",
+        "il/elle/on": "fût vu",
+        "nous": "fussions vu",
+        "vous": "fussiez vu",
+        "ils/elles": "fussent vu"
+      },
+      "example": {
+        "fr": "Si tu eusses vu cela, tu aurais compris.",
+        "en": "If you had seen that, you would have understood."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus vu",
+        "tu": "eus vu",
+        "il/elle/on": "eut vu",
+        "nous": "eûmes vu",
+        "vous": "eûtes vu",
+        "ils/elles": "eurent vu"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent vu le film, ils partirent.",
+        "en": "As soon as they had seen the movie, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "vois",
+        "nous": "voyons",
+        "vous": "voyez"
+      },
+      "example": {
+        "fr": "Vois ce que tu as fait !",
+        "en": "See what you have done!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie vu",
+        "nous": "ayons vu",
+        "vous": "ayez vu"
+      },
+      "example": {
+        "fr": "Aie vu le film avant qu'il ne parte.",
+        "en": "Have seen the movie before it leaves."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "voyant",
+        "example": {
+          "fr": "Voyant le résultat, il sourit.",
+          "en": "Seeing the result, he smiled."
+        }
+      },
+      "past": {
+        "form": "vu",
+        "example": {
+          "fr": "Film vu avec plaisir.",
+          "en": "Movie seen with pleasure."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "voir",
+        "example": {
+          "fr": "Il aime voir des films.",
+          "en": "He likes to see movies."
+        }
+      },
+      "past": {
+        "form": "avoir vu",
+        "example": {
+          "fr": "Après avoir vu le film, nous sommes partis.",
+          "en": "After having seen the movie, we left."
+        }
+      }
+    }
+  }
+}

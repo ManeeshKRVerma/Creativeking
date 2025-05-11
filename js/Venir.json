@@ -1,0 +1,284 @@
+{
+  "verb": "venir",
+  "translation": "to come",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "viens",
+        "tu": "viens",
+        "il/elle/on": "vient",
+        "nous": "venons",
+        "vous": "venez",
+        "ils/elles": "viennent"
+      },
+      "example": {
+        "fr": "Je viens de Paris.",
+        "en": "I come from Paris."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "suis venu",
+        "tu": "es venu",
+        "il/elle/on": "est venu",
+        "nous": "sommes venus",
+        "vous": "êtes venus",
+        "ils/elles": "sont venus"
+      },
+      "example": {
+        "fr": "Nous sommes venus à pied.",
+        "en": "We came on foot."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "venus",
+        "tu": "venus",
+        "il/elle/on": "vint",
+        "nous": "vînmes",
+        "vous": "vîntes",
+        "ils/elles": "vinrent"
+      },
+      "example": {
+        "fr": "Il vint voir ce film.",
+        "en": "He came to see the movie."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "venais",
+        "tu": "venais",
+        "il/elle/on": "venait",
+        "nous": "venions",
+        "vous": "veniez",
+        "ils/elles": "venaient"
+      },
+      "example": {
+        "fr": "Elle venait souvent chez nous.",
+        "en": "She used to come to our house often."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "étais venu",
+        "tu": "étais venu",
+        "il/elle/on": "était venu",
+        "nous": "étions venus",
+        "vous": "étiez venus",
+        "ils/elles": "étaient venus"
+      },
+      "example": {
+        "fr": "Ils étaient venus avant la pluie.",
+        "en": "They had come before the rain."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "viendrai",
+        "tu": "viendras",
+        "il/elle/on": "viendra",
+        "nous": "viendrons",
+        "vous": "viendrez",
+        "ils/elles": "viendront"
+      },
+      "example": {
+        "fr": "Je viendrai demain.",
+        "en": "I will come tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais venir",
+        "tu": "vas venir",
+        "il/elle/on": "va venir",
+        "nous": "allons venir",
+        "vous": "allez venir",
+        "ils/elles": "vont venir"
+      },
+      "example": {
+        "fr": "Je vais venir chez toi demain.",
+        "en": "I am going to come to your place tomorrow."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de venir",
+        "tu": "seras en train de venir",
+        "il/elle/on": "sera en train de venir",
+        "nous": "serons en train de venir",
+        "vous": "serez en train de venir",
+        "ils/elles": "seront en train de venir"
+      },
+      "example": {
+        "fr": "Je serai en train de venir à 10 heures.",
+        "en": "I will be coming at 10 o'clock."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "serai venu",
+        "tu": "seras venu",
+        "il/elle/on": "sera venu",
+        "nous": "serons venus",
+        "vous": "serez venus",
+        "ils/elles": "seront venus"
+      },
+      "example": {
+        "fr": "Tu seras venu avant midi.",
+        "en": "You will have come before noon."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "viendrais",
+        "tu": "viendrais",
+        "il/elle/on": "viendrait",
+        "nous": "viendrions",
+        "vous": "viendriez",
+        "ils/elles": "viendraient"
+      },
+      "example": {
+        "fr": "Je viendrais si j'avais le temps.",
+        "en": "I would come if I had time."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "serais venu",
+        "tu": "serais venu",
+        "il/elle/on": "serait venu",
+        "nous": "serions venus",
+        "vous": "seriez venus",
+        "ils/elles": "seraient venus"
+      },
+      "example": {
+        "fr": "Elle serait venue si elle avait su.",
+        "en": "She would have come if she had known."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "vienne",
+        "tu": "viennes",
+        "il/elle/on": "vienne",
+        "nous": "venions",
+        "vous": "veniez",
+        "ils/elles": "viennent"
+      },
+      "example": {
+        "fr": "Il faut que je vienne.",
+        "en": "I must come."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "sois venu",
+        "tu": "sois venu",
+        "il/elle/on": "soit venu",
+        "nous": "soyons venus",
+        "vous": "soyez venus",
+        "ils/elles": "soient venus"
+      },
+      "example": {
+        "fr": "Je doute qu'il soit venu.",
+        "en": "I doubt he came."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "vîntse",
+        "tu": "vîntses",
+        "il/elle/on": "vînt",
+        "nous": "vînssions",
+        "vous": "vînssiez",
+        "ils/elles": "vîntssent"
+      },
+      "example": {
+        "fr": "Il fallait qu'il vînt.",
+        "en": "It was necessary for him to come."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "fusse venu",
+        "tu": "fusses venu",
+        "il/elle/on": "fût venu",
+        "nous": "fussions venus",
+        "vous": "fussiez venus",
+        "ils/elles": "fussent venus"
+      },
+      "example": {
+        "fr": "Si j'eusse venu, il aurait été content.",
+        "en": "If I had come, he would have been happy."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus venu",
+        "tu": "eus venu",
+        "il/elle/on": "eut venu",
+        "nous": "eûmes venu",
+        "vous": "eûtes venu",
+        "ils/elles": "eurent venu"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent venu, ils partirent.",
+        "en": "As soon as they had come, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "viens",
+        "nous": "venons",
+        "vous": "venez"
+      },
+      "example": {
+        "fr": "Viens ici !",
+        "en": "Come here!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "sois venu",
+        "nous": "soyons venus",
+        "vous": "soyez venus"
+      },
+      "example": {
+        "fr": "Sois venu avant 6 heures.",
+        "en": "Be here before 6 o'clock."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "venant",
+        "example": {
+          "fr": "En venant, il a oublié son sac.",
+          "en": "By coming, he forgot his bag."
+        }
+      },
+      "past": {
+        "form": "venu",
+        "example": {
+          "fr": "Film venu.",
+          "en": "A film that came."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "venir",
+        "example": {
+          "fr": "Je veux venir.",
+          "en": "I want to come."
+        }
+      },
+      "past": {
+        "form": "être venu",
+        "example": {
+          "fr": "Après être venu, il est parti.",
+          "en": "After coming, he left."
+        }
+      }
+    }
+  }
+}

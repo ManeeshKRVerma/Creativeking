@@ -1,0 +1,284 @@
+{
+  "verb": "suivre",
+  "translation": "to follow",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "suis",
+        "tu": "suivis",
+        "il/elle/on": "suit",
+        "nous": "suivons",
+        "vous": "suivez",
+        "ils/elles": "suivent"
+      },
+      "example": {
+        "fr": "Je suis mes rêves.",
+        "en": "I follow my dreams."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai suivi",
+        "tu": "as suivi",
+        "il/elle/on": "a suivi",
+        "nous": "avons suivi",
+        "vous": "avez suivi",
+        "ils/elles": "ont suivi"
+      },
+      "example": {
+        "fr": "Nous avons suivi le même chemin.",
+        "en": "We followed the same path."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "vis",
+        "tu": "vis",
+        "il/elle/on": "vit",
+        "nous": "vîmes",
+        "vous": "vîtes",
+        "ils/elles": "virent"
+      },
+      "example": {
+        "fr": "Il suivit la route jusqu'à la fin.",
+        "en": "He followed the road until the end."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "suivais",
+        "tu": "suivais",
+        "il/elle/on": "suivait",
+        "nous": "suivions",
+        "vous": "suiviez",
+        "ils/elles": "suivaient"
+      },
+      "example": {
+        "fr": "Elle suivait toujours les conseils de sa mère.",
+        "en": "She always followed her mother's advice."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais suivi",
+        "tu": "avais suivi",
+        "il/elle/on": "avait suivi",
+        "nous": "avions suivi",
+        "vous": "aviez suivi",
+        "ils/elles": "avaient suivi"
+      },
+      "example": {
+        "fr": "Ils avaient suivi une formation avant de commencer le travail.",
+        "en": "They had followed training before starting the job."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "suivrai",
+        "tu": "suivras",
+        "il/elle/on": "suivra",
+        "nous": "suivrons",
+        "vous": "suivrez",
+        "ils/elles": "suivront"
+      },
+      "example": {
+        "fr": "Je suivrai un cours de photographie demain.",
+        "en": "I will follow a photography course tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais suivre",
+        "tu": "vas suivre",
+        "il/elle/on": "va suivre",
+        "nous": "allons suivre",
+        "vous": "allez suivre",
+        "ils/elles": "vont suivre"
+      },
+      "example": {
+        "fr": "Je vais suivre le match ce soir.",
+        "en": "I am going to follow the match tonight."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de suivre",
+        "tu": "seras en train de suivre",
+        "il/elle/on": "sera en train de suivre",
+        "nous": "serons en train de suivre",
+        "vous": "serez en train de suivre",
+        "ils/elles": "seront en train de suivre"
+      },
+      "example": {
+        "fr": "Ils seront en train de suivre le guide pendant la visite.",
+        "en": "They will be following the guide during the tour."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai suivi",
+        "tu": "auras suivi",
+        "il/elle/on": "aura suivi",
+        "nous": "aurons suivi",
+        "vous": "aurez suivi",
+        "ils/elles": "auront suivi"
+      },
+      "example": {
+        "fr": "Tu auras suivi toutes les instructions avant la fin de la journée.",
+        "en": "You will have followed all the instructions by the end of the day."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "suivrais",
+        "tu": "suivrais",
+        "il/elle/on": "suivrait",
+        "nous": "suivrions",
+        "vous": "suivriez",
+        "ils/elles": "suivraient"
+      },
+      "example": {
+        "fr": "Je suivrais ce chemin si je n'étais pas pressé.",
+        "en": "I would follow this path if I weren't in a hurry."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais suivi",
+        "tu": "aurais suivi",
+        "il/elle/on": "aurait suivi",
+        "nous": "aurions suivi",
+        "vous": "auriez suivi",
+        "ils/elles": "auraient suivi"
+      },
+      "example": {
+        "fr": "Elle aurait suivi son intuition si elle avait eu plus de temps.",
+        "en": "She would have followed her intuition if she had had more time."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "suive",
+        "tu": "suives",
+        "il/elle/on": "suive",
+        "nous": "suivions",
+        "vous": "suiviez",
+        "ils/elles": "suivent"
+      },
+      "example": {
+        "fr": "Il faut que je suive les règles.",
+        "en": "I must follow the rules."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie suivi",
+        "tu": "aies suivi",
+        "il/elle/on": "ait suivi",
+        "nous": "ayons suivi",
+        "vous": "ayez suivi",
+        "ils/elles": "aient suivi"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait suivi les instructions correctement.",
+        "en": "I doubt that he followed the instructions correctly."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "suive",
+        "tu": "suives",
+        "il/elle/on": "suive",
+        "nous": "suivions",
+        "vous": "suiviez",
+        "ils/elles": "suivent"
+      },
+      "example": {
+        "fr": "Il fallait qu'il suive la procédure.",
+        "en": "It was necessary that he followed the procedure."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "fusse suivi",
+        "tu": "fusses suivi",
+        "il/elle/on": "fût suivi",
+        "nous": "fussions suivi",
+        "vous": "fussiez suivi",
+        "ils/elles": "fussent suivi"
+      },
+      "example": {
+        "fr": "Si j'eusse suivi les conseils, j'aurais évité l'erreur.",
+        "en": "If I had followed the advice, I would have avoided the mistake."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus suivi",
+        "tu": "eus suivi",
+        "il/elle/on": "eut suivi",
+        "nous": "eûmes suivi",
+        "vous": "eûtes suivi",
+        "ils/elles": "eurent suivi"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent suivi les étapes, ils réussissent.",
+        "en": "As soon as they had followed the steps, they succeeded."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "suis",
+        "nous": "suivons",
+        "vous": "suivez"
+      },
+      "example": {
+        "fr": "Suivez-moi !",
+        "en": "Follow me!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie suivi",
+        "nous": "ayons suivi",
+        "vous": "ayez suivi"
+      },
+      "example": {
+        "fr": "Aie suivi les règles avant de commencer.",
+        "en": "Have followed the rules before starting."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "suivant",
+        "example": {
+          "fr": "En suivant les instructions, vous réussirez.",
+          "en": "By following the instructions, you will succeed."
+        }
+      },
+      "past": {
+        "form": "suivi",
+        "example": {
+          "fr": "Après avoir suivi le cours, il a obtenu son diplôme.",
+          "en": "After having followed the course, he obtained his diploma."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "suivre",
+        "example": {
+          "fr": "J'aime suivre de nouveaux défis.",
+          "en": "I like to follow new challenges."
+        }
+      },
+      "past": {
+        "form": "avoir suivi",
+        "example": {
+          "fr": "Après avoir suivi les conseils, elle a pris une décision.",
+          "en": "After having followed the advice, she made a decision."
+        }
+      }
+    }
+  }
+}

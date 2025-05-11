@@ -1,0 +1,284 @@
+{
+  "verb": "rire",
+  "translation": "to laugh",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "ris",
+        "tu": "ris",
+        "il/elle/on": "rit",
+        "nous": "rions",
+        "vous": "riez",
+        "ils/elles": "rient"
+      },
+      "example": {
+        "fr": "Je ris toujours aux blagues.",
+        "en": "I always laugh at jokes."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai ri",
+        "tu": "as ri",
+        "il/elle/on": "a ri",
+        "nous": "avons ri",
+        "vous": "avez ri",
+        "ils/elles": "ont ri"
+      },
+      "example": {
+        "fr": "Nous avons ri toute la soirée.",
+        "en": "We laughed all evening."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "ris",
+        "tu": "ris",
+        "il/elle/on": "rit",
+        "nous": "rîmes",
+        "vous": "rîtes",
+        "ils/elles": "rirent"
+      },
+      "example": {
+        "fr": "Il rit fort pendant la réunion.",
+        "en": "He laughed loudly during the meeting."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "riais",
+        "tu": "riais",
+        "il/elle/on": "riait",
+        "nous": "riions",
+        "vous": "riiez",
+        "ils/elles": "riaient"
+      },
+      "example": {
+        "fr": "Elle riait souvent avec ses amis.",
+        "en": "She used to laugh often with her friends."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais ri",
+        "tu": "avais ri",
+        "il/elle/on": "avait ri",
+        "nous": "avions ri",
+        "vous": "aviez ri",
+        "ils/elles": "avaient ri"
+      },
+      "example": {
+        "fr": "Ils avaient ri avant l'incident.",
+        "en": "They had laughed before the incident."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "rirai",
+        "tu": "riras",
+        "il/elle/on": "rira",
+        "nous": "rirons",
+        "vous": "rirez",
+        "ils/elles": "riront"
+      },
+      "example": {
+        "fr": "Je rirai à cette blague demain.",
+        "en": "I will laugh at that joke tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais rire",
+        "tu": "vas rire",
+        "il/elle/on": "va rire",
+        "nous": "allons rire",
+        "vous": "allez rire",
+        "ils/elles": "vont rire"
+      },
+      "example": {
+        "fr": "Je vais rire avec eux demain.",
+        "en": "I am going to laugh with them tomorrow."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de rire",
+        "tu": "seras en train de rire",
+        "il/elle/on": "sera en train de rire",
+        "nous": "serons en train de rire",
+        "vous": "serez en train de rire",
+        "ils/elles": "seront en train de rire"
+      },
+      "example": {
+        "fr": "Il sera en train de rire à ce moment-là.",
+        "en": "He will be laughing at that moment."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai ri",
+        "tu": "auras ri",
+        "il/elle/on": "aura ri",
+        "nous": "aurons ri",
+        "vous": "aurez ri",
+        "ils/elles": "auront ri"
+      },
+      "example": {
+        "fr": "Tu auras ri avant moi.",
+        "en": "You will have laughed before me."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "rirais",
+        "tu": "rirais",
+        "il/elle/on": "rirait",
+        "nous": "ririons",
+        "vous": "ririez",
+        "ils/elles": "riraient"
+      },
+      "example": {
+        "fr": "Je rirais si j'avais entendu cette blague.",
+        "en": "I would laugh if I had heard that joke."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais ri",
+        "tu": "aurais ri",
+        "il/elle/on": "aurait ri",
+        "nous": "aurions ri",
+        "vous": "auriez ri",
+        "ils/elles": "auraient ri"
+      },
+      "example": {
+        "fr": "Elle aurait ri si elle avait vu ça.",
+        "en": "She would have laughed if she had seen that."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "rire",
+        "tu": "ries",
+        "il/elle/on": "rie",
+        "nous": "riions",
+        "vous": "riiez",
+        "ils/elles": "rient"
+      },
+      "example": {
+        "fr": "Il faut que je rie maintenant.",
+        "en": "I must laugh now."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie ri",
+        "tu": "aies ri",
+        "il/elle/on": "ait ri",
+        "nous": "ayons ri",
+        "vous": "ayez ri",
+        "ils/elles": "aient ri"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait ri.",
+        "en": "I doubt that he laughed."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "risse",
+        "tu": "risses",
+        "il/elle/on": "rît",
+        "nous": "rissions",
+        "vous": "rissiez",
+        "ils/elles": "rissent"
+      },
+      "example": {
+        "fr": "Il fallait qu'elle rît.",
+        "en": "It was necessary for her to laugh."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "fusse ri",
+        "tu": "fusses ri",
+        "il/elle/on": "fût ri",
+        "nous": "fussions ri",
+        "vous": "fussiez ri",
+        "ils/elles": "fussent ri"
+      },
+      "example": {
+        "fr": "Si j'eusse ri, j'aurais compris.",
+        "en": "If I had laughed, I would have understood."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus ri",
+        "tu": "eus ri",
+        "il/elle/on": "eut ri",
+        "nous": "eûmes ri",
+        "vous": "eûtes ri",
+        "ils/elles": "eurent ri"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent ri, ils partirent.",
+        "en": "As soon as they had laughed, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "ris",
+        "nous": "rions",
+        "vous": "riez"
+      },
+      "example": {
+        "fr": "Ris maintenant !",
+        "en": "Laugh now!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie ri",
+        "nous": "ayons ri",
+        "vous": "ayez ri"
+      },
+      "example": {
+        "fr": "Aie ri avant d'agir.",
+        "en": "Laugh before acting."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "riant",
+        "example": {
+          "fr": "En riant, il a oublié tout.",
+          "en": "While laughing, he forgot everything."
+        }
+      },
+      "past": {
+        "form": "ri",
+        "example": {
+          "fr": "Ils ont ri ensemble.",
+          "en": "They laughed together."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "rire",
+        "example": {
+          "fr": "Il aime rire.",
+          "en": "He likes to laugh."
+        }
+      },
+      "past": {
+        "form": "avoir ri",
+        "example": {
+          "fr": "Après avoir ri, il est parti.",
+          "en": "After laughing, he left."
+        }
+      }
+    }
+  }
+}

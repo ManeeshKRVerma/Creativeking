@@ -1,0 +1,161 @@
+{
+  "verb": "mettre",
+  "translation": "to put",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "mets",
+        "tu": "mets",
+        "il/elle/on": "met",
+        "nous": "mettons",
+        "vous": "mettez",
+        "ils/elles": "mettent"
+      },
+      "example": {
+        "fr": "Je mets la table.",
+        "en": "I am setting the table."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai mis",
+        "tu": "as mis",
+        "il/elle/on": "a mis",
+        "nous": "avons mis",
+        "vous": "avez mis",
+        "ils/elles": "ont mis"
+      },
+      "example": {
+        "fr": "J'ai mis mes clés sur la table.",
+        "en": "I put my keys on the table."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "mis",
+        "tu": "mis",
+        "il/elle/on": "mit",
+        "nous": "mîmes",
+        "vous": "mîtes",
+        "ils/elles": "mire"
+      },
+      "example": {
+        "fr": "Il mit le livre sur l'étagère.",
+        "en": "He put the book on the shelf."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "mettais",
+        "tu": "mettais",
+        "il/elle/on": "mettait",
+        "nous": "mettions",
+        "vous": "mettiez",
+        "ils/elles": "mettaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je mettais toujours mes chaussures moi-même.",
+        "en": "When I was young, I always put on my shoes myself."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais mis",
+        "tu": "avais mis",
+        "il/elle/on": "avait mis",
+        "nous": "avions mis",
+        "vous": "aviez mis",
+        "ils/elles": "avaient mis"
+      },
+      "example": {
+        "fr": "Nous avions mis les documents sur la table avant de partir.",
+        "en": "We had put the documents on the table before leaving."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "mettrai",
+        "tu": "mettras",
+        "il/elle/on": "mettra",
+        "nous": "mettrons",
+        "vous": "mettrez",
+        "ils/elles": "mettront"
+      },
+      "example": {
+        "fr": "Je mettrai les livres dans le sac demain.",
+        "en": "I will put the books in the bag tomorrow."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "mettrais",
+        "tu": "mettrais",
+        "il/elle/on": "mettrait",
+        "nous": "mettrions",
+        "vous": "mettriez",
+        "ils/elles": "mettraient"
+      },
+      "example": {
+        "fr": "Je mettrais la table si j'avais le temps.",
+        "en": "I would set the table if I had time."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "que je mette",
+        "tu": "que tu mettes",
+        "il/elle/on": "qu'il/elle/on mette",
+        "nous": "que nous mettions",
+        "vous": "que vous mettiez",
+        "ils/elles": "qu'ils/elles mettent"
+      },
+      "example": {
+        "fr": "Il faut que je mette mes lunettes.",
+        "en": "It is necessary that I put on my glasses."
+      }
+    },
+    "imperatif": {
+      "forms": {
+        "tu": "mets",
+        "nous": "mettons",
+        "vous": "mettez"
+      },
+      "example": {
+        "fr": "Mets ton manteau, il fait froid !",
+        "en": "Put on your coat, it's cold!"
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "mettant",
+        "example": {
+          "fr": "En mettant les livres sur la table, il les a rangés.",
+          "en": "By putting the books on the table, he arranged them."
+        }
+      },
+      "past": {
+        "form": "mis",
+        "example": {
+          "fr": "Il a mis ses clés dans sa poche.",
+          "en": "He put his keys in his pocket."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "mettre",
+        "example": {
+          "fr": "J'aime mettre de la musique quand je travaille.",
+          "en": "I like to play music while I work."
+        }
+      },
+      "past": {
+        "form": "avoir mis",
+        "example": {
+          "fr": "Après avoir mis les légumes dans la casserole, je les ai cuits.",
+          "en": "After putting the vegetables in the pot, I cooked them."
+        }
+      }
+    }
+  }
+}

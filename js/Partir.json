@@ -1,0 +1,161 @@
+{
+  "verb": "partir",
+  "translation": "to leave",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "pars",
+        "tu": "pars",
+        "il/elle/on": "part",
+        "nous": "partons",
+        "vous": "partez",
+        "ils/elles": "partent"
+      },
+      "example": {
+        "fr": "Je pars à 9h.",
+        "en": "I leave at 9 o'clock."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "suis parti(e)",
+        "tu": "es parti(e)",
+        "il/elle/on": "est parti(e)",
+        "nous": "sommes parti(e)s",
+        "vous": "êtes parti(e)s",
+        "ils/elles": "sont parti(e)s"
+      },
+      "example": {
+        "fr": "Nous sommes partis en vacances.",
+        "en": "We left for vacation."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "partis",
+        "tu": "partis",
+        "il/elle/on": "partit",
+        "nous": "partîmes",
+        "vous": "partîtes",
+        "ils/elles": "partirent"
+      },
+      "example": {
+        "fr": "Il partit tôt le matin.",
+        "en": "He left early in the morning."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "partais",
+        "tu": "partais",
+        "il/elle/on": "partait",
+        "nous": "partions",
+        "vous": "partiez",
+        "ils/elles": "partaient"
+      },
+      "example": {
+        "fr": "Je partais toujours à la même heure.",
+        "en": "I always left at the same time."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "étais parti(e)",
+        "tu": "étais parti(e)",
+        "il/elle/on": "était parti(e)",
+        "nous": "étions parti(e)s",
+        "vous": "étiez parti(e)s",
+        "ils/elles": "étaient parti(e)s"
+      },
+      "example": {
+        "fr": "Ils étaient partis avant que je n'arrive.",
+        "en": "They had left before I arrived."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "partirai",
+        "tu": "partiras",
+        "il/elle/on": "partira",
+        "nous": "partirons",
+        "vous": "partirez",
+        "ils/elles": "partiront"
+      },
+      "example": {
+        "fr": "Je partirai demain matin.",
+        "en": "I will leave tomorrow morning."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "partirais",
+        "tu": "partirais",
+        "il/elle/on": "partirait",
+        "nous": "partirions",
+        "vous": "partiriez",
+        "ils/elles": "partiraient"
+      },
+      "example": {
+        "fr": "Je partirais si j'avais le temps.",
+        "en": "I would leave if I had the time."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "que je parte",
+        "tu": "que tu partes",
+        "il/elle/on": "qu'il/elle/on parte",
+        "nous": "que nous partions",
+        "vous": "que vous partiez",
+        "ils/elles": "qu'ils/elles partent"
+      },
+      "example": {
+        "fr": "Il faut que je parte maintenant.",
+        "en": "I must leave now."
+      }
+    },
+    "imperatif": {
+      "forms": {
+        "tu": "pars",
+        "nous": "partons",
+        "vous": "partez"
+      },
+      "example": {
+        "fr": "Pars immédiatement!",
+        "en": "Leave immediately!"
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "partant",
+        "example": {
+          "fr": "Partant, il a dit au revoir.",
+          "en": "Leaving, he said goodbye."
+        }
+      },
+      "past": {
+        "form": "parti",
+        "example": {
+          "fr": "Il est parti en courant.",
+          "en": "He left running."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "partir",
+        "example": {
+          "fr": "Il aime partir tôt.",
+          "en": "He likes to leave early."
+        }
+      },
+      "past": {
+        "form": "être parti",
+        "example": {
+          "fr": "Après être parti, il est revenu.",
+          "en": "After leaving, he came back."
+        }
+      }
+    }
+  }
+}

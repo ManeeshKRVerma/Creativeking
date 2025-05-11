@@ -1,0 +1,284 @@
+{
+  "verb": "vivre",
+  "translation": "to live",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "vis",
+        "tu": "vis",
+        "il/elle/on": "vit",
+        "nous": "vivons",
+        "vous": "vivez",
+        "ils/elles": "vivent"
+      },
+      "example": {
+        "fr": "Je vis à Paris.",
+        "en": "I live in Paris."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai vécu",
+        "tu": "as vécu",
+        "il/elle/on": "a vécu",
+        "nous": "avons vécu",
+        "vous": "avez vécu",
+        "ils/elles": "ont vécu"
+      },
+      "example": {
+        "fr": "Nous avons vécu en Espagne.",
+        "en": "We lived in Spain."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "vis",
+        "tu": "vis",
+        "il/elle/on": "vécut",
+        "nous": "vîmes",
+        "vous": "vîtes",
+        "ils/elles": "vivent"
+      },
+      "example": {
+        "fr": "Il vécut longtemps.",
+        "en": "He lived a long time."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "vivais",
+        "tu": "vivais",
+        "il/elle/on": "vivait",
+        "nous": "vivions",
+        "vous": "viviez",
+        "ils/elles": "vivaient"
+      },
+      "example": {
+        "fr": "Elle vivait à Londres.",
+        "en": "She lived in London."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais vécu",
+        "tu": "avais vécu",
+        "il/elle/on": "avait vécu",
+        "nous": "avions vécu",
+        "vous": "aviez vécu",
+        "ils/elles": "avaient vécu"
+      },
+      "example": {
+        "fr": "Ils avaient vécu ici avant.",
+        "en": "They had lived here before."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "vivrai",
+        "tu": "vivras",
+        "il/elle/on": "vivra",
+        "nous": "vivrons",
+        "vous": "vivrez",
+        "ils/elles": "vivront"
+      },
+      "example": {
+        "fr": "Je vivrai en France un jour.",
+        "en": "I will live in France one day."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais vivre",
+        "tu": "vas vivre",
+        "il/elle/on": "va vivre",
+        "nous": "allons vivre",
+        "vous": "allez vivre",
+        "ils/elles": "vont vivre"
+      },
+      "example": {
+        "fr": "Je vais vivre ici demain.",
+        "en": "I am going to live here tomorrow."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de vivre",
+        "tu": "seras en train de vivre",
+        "il/elle/on": "sera en train de vivre",
+        "nous": "serons en train de vivre",
+        "vous": "serez en train de vivre",
+        "ils/elles": "seront en train de vivre"
+      },
+      "example": {
+        "fr": "Il sera en train de vivre à Paris.",
+        "en": "He will be living in Paris."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai vécu",
+        "tu": "auras vécu",
+        "il/elle/on": "aura vécu",
+        "nous": "aurons vécu",
+        "vous": "aurez vécu",
+        "ils/elles": "auront vécu"
+      },
+      "example": {
+        "fr": "Tu auras vécu cette expérience.",
+        "en": "You will have lived this experience."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "vivrais",
+        "tu": "vivrais",
+        "il/elle/on": "vivrait",
+        "nous": "vivrions",
+        "vous": "vivriez",
+        "ils/elles": "vivraient"
+      },
+      "example": {
+        "fr": "Je vivrais près de la mer.",
+        "en": "I would live near the sea."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais vécu",
+        "tu": "aurais vécu",
+        "il/elle/on": "aurait vécu",
+        "nous": "aurions vécu",
+        "vous": "auriez vécu",
+        "ils/elles": "auraient vécu"
+      },
+      "example": {
+        "fr": "Elle aurait vécu plus longtemps si elle avait su.",
+        "en": "She would have lived longer if she had known."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "vive",
+        "tu": "vives",
+        "il/elle/on": "vive",
+        "nous": "vivions",
+        "vous": "viviez",
+        "ils/elles": "vivent"
+      },
+      "example": {
+        "fr": "Il faut que je vive ici.",
+        "en": "I must live here."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie vécu",
+        "tu": "aies vécu",
+        "il/elle/on": "ait vécu",
+        "nous": "ayons vécu",
+        "vous": "ayez vécu",
+        "ils/elles": "aient vécu"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait vécu cette situation.",
+        "en": "I doubt he has lived this situation."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "vivesse",
+        "tu": "visses",
+        "il/elle/on": "vît",
+        "nous": "vissions",
+        "vous": "vissiez",
+        "ils/elles": "vissent"
+      },
+      "example": {
+        "fr": "Il fallait qu'elle vît.",
+        "en": "It was necessary for her to live."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "fusse vécu",
+        "tu": "fusses vécu",
+        "il/elle/on": "fût vécu",
+        "nous": "fussions vécu",
+        "vous": "fussiez vécu",
+        "ils/elles": "fussent vécu"
+      },
+      "example": {
+        "fr": "Si j'eusse vécu ici, j'aurais connu mieux.",
+        "en": "If I had lived here, I would have known better."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus vécu",
+        "tu": "eus vécu",
+        "il/elle/on": "eut vécu",
+        "nous": "eûmes vécu",
+        "vous": "eûtes vécu",
+        "ils/elles": "eurent vécu"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent vécu ici, ils partirent.",
+        "en": "As soon as they had lived here, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "vis",
+        "nous": "vivons",
+        "vous": "vivez"
+      },
+      "example": {
+        "fr": "Vis ta vie !",
+        "en": "Live your life!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie vécu",
+        "nous": "ayons vécu",
+        "vous": "ayez vécu"
+      },
+      "example": {
+        "fr": "Aie vécu avant de juger.",
+        "en": "Have lived before you judge."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "vivant",
+        "example": {
+          "fr": "En vivant ici, il a appris beaucoup.",
+          "en": "By living here, he learned a lot."
+        }
+      },
+      "past": {
+        "form": "vécu",
+        "example": {
+          "fr": "Il a vécu ici pendant 5 ans.",
+          "en": "He lived here for 5 years."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "vivre",
+        "example": {
+          "fr": "Il veut vivre ici.",
+          "en": "He wants to live here."
+        }
+      },
+      "past": {
+        "form": "avoir vécu",
+        "example": {
+          "fr": "Après avoir vécu ici, il est parti.",
+          "en": "After having lived here, he left."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "verb": "préférer",
+  "translation": "to prefer",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "préfère",
+        "tu": "préfères",
+        "il/elle/on": "préfère",
+        "nous": "préférons",
+        "vous": "préférez",
+        "ils/elles": "préfèrent"
+      },
+      "example": {
+        "fr": "Je préfère le chocolat.",
+        "en": "I prefer chocolate."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai préféré",
+        "tu": "as préféré",
+        "il/elle/on": "a préféré",
+        "nous": "avons préféré",
+        "vous": "avez préféré",
+        "ils/elles": "ont préféré"
+      },
+      "example": {
+        "fr": "Nous avons préféré rester à la maison.",
+        "en": "We preferred to stay at home."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "préférai",
+        "tu": "préféras",
+        "il/elle/on": "préféra",
+        "nous": "préférâmes",
+        "vous": "préférâtes",
+        "ils/elles": "préférèrent"
+      },
+      "example": {
+        "fr": "Elle préféra quitter tôt.",
+        "en": "She preferred to leave early."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "préférais",
+        "tu": "préférais",
+        "il/elle/on": "préférait",
+        "nous": "préférions",
+        "vous": "préfériez",
+        "ils/elles": "préféraient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je préférais jouer dehors.",
+        "en": "When I was young, I preferred to play outside."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais préféré",
+        "tu": "avais préféré",
+        "il/elle/on": "avait préféré",
+        "nous": "avions préféré",
+        "vous": "aviez préféré",
+        "ils/elles": "avaient préféré"
+      },
+      "example": {
+        "fr": "Ils avaient préféré partir avant le soir.",
+        "en": "They had preferred to leave before evening."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "préfèrerai",
+        "tu": "préfèreras",
+        "il/elle/on": "préfèrera",
+        "nous": "préférerons",
+        "vous": "préférerez",
+        "ils/elles": "préfèreront"
+      },
+      "example": {
+        "fr": "Je préfèrerai rester ici.",
+        "en": "I will prefer to stay here."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "préférerais",
+        "tu": "préférerais",
+        "il/elle/on": "préférerait",
+        "nous": "préférerions",
+        "vous": "préféreriez",
+        "ils/elles": "préféreraient"
+      },
+      "example": {
+        "fr": "Je préférerais aller à la plage.",
+        "en": "I would prefer to go to the beach."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "que je préfère",
+        "tu": "que tu préfères",
+        "il/elle/on": "qu'il/elle/on préfère",
+        "nous": "que nous préférions",
+        "vous": "que vous préfériez",
+        "ils/elles": "qu'ils/elles préfèrent"
+      },
+      "example": {
+        "fr": "Il faut que je préfère cela.",
+        "en": "I must prefer this."
+      }
+    },
+    "imperatif": {
+      "forms": {
+        "tu": "préfère",
+        "nous": "préférons",
+        "vous": "préférez"
+      },
+      "example": {
+        "fr": "Préfère les fruits frais!",
+        "en": "Prefer fresh fruits!"
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "préférant",
+        "example": {
+          "fr": "Préférant l'été, il a déménagé dans le sud.",
+          "en": "Preferring summer, he moved to the south."
+        }
+      },
+      "past": {
+        "form": "préféré",
+        "example": {
+          "fr": "Après avoir préféré l'option A, elle a changé d'avis.",
+          "en": "After having preferred option A, she changed her mind."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "préférer",
+        "example": {
+          "fr": "Il préfère choisir seul.",
+          "en": "He prefers to choose alone."
+        }
+      },
+      "past": {
+        "form": "avoir préféré",
+        "example": {
+          "fr": "Après avoir préféré le rouge, elle a pris le bleu.",
+          "en": "After having preferred red, she took blue."
+        }
+      }
+    }
+  }
+}

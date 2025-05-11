@@ -1,0 +1,284 @@
+{
+  "verb": "vouloir",
+  "translation": "to want",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "veux",
+        "tu": "veux",
+        "il/elle/on": "veut",
+        "nous": "voulons",
+        "vous": "voulez",
+        "ils/elles": "veulent"
+      },
+      "example": {
+        "fr": "Je veux un café.",
+        "en": "I want a coffee."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai voulu",
+        "tu": "as voulu",
+        "il/elle/on": "a voulu",
+        "nous": "avons voulu",
+        "vous": "avez voulu",
+        "ils/elles": "ont voulu"
+      },
+      "example": {
+        "fr": "Nous avons voulu partir plus tôt.",
+        "en": "We wanted to leave earlier."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "voulus",
+        "tu": "voulus",
+        "il/elle/on": "voulut",
+        "nous": "voulûmes",
+        "vous": "voulûtes",
+        "ils/elles": "voulurent"
+      },
+      "example": {
+        "fr": "Il voulut aller à Paris.",
+        "en": "He wanted to go to Paris."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "voulais",
+        "tu": "voulais",
+        "il/elle/on": "voulait",
+        "nous": "voulions",
+        "vous": "vouliez",
+        "ils/elles": "voulaient"
+      },
+      "example": {
+        "fr": "Je voulais manger quelque chose.",
+        "en": "I wanted to eat something."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais voulu",
+        "tu": "avais voulu",
+        "il/elle/on": "avait voulu",
+        "nous": "avions voulu",
+        "vous": "aviez voulu",
+        "ils/elles": "avaient voulu"
+      },
+      "example": {
+        "fr": "Ils avaient voulu partir avant la pluie.",
+        "en": "They had wanted to leave before the rain."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "voudrai",
+        "tu": "voudras",
+        "il/elle/on": "voudra",
+        "nous": "voudrons",
+        "vous": "voudrez",
+        "ils/elles": "voudront"
+      },
+      "example": {
+        "fr": "Je voudrai un sandwich demain.",
+        "en": "I will want a sandwich tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais vouloir",
+        "tu": "vas vouloir",
+        "il/elle/on": "va vouloir",
+        "nous": "allons vouloir",
+        "vous": "allez vouloir",
+        "ils/elles": "vont vouloir"
+      },
+      "example": {
+        "fr": "Je vais vouloir de l'eau.",
+        "en": "I am going to want some water."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de vouloir",
+        "tu": "seras en train de vouloir",
+        "il/elle/on": "sera en train de vouloir",
+        "nous": "serons en train de vouloir",
+        "vous": "serez en train de vouloir",
+        "ils/elles": "seront en train de vouloir"
+      },
+      "example": {
+        "fr": "Je serai en train de vouloir partir.",
+        "en": "I will be wanting to leave."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai voulu",
+        "tu": "auras voulu",
+        "il/elle/on": "aura voulu",
+        "nous": "aurons voulu",
+        "vous": "aurez voulu",
+        "ils/elles": "auront voulu"
+      },
+      "example": {
+        "fr": "Tu auras voulu venir, mais il sera trop tard.",
+        "en": "You will have wanted to come, but it will be too late."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "voudrais",
+        "tu": "voudrais",
+        "il/elle/on": "voudrait",
+        "nous": "voudrions",
+        "vous": "voudriez",
+        "ils/elles": "voudraient"
+      },
+      "example": {
+        "fr": "Je voudrais un chocolat chaud.",
+        "en": "I would like a hot chocolate."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais voulu",
+        "tu": "aurais voulu",
+        "il/elle/on": "aurait voulu",
+        "nous": "aurions voulu",
+        "vous": "auriez voulu",
+        "ils/elles": "auraient voulu"
+      },
+      "example": {
+        "fr": "Ils auraient voulu venir à la fête.",
+        "en": "They would have wanted to come to the party."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "veuille",
+        "tu": "veuilles",
+        "il/elle/on": "veuille",
+        "nous": "voulions",
+        "vous": "vouliez",
+        "ils/elles": "veulent"
+      },
+      "example": {
+        "fr": "Il faut que je veuille terminer le projet.",
+        "en": "I must want to finish the project."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie voulu",
+        "tu": "aies voulu",
+        "il/elle/on": "ait voulu",
+        "nous": "ayons voulu",
+        "vous": "ayez voulu",
+        "ils/elles": "aient voulu"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait voulu cela.",
+        "en": "I doubt that he wanted that."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "voulusse",
+        "tu": "voulusses",
+        "il/elle/on": "voulût",
+        "nous": "voulussions",
+        "vous": "voulussiez",
+        "ils/elles": "voulussent"
+      },
+      "example": {
+        "fr": "Il fallait que nous voulussions partir.",
+        "en": "It was necessary that we wanted to leave."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "fusse voulu",
+        "tu": "fusses voulu",
+        "il/elle/on": "fût voulu",
+        "nous": "fussions voulu",
+        "vous": "fussiez voulu",
+        "ils/elles": "fussent voulu"
+      },
+      "example": {
+        "fr": "Si j'eusse voulu, je serais venu.",
+        "en": "If I had wanted, I would have come."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus voulu",
+        "tu": "eus voulu",
+        "il/elle/on": "eut voulu",
+        "nous": "eûmes voulu",
+        "vous": "eûtes voulu",
+        "ils/elles": "eurent voulu"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent voulu partir, ils partirent.",
+        "en": "As soon as they had wanted to leave, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "veux",
+        "nous": "voulons",
+        "vous": "voulez"
+      },
+      "example": {
+        "fr": "Veux-tu venir avec nous ?",
+        "en": "Do you want to come with us?"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie voulu",
+        "nous": "ayons voulu",
+        "vous": "ayez voulu"
+      },
+      "example": {
+        "fr": "Aie voulu voir ce film avant qu'il ne parte.",
+        "en": "Have wanted to see this movie before it leaves."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "voulant",
+        "example": {
+          "fr": "En voulant l'aider, il a échoué.",
+          "en": "By wanting to help him, he failed."
+        }
+      },
+      "past": {
+        "form": "voulu",
+        "example": {
+          "fr": "Film voulu de tous.",
+          "en": "A movie wanted by all."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "vouloir",
+        "example": {
+          "fr": "Il aime vouloir plus.",
+          "en": "He likes to want more."
+        }
+      },
+      "past": {
+        "form": "avoir voulu",
+        "example": {
+          "fr": "Après avoir voulu partir, il est resté.",
+          "en": "After having wanted to leave, he stayed."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "verb": "savoir",
+  "translation": "to know",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "sais",
+        "tu": "sais",
+        "il/elle/on": "sait",
+        "nous": "savons",
+        "vous": "savez",
+        "ils/elles": "savent"
+      },
+      "example": {
+        "fr": "Je sais la réponse.",
+        "en": "I know the answer."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai su",
+        "tu": "as su",
+        "il/elle/on": "a su",
+        "nous": "avons su",
+        "vous": "avez su",
+        "ils/elles": "ont su"
+      },
+      "example": {
+        "fr": "Nous avons su la vérité.",
+        "en": "We knew the truth."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "savois",
+        "tu": "savois",
+        "il/elle/on": "savait",
+        "nous": "savîmes",
+        "vous": "savîtes",
+        "ils/elles": "savirent"
+      },
+      "example": {
+        "fr": "Il savait ce qui allait se passer.",
+        "en": "He knew what was going to happen."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "savais",
+        "tu": "savais",
+        "il/elle/on": "savait",
+        "nous": "savions",
+        "vous": "saviez",
+        "ils/elles": "savaient"
+      },
+      "example": {
+        "fr": "Elle savait très bien ce qu'elle faisait.",
+        "en": "She knew very well what she was doing."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais su",
+        "tu": "avais su",
+        "il/elle/on": "avait su",
+        "nous": "avions su",
+        "vous": "aviez su",
+        "ils/elles": "avaient su"
+      },
+      "example": {
+        "fr": "Ils avaient su tout le temps.",
+        "en": "They had known all along."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "saurai",
+        "tu": "sauras",
+        "il/elle/on": "saura",
+        "nous": "saurons",
+        "vous": "saurez",
+        "ils/elles": "sauront"
+      },
+      "example": {
+        "fr": "Je saurai la vérité bientôt.",
+        "en": "I will know the truth soon."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais savoir",
+        "tu": "vas savoir",
+        "il/elle/on": "va savoir",
+        "nous": "allons savoir",
+        "vous": "allez savoir",
+        "ils/elles": "vont savoir"
+      },
+      "example": {
+        "fr": "Je vais savoir comment résoudre ce problème.",
+        "en": "I am going to know how to solve this problem."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de savoir",
+        "tu": "seras en train de savoir",
+        "il/elle/on": "sera en train de savoir",
+        "nous": "serons en train de savoir",
+        "vous": "serez en train de savoir",
+        "ils/elles": "seront en train de savoir"
+      },
+      "example": {
+        "fr": "Nous serons en train de savoir tout cela demain.",
+        "en": "We will be knowing all of this tomorrow."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai su",
+        "tu": "auras su",
+        "il/elle/on": "aura su",
+        "nous": "aurons su",
+        "vous": "aurez su",
+        "ils/elles": "auront su"
+      },
+      "example": {
+        "fr": "Je saurai avant vous.",
+        "en": "I will have known before you."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "saurais",
+        "tu": "saurais",
+        "il/elle/on": "saurait",
+        "nous": "saurions",
+        "vous": "sauriez",
+        "ils/elles": "sauraient"
+      },
+      "example": {
+        "fr": "Je saurais quoi faire dans cette situation.",
+        "en": "I would know what to do in this situation."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais su",
+        "tu": "aurais su",
+        "il/elle/on": "aurait su",
+        "nous": "aurions su",
+        "vous": "auriez su",
+        "ils/elles": "auraient su"
+      },
+      "example": {
+        "fr": "Elle aurait su comment réagir si elle avait eu plus d'informations.",
+        "en": "She would have known how to react if she had had more information."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "sache",
+        "tu": "saches",
+        "il/elle/on": "sache",
+        "nous": "sachions",
+        "vous": "sachiez",
+        "ils/elles": "sachent"
+      },
+      "example": {
+        "fr": "Il faut que je sache la vérité.",
+        "en": "I must know the truth."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie su",
+        "tu": "aies su",
+        "il/elle/on": "ait su",
+        "nous": "ayons su",
+        "vous": "ayez su",
+        "ils/elles": "aient su"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait su cela.",
+        "en": "I doubt that he knew that."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "susse",
+        "tu": "susses",
+        "il/elle/on": "sût",
+        "nous": "sussions",
+        "vous": "sussiez",
+        "ils/elles": "sussent"
+      },
+      "example": {
+        "fr": "Il fallait qu'il susse la réponse.",
+        "en": "It was necessary that he knew the answer."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "fusse su",
+        "tu": "fusses su",
+        "il/elle/on": "fût su",
+        "nous": "fussions su",
+        "vous": "fussiez su",
+        "ils/elles": "fussent su"
+      },
+      "example": {
+        "fr": "Si j'eusse su, je n'aurais pas agi ainsi.",
+        "en": "If I had known, I wouldn't have acted like that."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus su",
+        "tu": "eus su",
+        "il/elle/on": "eut su",
+        "nous": "eûmes su",
+        "vous": "eûtes su",
+        "ils/elles": "eurent su"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent su la nouvelle, ils partirent.",
+        "en": "As soon as they had known the news, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "sache",
+        "nous": "sachons",
+        "vous": "sachez"
+      },
+      "example": {
+        "fr": "Sachez ce que vous voulez.",
+        "en": "Know what you want."
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie su",
+        "nous": "ayons su",
+        "vous": "ayez su"
+      },
+      "example": {
+        "fr": "Aie su la vérité avant d'agir.",
+        "en": "Have known the truth before acting."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "sachant",
+        "example": {
+          "fr": "Sachant la vérité, il n'a rien dit.",
+          "en": "Knowing the truth, he said nothing."
+        }
+      },
+      "past": {
+        "form": "su",
+        "example": {
+          "fr": "Une fois su, il a agi.",
+          "en": "Once known, he acted."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "savoir",
+        "example": {
+          "fr": "Je veux savoir ce qui se passe.",
+          "en": "I want to know what is happening."
+        }
+      },
+      "past": {
+        "form": "avoir su",
+        "example": {
+          "fr": "Après avoir su, il a changé d'avis.",
+          "en": "After knowing, he changed his mind."
+        }
+      }
+    }
+  }
+}

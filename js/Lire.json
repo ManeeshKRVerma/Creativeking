@@ -1,0 +1,284 @@
+{
+  "verb": "lire",
+  "translation": "to read",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "lis",
+        "tu": "lis",
+        "il/elle/on": "lit",
+        "nous": "lisons",
+        "vous": "lisez",
+        "ils/elles": "lisent"
+      },
+      "example": {
+        "fr": "Je lis un livre intéressant.",
+        "en": "I am reading an interesting book."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai lu",
+        "tu": "as lu",
+        "il/elle/on": "a lu",
+        "nous": "avons lu",
+        "vous": "avez lu",
+        "ils/elles": "ont lu"
+      },
+      "example": {
+        "fr": "Nous avons lu ce roman hier.",
+        "en": "We read this novel yesterday."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "lus",
+        "tu": "lus",
+        "il/elle/on": "lut",
+        "nous": "lûmes",
+        "vous": "lûtes",
+        "ils/elles": "lurent"
+      },
+      "example": {
+        "fr": "Il lut un article intéressant.",
+        "en": "He read an interesting article."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "lisais",
+        "tu": "lisais",
+        "il/elle/on": "lisait",
+        "nous": "lisions",
+        "vous": "lisiez",
+        "ils/elles": "lisaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je lisais beaucoup.",
+        "en": "When I was young, I used to read a lot."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais lu",
+        "tu": "avais lu",
+        "il/elle/on": "avait lu",
+        "nous": "avions lu",
+        "vous": "aviez lu",
+        "ils/elles": "avaient lu"
+      },
+      "example": {
+        "fr": "Ils avaient lu le livre avant de le discuter.",
+        "en": "They had read the book before discussing it."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "lirai",
+        "tu": "liras",
+        "il/elle/on": "lira",
+        "nous": "lirons",
+        "vous": "lirez",
+        "ils/elles": "liront"
+      },
+      "example": {
+        "fr": "Je lirai ce livre demain.",
+        "en": "I will read this book tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais lire",
+        "tu": "vas lire",
+        "il/elle/on": "va lire",
+        "nous": "allons lire",
+        "vous": "allez lire",
+        "ils/elles": "vont lire"
+      },
+      "example": {
+        "fr": "Je vais lire ce livre ce soir.",
+        "en": "I am going to read this book tonight."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de lire",
+        "tu": "seras en train de lire",
+        "il/elle/on": "sera en train de lire",
+        "nous": "serons en train de lire",
+        "vous": "serez en train de lire",
+        "ils/elles": "seront en train de lire"
+      },
+      "example": {
+        "fr": "Je serai en train de lire quand tu arriveras.",
+        "en": "I will be reading when you arrive."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai lu",
+        "tu": "auras lu",
+        "il/elle/on": "aura lu",
+        "nous": "aurons lu",
+        "vous": "aurez lu",
+        "ils/elles": "auront lu"
+      },
+      "example": {
+        "fr": "Elle aura lu ce livre avant de partir.",
+        "en": "She will have read this book before leaving."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "lirais",
+        "tu": "lirais",
+        "il/elle/on": "lirait",
+        "nous": "lirions",
+        "vous": "liriez",
+        "ils/elles": "liraient"
+      },
+      "example": {
+        "fr": "Je lirais ce livre si j'avais le temps.",
+        "en": "I would read this book if I had the time."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais lu",
+        "tu": "aurais lu",
+        "il/elle/on": "aurait lu",
+        "nous": "aurions lu",
+        "vous": "auriez lu",
+        "ils/elles": "auraient lu"
+      },
+      "example": {
+        "fr": "Elle aurait lu le livre si elle avait eu le temps.",
+        "en": "She would have read the book if she had had the time."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "lise",
+        "tu": "lises",
+        "il/elle/on": "lise",
+        "nous": "lisions",
+        "vous": "lisez",
+        "ils/elles": "lisent"
+      },
+      "example": {
+        "fr": "Il faut que je lise ce livre.",
+        "en": "It is necessary that I read this book."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie lu",
+        "tu": "aies lu",
+        "il/elle/on": "ait lu",
+        "nous": "ayons lu",
+        "vous": "ayez lu",
+        "ils/elles": "aient lu"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait lu le livre.",
+        "en": "I doubt that he read the book."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "lusse",
+        "tu": "lusses",
+        "il/elle/on": "lût",
+        "nous": "lussions",
+        "vous": "lussiez",
+        "ils/elles": "lussent"
+      },
+      "example": {
+        "fr": "Il fallait qu'il lût ce livre.",
+        "en": "It was necessary that he read the book."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "eusse lu",
+        "tu": "eusses lu",
+        "il/elle/on": "eût lu",
+        "nous": "eussions lu",
+        "vous": "eussiez lu",
+        "ils/elles": "eussent lu"
+      },
+      "example": {
+        "fr": "Si j'eusse lu ce livre, j'aurais compris.",
+        "en": "If I had read the book, I would have understood."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus lu",
+        "tu": "eus lu",
+        "il/elle/on": "eut lu",
+        "nous": "eûmes lu",
+        "vous": "eûtes lu",
+        "ils/elles": "eurent lu"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent lu le livre, ils partirent.",
+        "en": "As soon as they had read the book, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "lis",
+        "nous": "lisons",
+        "vous": "lisez"
+      },
+      "example": {
+        "fr": "Lis ce livre !",
+        "en": "Read this book!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie lu",
+        "nous": "ayons lu",
+        "vous": "ayez lu"
+      },
+      "example": {
+        "fr": "Aie lu le livre avant demain.",
+        "en": "Have read the book before tomorrow."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "lisant",
+        "example": {
+          "fr": "En lisant, il réfléchissait.",
+          "en": "While reading, he was thinking."
+        }
+      },
+      "past": {
+        "form": "lu",
+        "example": {
+          "fr": "Le livre est lu.",
+          "en": "The book is read."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "lire",
+        "example": {
+          "fr": "Il aime lire.",
+          "en": "He likes to read."
+        }
+      },
+      "past": {
+        "form": "avoir lu",
+        "example": {
+          "fr": "Après avoir lu le livre, elle a écrit une critique.",
+          "en": "After reading the book, she wrote a review."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "verb": "offrir",
+  "translation": "to offer",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "offre",
+        "tu": "offres",
+        "il/elle/on": "offre",
+        "nous": "offrons",
+        "vous": "offrez",
+        "ils/elles": "offrent"
+      },
+      "example": {
+        "fr": "Je t'offre un cadeau.",
+        "en": "I am offering you a gift."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai offert",
+        "tu": "as offert",
+        "il/elle/on": "a offert",
+        "nous": "avons offert",
+        "vous": "avez offert",
+        "ils/elles": "ont offert"
+      },
+      "example": {
+        "fr": "J'ai offert un livre à mon ami.",
+        "en": "I offered a book to my friend."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "offris",
+        "tu": "offris",
+        "il/elle/on": "offrit",
+        "nous": "offrîmes",
+        "vous": "offrîtes",
+        "ils/elles": "offrirent"
+      },
+      "example": {
+        "fr": "Il offrit des fleurs à sa mère.",
+        "en": "He offered flowers to his mother."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "offrais",
+        "tu": "offrais",
+        "il/elle/on": "offrait",
+        "nous": "offrions",
+        "vous": "offriez",
+        "ils/elles": "offraient"
+      },
+      "example": {
+        "fr": "Elle offrait souvent des cadeaux.",
+        "en": "She often offered gifts."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais offert",
+        "tu": "avais offert",
+        "il/elle/on": "avait offert",
+        "nous": "avions offert",
+        "vous": "aviez offert",
+        "ils/elles": "avaient offert"
+      },
+      "example": {
+        "fr": "Ils avaient offert une solution avant le problème.",
+        "en": "They had offered a solution before the problem."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "offrirai",
+        "tu": "offriras",
+        "il/elle/on": "offrira",
+        "nous": "offrirons",
+        "vous": "offrirez",
+        "ils/elles": "offriront"
+      },
+      "example": {
+        "fr": "Je t'offrirai un joli cadeau demain.",
+        "en": "I will offer you a nice gift tomorrow."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "offrirais",
+        "tu": "offrirais",
+        "il/elle/on": "offrirait",
+        "nous": "offririons",
+        "vous": "offririez",
+        "ils/elles": "offriraient"
+      },
+      "example": {
+        "fr": "Je t'offrirais quelque chose si j'avais l'argent.",
+        "en": "I would offer you something if I had the money."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "que j'offre",
+        "tu": "que tu offres",
+        "il/elle/on": "qu'il/elle/on offre",
+        "nous": "que nous offrions",
+        "vous": "que vous offriez",
+        "ils/elles": "qu'ils/elles offrent"
+      },
+      "example": {
+        "fr": "Il faut que j'offre ce cadeau.",
+        "en": "It is necessary that I offer this gift."
+      }
+    },
+    "imperatif": {
+      "forms": {
+        "tu": "offre",
+        "nous": "offrons",
+        "vous": "offrez"
+      },
+      "example": {
+        "fr": "Offre-moi une solution, s'il te plaît.",
+        "en": "Offer me a solution, please."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "offrant",
+        "example": {
+          "fr": "En offrant ce cadeau, elle était très heureuse.",
+          "en": "By offering this gift, she was very happy."
+        }
+      },
+      "past": {
+        "form": "offert",
+        "example": {
+          "fr": "Le cadeau offert était magnifique.",
+          "en": "The offered gift was magnificent."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "offrir",
+        "example": {
+          "fr": "Il aime offrir des fleurs.",
+          "en": "He likes to offer flowers."
+        }
+      },
+      "past": {
+        "form": "avoir offert",
+        "example": {
+          "fr": "Après avoir offert le cadeau, il est parti.",
+          "en": "After offering the gift, he left."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "verb": "prendre",
+  "translation": "to take",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "prends",
+        "tu": "prends",
+        "il/elle/on": "prend",
+        "nous": "prenons",
+        "vous": "prenez",
+        "ils/elles": "prennent"
+      },
+      "example": {
+        "fr": "Je prends un café.",
+        "en": "I am having a coffee."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai pris",
+        "tu": "as pris",
+        "il/elle/on": "a pris",
+        "nous": "avons pris",
+        "vous": "avez pris",
+        "ils/elles": "ont pris"
+      },
+      "example": {
+        "fr": "Nous avons pris le train.",
+        "en": "We took the train."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "pris",
+        "tu": "pris",
+        "il/elle/on": "prit",
+        "nous": "prîmes",
+        "vous": "prîtes",
+        "ils/elles": "prirent"
+      },
+      "example": {
+        "fr": "Il prit la décision rapidement.",
+        "en": "He made the decision quickly."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "prenais",
+        "tu": "prenais",
+        "il/elle/on": "prenait",
+        "nous": "prenions",
+        "vous": "preniez",
+        "ils/elles": "prenaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je prenais des cours de piano.",
+        "en": "When I was young, I used to take piano lessons."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais pris",
+        "tu": "avais pris",
+        "il/elle/on": "avait pris",
+        "nous": "avions pris",
+        "vous": "aviez pris",
+        "ils/elles": "avaient pris"
+      },
+      "example": {
+        "fr": "Ils avaient pris la route avant moi.",
+        "en": "They had taken the road before me."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "prendrai",
+        "tu": "prendras",
+        "il/elle/on": "prendra",
+        "nous": "prendrons",
+        "vous": "prendrez",
+        "ils/elles": "prendront"
+      },
+      "example": {
+        "fr": "Je prendrai mon temps demain.",
+        "en": "I will take my time tomorrow."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "prendrais",
+        "tu": "prendrais",
+        "il/elle/on": "prendrait",
+        "nous": "prendrions",
+        "vous": "prendriez",
+        "ils/elles": "prendraient"
+      },
+      "example": {
+        "fr": "Je prendrais un taxi si je pouvais.",
+        "en": "I would take a taxi if I could."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "que je prenne",
+        "tu": "que tu prennes",
+        "il/elle/on": "qu'il/elle/on prenne",
+        "nous": "que nous prenions",
+        "vous": "que vous preniez",
+        "ils/elles": "qu'ils/elles prennent"
+      },
+      "example": {
+        "fr": "Il faut que je prenne une décision.",
+        "en": "I must make a decision."
+      }
+    },
+    "imperatif": {
+      "forms": {
+        "tu": "prends",
+        "nous": "prenons",
+        "vous": "prenez"
+      },
+      "example": {
+        "fr": "Prends ton temps!",
+        "en": "Take your time!"
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "prenant",
+        "example": {
+          "fr": "En prenant son temps, il a fait un excellent travail.",
+          "en": "By taking his time, he did an excellent job."
+        }
+      },
+      "past": {
+        "form": "pris",
+        "example": {
+          "fr": "Le livre pris par Marie est sur la table.",
+          "en": "The book taken by Marie is on the table."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "prendre",
+        "example": {
+          "fr": "Il veut prendre des vacances.",
+          "en": "He wants to take a vacation."
+        }
+      },
+      "past": {
+        "form": "avoir pris",
+        "example": {
+          "fr": "Après avoir pris le bus, elle est arrivée à l'heure.",
+          "en": "After having taken the bus, she arrived on time."
+        }
+      }
+    }
+  }
+}
