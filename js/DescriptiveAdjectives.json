@@ -8,8 +8,8 @@
         "plus = more (for the most)": "The article (le, la, les) agrees with the noun being described",
         "moins = less (for the least)": "",
         "C'est la fille la plus intelligente de la classe. <br> She is the most intelligent girl in the class.": "",
-        "C'est le film le moins intéressant. <br> It’s the least interesting movie.": "",
-        "Some adjectives like beau (beautiful), bon (good), petit (small) usually come before the noun.<br>C’est le plus beau jardin<br>It is the most beautiful garden.": ""
+        "<BR>C'est le film le moins intéressant. <br> It’s the least interesting movie.": "",
+        "<br>Some adjectives like beau (beautiful), bon (good), petit (small) usually come before the noun.<br><br>C’est le plus beau jardin<br>It is the most beautiful garden.": ""
       },
       "example": {
         "fr": "bon (good)->meilleur->le meilleur<br>mauvais (bad)->pire->le pire",
@@ -21,7 +21,7 @@
         "plus": "more - plus grand que (bigger than)",
         "moins": "less - moins cher que (less expensive than)",
         "aussi": " as - aussi gentil que (as nice as)",
-        "Paul est plus grand que Luc.": "Paul is taller than Luc.",
+        "<br>Paul est plus grand que Luc.": "Paul is taller than Luc.",
         "Cette voiture est moins rapide que l’autre.": "This car is less fast than the other one.",
         "Elle est aussi intelligente que sa sœur.": "She is as intelligent as her sister."
       },
@@ -145,7 +145,7 @@
     },
     "Appearance & Aesthetics": {
       "forms": {
-        "beau / belle – beautiful \\n joli / jolie – pretty \\n laid / laide – ugly \\n élégant / élégante – elegant \\n charmant /charmante – charming \\n moderne – modern \\n ancien / ancienne – old, ancient \\n nouveau / nouvelle – new \\n ancien / ancienne– old, former \\n vieux / vieille – old \\n neuf / neuve – new (unused)": ""
+        "beau / belle – beautiful <br> joli / jolie – pretty <br> laid / laide – ugly <br> élégant / élégante – elegant <br> charmant /charmante – charming <br> moderne – modern <br> ancien / ancienne – old, ancient <br> nouveau / nouvelle – new <br> ancien / ancienne– old, former <br> vieux / vieille – old <br> neuf / neuve – new (unused)": ""
       },
       "example": {
         "fr": "",
@@ -154,7 +154,7 @@
     },
 	"Weather & Environment": {
     "forms": {
-      "chaud / chaude – hot \\n froid / froide – cold \\n humide – humid \\n sec / sèche – dry \\n ensoleillé / ensoleillée – sunny \\n nuageux / nuageuse – cloudy \\n pluvieux / pluvieuse – rainy \\n neigeux / neigeuse – snowy \\n venté / ventée – windy \\n brumeux / brumeuse – foggy": ""
+      "chaud / chaude – hot <br> froid / froide – cold <br> humide – humid <br> sec / sèche – dry <br> ensoleillé / ensoleillée – sunny <br> nuageux / nuageuse – cloudy <br> pluvieux / pluvieuse – rainy <br> neigeux / neigeuse – snowy <br> venté / ventée – windy <br> brumeux / brumeuse – foggy": ""
     },
     "example": {
       "fr": "",
@@ -163,7 +163,7 @@
   },
     "Time & Age": {
       "forms": {
-        "jeune – young \\n vieux / vieille – old \\n nouveau / nouvelle – new \\n ancien / ancienne – old, former \\n moderne – modern \\n ancien / ancienne – old, ancient \\n actuel / actuelle – current \\n futur / future – future \\n passé / passée – past": ""
+        "jeune – young <br> vieux / vieille – old <br> nouveau / nouvelle – new <br> ancien / ancienne – old, former <br> moderne – modern <br> ancien / ancienne – old, ancient <br> actuel / actuelle – current <br> futur / future – future <br> passé / passée – past": ""
       },
       "example": {
         "fr": "",
