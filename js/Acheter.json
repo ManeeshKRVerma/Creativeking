@@ -1,0 +1,284 @@
+{
+  "verb": "acheter",
+  "translation": "to buy",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "achète",
+        "tu": "achètes",
+        "il/elle/on": "achète",
+        "nous": "achetons",
+        "vous": "achetez",
+        "ils/elles": "achètent"
+      },
+      "example": {
+        "fr": "J'achète du pain.",
+        "en": "I am buying bread."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai acheté",
+        "tu": "as acheté",
+        "il/elle/on": "a acheté",
+        "nous": "avons acheté",
+        "vous": "avez acheté",
+        "ils/elles": "ont acheté"
+      },
+      "example": {
+        "fr": "Elle a acheté une robe.",
+        "en": "She bought a dress."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "achetai",
+        "tu": "achetas",
+        "il/elle/on": "acheta",
+        "nous": "achetâmes",
+        "vous": "achetâtes",
+        "ils/elles": "achetèrent"
+      },
+      "example": {
+        "fr": "Il acheta une maison.",
+        "en": "He bought a house."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "achetais",
+        "tu": "achetais",
+        "il/elle/on": "achetait",
+        "nous": "achetions",
+        "vous": "achetiez",
+        "ils/elles": "achetaient"
+      },
+      "example": {
+        "fr": "Nous achetions du lait chaque jour.",
+        "en": "We used to buy milk every day."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais acheté",
+        "tu": "avais acheté",
+        "il/elle/on": "avait acheté",
+        "nous": "avions acheté",
+        "vous": "aviez acheté",
+        "ils/elles": "avaient acheté"
+      },
+      "example": {
+        "fr": "Ils avaient acheté une voiture.",
+        "en": "They had bought a car."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "achèterai",
+        "tu": "achèteras",
+        "il/elle/on": "achètera",
+        "nous": "achèterons",
+        "vous": "achèterez",
+        "ils/elles": "achèteront"
+      },
+      "example": {
+        "fr": "J'achèterai une nouvelle télé.",
+        "en": "I will buy a new TV."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais acheter",
+        "tu": "vas acheter",
+        "il/elle/on": "va acheter",
+        "nous": "allons acheter",
+        "vous": "allez acheter",
+        "ils/elles": "vont acheter"
+      },
+      "example": {
+        "fr": "Nous allons acheter un cadeau.",
+        "en": "We are going to buy a gift."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train d'acheter",
+        "tu": "seras en train d'acheter",
+        "il/elle/on": "sera en train d'acheter",
+        "nous": "serons en train d'acheter",
+        "vous": "serez en train d'acheter",
+        "ils/elles": "seront en train d'acheter"
+      },
+      "example": {
+        "fr": "Je serai en train d'acheter à 18h.",
+        "en": "I will be buying at 6 PM."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai acheté",
+        "tu": "auras acheté",
+        "il/elle/on": "aura acheté",
+        "nous": "aurons acheté",
+        "vous": "aurez acheté",
+        "ils/elles": "auront acheté"
+      },
+      "example": {
+        "fr": "Elle aura acheté les billets avant midi.",
+        "en": "She will have bought the tickets before noon."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "achèterais",
+        "tu": "achèterais",
+        "il/elle/on": "achèterait",
+        "nous": "achèterions",
+        "vous": "achèteriez",
+        "ils/elles": "achèteraient"
+      },
+      "example": {
+        "fr": "Je l'achèterais si j'avais de l'argent.",
+        "en": "I would buy it if I had money."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais acheté",
+        "tu": "aurais acheté",
+        "il/elle/on": "aurait acheté",
+        "nous": "aurions acheté",
+        "vous": "auriez acheté",
+        "ils/elles": "auraient acheté"
+      },
+      "example": {
+        "fr": "Nous aurions acheté la maison.",
+        "en": "We would have bought the house."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "achète",
+        "tu": "achètes",
+        "il/elle/on": "achète",
+        "nous": "achetions",
+        "vous": "achetiez",
+        "ils/elles": "achètent"
+      },
+      "example": {
+        "fr": "Il faut que tu achètes du pain.",
+        "en": "You need to buy bread."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie acheté",
+        "tu": "aies acheté",
+        "il/elle/on": "ait acheté",
+        "nous": "ayons acheté",
+        "vous": "ayez acheté",
+        "ils/elles": "aient acheté"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait acheté les billets.",
+        "en": "I doubt he bought the tickets."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "achetasse",
+        "tu": "achetasses",
+        "il/elle/on": "achetât",
+        "nous": "achetassions",
+        "vous": "achetassiez",
+        "ils/elles": "achetassent"
+      },
+      "example": {
+        "fr": "Il fallait qu’il achetât le livre.",
+        "en": "It was necessary that he bought the book."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "eusse acheté",
+        "tu": "eusses acheté",
+        "il/elle/on": "eût acheté",
+        "nous": "eussions acheté",
+        "vous": "eussiez acheté",
+        "ils/elles": "eussent acheté"
+      },
+      "example": {
+        "fr": "Si j’eusse acheté cela...",
+        "en": "If I had bought that..."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus acheté",
+        "tu": "eus acheté",
+        "il/elle/on": "eut acheté",
+        "nous": "eûmes acheté",
+        "vous": "eûtes acheté",
+        "ils/elles": "eurent acheté"
+      },
+      "example": {
+        "fr": "Quand il eut acheté la voiture, il partit.",
+        "en": "When he had bought the car, he left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "achète",
+        "nous": "achetons",
+        "vous": "achetez"
+      },
+      "example": {
+        "fr": "Achète du pain !",
+        "en": "Buy some bread!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie acheté",
+        "nous": "ayons acheté",
+        "vous": "ayez acheté"
+      },
+      "example": {
+        "fr": "Ayez acheté les billets avant midi.",
+        "en": "Have bought the tickets before noon."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "achetant",
+        "example": {
+          "fr": "Achetant des fruits, il a vu un ami.",
+          "en": "While buying fruit, he saw a friend."
+        }
+      },
+      "past": {
+        "form": "acheté",
+        "example": {
+          "fr": "Produit acheté en ligne.",
+          "en": "Product bought online."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "acheter",
+        "example": {
+          "fr": "J’aime acheter des livres.",
+          "en": "I like to buy books."
+        }
+      },
+      "past": {
+        "form": "avoir acheté",
+        "example": {
+          "fr": "Après avoir acheté le livre, elle est partie.",
+          "en": "After having bought the book, she left."
+        }
+      }
+    }
+  }
+}

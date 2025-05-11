@@ -1,0 +1,284 @@
+{
+  "verb": "devoir",
+  "translation": "to have to, must",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "dois",
+        "tu": "dois",
+        "il/elle/on": "doit",
+        "nous": "devons",
+        "vous": "devez",
+        "ils/elles": "doivent"
+      },
+      "example": {
+        "fr": "Je dois étudier ce soir.",
+        "en": "I must study tonight."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai dû",
+        "tu": "as dû",
+        "il/elle/on": "a dû",
+        "nous": "avons dû",
+        "vous": "avez dû",
+        "ils/elles": "ont dû"
+      },
+      "example": {
+        "fr": "Nous avons dû partir tôt.",
+        "en": "We had to leave early."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "dus",
+        "tu": "dus",
+        "il/elle/on": "dut",
+        "nous": "dûmes",
+        "vous": "dûtes",
+        "ils/elles": "durent"
+      },
+      "example": {
+        "fr": "Il dut faire face à de nombreux défis.",
+        "en": "He had to face many challenges."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "devais",
+        "tu": "devais",
+        "il/elle/on": "devait",
+        "nous": "devions",
+        "vous": "deviez",
+        "ils/elles": "devaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je devais aller à l'école tous les jours.",
+        "en": "When I was young, I had to go to school every day."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais dû",
+        "tu": "avais dû",
+        "il/elle/on": "avait dû",
+        "nous": "avions dû",
+        "vous": "aviez dû",
+        "ils/elles": "avaient dû"
+      },
+      "example": {
+        "fr": "Ils avaient dû annuler la réunion.",
+        "en": "They had to cancel the meeting."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "devrai",
+        "tu": "devras",
+        "il/elle/on": "devra",
+        "nous": "devrons",
+        "vous": "devrez",
+        "ils/elles": "devront"
+      },
+      "example": {
+        "fr": "Je devrai terminer ce projet demain.",
+        "en": "I will have to finish this project tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais devoir",
+        "tu": "vas devoir",
+        "il/elle/on": "va devoir",
+        "nous": "allons devoir",
+        "vous": "allez devoir",
+        "ils/elles": "vont devoir"
+      },
+      "example": {
+        "fr": "Je vais devoir partir bientôt.",
+        "en": "I am going to have to leave soon."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de devoir",
+        "tu": "seras en train de devoir",
+        "il/elle/on": "sera en train de devoir",
+        "nous": "serons en train de devoir",
+        "vous": "serez en train de devoir",
+        "ils/elles": "seront en train de devoir"
+      },
+      "example": {
+        "fr": "Il sera en train de devoir travailler toute la nuit.",
+        "en": "He will be having to work all night."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai dû",
+        "tu": "auras dû",
+        "il/elle/on": "aura dû",
+        "nous": "aurons dû",
+        "vous": "aurez dû",
+        "ils/elles": "auront dû"
+      },
+      "example": {
+        "fr": "Tu auras dû le faire avant demain.",
+        "en": "You will have had to do it before tomorrow."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "devrais",
+        "tu": "devrais",
+        "il/elle/on": "devrait",
+        "nous": "devrions",
+        "vous": "devriez",
+        "ils/elles": "devraient"
+      },
+      "example": {
+        "fr": "Je devrais étudier plus souvent.",
+        "en": "I should study more often."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais dû",
+        "tu": "aurais dû",
+        "il/elle/on": "aurait dû",
+        "nous": "aurions dû",
+        "vous": "auriez dû",
+        "ils/elles": "auraient dû"
+      },
+      "example": {
+        "fr": "Elle aurait dû dire la vérité.",
+        "en": "She should have told the truth."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "doive",
+        "tu": "doives",
+        "il/elle/on": "doive",
+        "nous": "devions",
+        "vous": "deviez",
+        "ils/elles": "doivent"
+      },
+      "example": {
+        "fr": "Il faut que je doive partir.",
+        "en": "It is necessary that I must leave."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie dû",
+        "tu": "aies dû",
+        "il/elle/on": "ait dû",
+        "nous": "ayons dû",
+        "vous": "ayez dû",
+        "ils/elles": "aient dû"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait dû partir.",
+        "en": "I doubt that he had to leave."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "dus",
+        "tu": "dus",
+        "il/elle/on": "dût",
+        "nous": "dussions",
+        "vous": "dussiez",
+        "ils/elles": "dussent"
+      },
+      "example": {
+        "fr": "Il fallait que je dût partir.",
+        "en": "It was necessary that I had to leave."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "eusse dû",
+        "tu": "eusses dû",
+        "il/elle/on": "eût dû",
+        "nous": "eussions dû",
+        "vous": "eussiez dû",
+        "ils/elles": "eussent dû"
+      },
+      "example": {
+        "fr": "Si j'eusse dû partir, j'aurais été triste.",
+        "en": "If I had had to leave, I would have been sad."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus dû",
+        "tu": "eus dû",
+        "il/elle/on": "eut dû",
+        "nous": "eûmes dû",
+        "vous": "eûtes dû",
+        "ils/elles": "eurent dû"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent dû partir, ils s'en allèrent.",
+        "en": "As soon as they had to leave, they went away."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "dois",
+        "nous": "devons",
+        "vous": "devez"
+      },
+      "example": {
+        "fr": "Tu dois finir tes devoirs !",
+        "en": "You must finish your homework!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie dû",
+        "nous": "ayons dû",
+        "vous": "ayez dû"
+      },
+      "example": {
+        "fr": "Aie dû le faire avant demain.",
+        "en": "Have had to do it before tomorrow."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "devant",
+        "example": {
+          "fr": "Devant faire un choix difficile, il hésita.",
+          "en": "Having to make a difficult choice, he hesitated."
+        }
+      },
+      "past": {
+        "form": "dû",
+        "example": {
+          "fr": "Le travail est dû à demain.",
+          "en": "The work is due tomorrow."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "devoir",
+        "example": {
+          "fr": "Il faut devoir le faire.",
+          "en": "One must do it."
+        }
+      },
+      "past": {
+        "form": "avoir dû",
+        "example": {
+          "fr": "Après avoir dû partir, elle revint plus tard.",
+          "en": "After having had to leave, she returned later."
+        }
+      }
+    }
+  }
+}

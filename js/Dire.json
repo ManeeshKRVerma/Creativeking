@@ -1,0 +1,284 @@
+{
+  "verb": "dire",
+  "translation": "to say",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "dis",
+        "tu": "dis",
+        "il/elle/on": "dit",
+        "nous": "disons",
+        "vous": "dites",
+        "ils/elles": "disent"
+      },
+      "example": {
+        "fr": "Je dis la vérité.",
+        "en": "I am telling the truth."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai dit",
+        "tu": "as dit",
+        "il/elle/on": "a dit",
+        "nous": "avons dit",
+        "vous": "avez dit",
+        "ils/elles": "ont dit"
+      },
+      "example": {
+        "fr": "Elle a dit qu'elle viendrait.",
+        "en": "She said that she would come."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "dis",
+        "tu": "dis",
+        "il/elle/on": "dit",
+        "nous": "dîmes",
+        "vous": "dîtes",
+        "ils/elles": "dirent"
+      },
+      "example": {
+        "fr": "Il dit la vérité dans ses discours.",
+        "en": "He spoke the truth in his speeches."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "disais",
+        "tu": "disais",
+        "il/elle/on": "disait",
+        "nous": "disions",
+        "vous": "disiez",
+        "ils/elles": "disaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je disais tout ce que je pensais.",
+        "en": "When I was young, I used to say everything I thought."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais dit",
+        "tu": "avais dit",
+        "il/elle/on": "avait dit",
+        "nous": "avions dit",
+        "vous": "aviez dit",
+        "ils/elles": "avaient dit"
+      },
+      "example": {
+        "fr": "Ils avaient dit qu'ils viendraient plus tôt.",
+        "en": "They had said that they would come earlier."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "dirai",
+        "tu": "diras",
+        "il/elle/on": "dira",
+        "nous": "dirons",
+        "vous": "direz",
+        "ils/elles": "diront"
+      },
+      "example": {
+        "fr": "Je dirai la vérité demain.",
+        "en": "I will tell the truth tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais dire",
+        "tu": "vas dire",
+        "il/elle/on": "va dire",
+        "nous": "allons dire",
+        "vous": "allez dire",
+        "ils/elles": "vont dire"
+      },
+      "example": {
+        "fr": "Je vais dire ce que je pense.",
+        "en": "I am going to say what I think."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de dire",
+        "tu": "seras en train de dire",
+        "il/elle/on": "sera en train de dire",
+        "nous": "serons en train de dire",
+        "vous": "serez en train de dire",
+        "ils/elles": "seront en train de dire"
+      },
+      "example": {
+        "fr": "Je serai en train de dire quelque chose à ce moment-là.",
+        "en": "I will be saying something at that moment."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai dit",
+        "tu": "auras dit",
+        "il/elle/on": "aura dit",
+        "nous": "aurons dit",
+        "vous": "aurez dit",
+        "ils/elles": "auront dit"
+      },
+      "example": {
+        "fr": "Tu auras dit quelque chose avant de partir.",
+        "en": "You will have said something before leaving."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "dirais",
+        "tu": "dirais",
+        "il/elle/on": "dirait",
+        "nous": "dirions",
+        "vous": "diriez",
+        "ils/elles": "diraient"
+      },
+      "example": {
+        "fr": "Je dirais la vérité si j'étais toi.",
+        "en": "I would tell the truth if I were you."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais dit",
+        "tu": "aurais dit",
+        "il/elle/on": "aurait dit",
+        "nous": "aurions dit",
+        "vous": "auriez dit",
+        "ils/elles": "auraient dit"
+      },
+      "example": {
+        "fr": "Elle aurait dit quelque chose si elle avait su.",
+        "en": "She would have said something if she had known."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "disse",
+        "tu": "disses",
+        "il/elle/on": "dît",
+        "nous": "dissions",
+        "vous": "dissiez",
+        "ils/elles": "dissent"
+      },
+      "example": {
+        "fr": "Il faut que je dise la vérité.",
+        "en": "I must tell the truth."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie dit",
+        "tu": "aies dit",
+        "il/elle/on": "ait dit",
+        "nous": "ayons dit",
+        "vous": "ayez dit",
+        "ils/elles": "aient dit"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait dit la vérité.",
+        "en": "I doubt that he said the truth."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "dusse",
+        "tu": "dusses",
+        "il/elle/on": "dût",
+        "nous": "dussions",
+        "vous": "dussiez",
+        "ils/elles": "dussent"
+      },
+      "example": {
+        "fr": "Il fallait que je dût dire quelque chose.",
+        "en": "It was necessary that I say something."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "eusse dit",
+        "tu": "eusses dit",
+        "il/elle/on": "eût dit",
+        "nous": "eussions dit",
+        "vous": "eussiez dit",
+        "ils/elles": "eussent dit"
+      },
+      "example": {
+        "fr": "Si j'eusse dit quelque chose, il aurait compris.",
+        "en": "If I had said something, he would have understood."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus dit",
+        "tu": "eus dit",
+        "il/elle/on": "eut dit",
+        "nous": "eûmes dit",
+        "vous": "eûtes dit",
+        "ils/elles": "eurent dit"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent dit la vérité, ils partirent.",
+        "en": "As soon as they had said the truth, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "dis",
+        "nous": "disons",
+        "vous": "dites"
+      },
+      "example": {
+        "fr": "Dis la vérité !",
+        "en": "Tell the truth!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie dit",
+        "nous": "ayons dit",
+        "vous": "ayez dit"
+      },
+      "example": {
+        "fr": "Aie dit la vérité avant de partir.",
+        "en": "Have said the truth before leaving."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "disant",
+        "example": {
+          "fr": "En disant cela, il mentait.",
+          "en": "While saying that, he was lying."
+        }
+      },
+      "past": {
+        "form": "dit",
+        "example": {
+          "fr": "La vérité dite est incontestable.",
+          "en": "The truth said is indisputable."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "dire",
+        "example": {
+          "fr": "Il faut dire la vérité.",
+          "en": "It is necessary to tell the truth."
+        }
+      },
+      "past": {
+        "form": "avoir dit",
+        "example": {
+          "fr": "Après avoir dit la vérité, il se sentit mieux.",
+          "en": "After having told the truth, he felt better."
+        }
+      }
+    }
+  }
+}

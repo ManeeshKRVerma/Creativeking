@@ -1,0 +1,161 @@
+{
+  "verb": "essayer",
+  "translation": "to try",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "essaie",
+        "tu": "essaies",
+        "il/elle/on": "essaie",
+        "nous": "essayons",
+        "vous": "essayez",
+        "ils/elles": "essaient"
+      },
+      "example": {
+        "fr": "J'essaie de comprendre.",
+        "en": "I try to understand."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai essayé",
+        "tu": "as essayé",
+        "il/elle/on": "a essayé",
+        "nous": "avons essayé",
+        "vous": "avez essayé",
+        "ils/elles": "ont essayé"
+      },
+      "example": {
+        "fr": "Nous avons essayé cette méthode.",
+        "en": "We tried this method."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "essayai",
+        "tu": "essayas",
+        "il/elle/on": "essaya",
+        "nous": "essayâmes",
+        "vous": "essayâtes",
+        "ils/elles": "essayèrent"
+      },
+      "example": {
+        "fr": "Il essaya de résoudre le problème.",
+        "en": "He tried to solve the problem."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "essayais",
+        "tu": "essayais",
+        "il/elle/on": "essayait",
+        "nous": "essayions",
+        "vous": "essayiez",
+        "ils/elles": "essayaient"
+      },
+      "example": {
+        "fr": "Elle essayait toujours de m'aider.",
+        "en": "She was always trying to help me."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais essayé",
+        "tu": "avais essayé",
+        "il/elle/on": "avait essayé",
+        "nous": "avions essayé",
+        "vous": "aviez essayé",
+        "ils/elles": "avaient essayé"
+      },
+      "example": {
+        "fr": "Ils avaient essayé avant de demander de l'aide.",
+        "en": "They had tried before asking for help."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "essaierai",
+        "tu": "essaieras",
+        "il/elle/on": "essaiera",
+        "nous": "essaierons",
+        "vous": "essaierez",
+        "ils/elles": "essaieront"
+      },
+      "example": {
+        "fr": "Je vais essayer demain.",
+        "en": "I will try tomorrow."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "essaierais",
+        "tu": "essaierais",
+        "il/elle/on": "essaierait",
+        "nous": "essaierions",
+        "vous": "essaieriez",
+        "ils/elles": "essaieraient"
+      },
+      "example": {
+        "fr": "Je l'essaierais si j'avais le temps.",
+        "en": "I would try it if I had the time."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "essaie",
+        "tu": "essaies",
+        "il/elle/on": "essaie",
+        "nous": "essayions",
+        "vous": "essayiez",
+        "ils/elles": "essaient"
+      },
+      "example": {
+        "fr": "Il faut que j'essaie.",
+        "en": "I must try."
+      }
+    },
+    "imperatif": {
+      "forms": {
+        "tu": "essaie",
+        "nous": "essayons",
+        "vous": "essayez"
+      },
+      "example": {
+        "fr": "Essaie de nouveau !",
+        "en": "Try again!"
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "essayant",
+        "example": {
+          "fr": "En essayant, il a appris.",
+          "en": "By trying, he learned."
+        }
+      },
+      "past": {
+        "form": "essayé",
+        "example": {
+          "fr": "Méthode essayée et approuvée.",
+          "en": "Method tried and approved."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "essayer",
+        "example": {
+          "fr": "Il veut essayer.",
+          "en": "He wants to try."
+        }
+      },
+      "past": {
+        "form": "avoir essayé",
+        "example": {
+          "fr": "Après avoir essayé, il a réussi.",
+          "en": "After trying, he succeeded."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "verb": "connaître",
+  "translation": "to know",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "connaît",
+        "tu": "connaît",
+        "il/elle/on": "connaît",
+        "nous": "connaissons",
+        "vous": "connaissez",
+        "ils/elles": "connaissent"
+      },
+      "example": {
+        "fr": "Je connais ce film.",
+        "en": "I know this movie."
+      }
+    },
+    "passé_composé": {
+      "forms": {
+        "je": "ai connu",
+        "tu": "as connu",
+        "il/elle/on": "a connu",
+        "nous": "avons connu",
+        "vous": "avez connu",
+        "ils/elles": "ont connu"
+      },
+      "example": {
+        "fr": "J'ai connu cette personne hier.",
+        "en": "I knew this person yesterday."
+      }
+    },
+    "passé_simple": {
+      "forms": {
+        "je": "connus",
+        "tu": "connus",
+        "il/elle/on": "connut",
+        "nous": "connûmes",
+        "vous": "connûtes",
+        "ils/elles": "connurent"
+      },
+      "example": {
+        "fr": "Je connus cette histoire en 2015.",
+        "en": "I knew this story in 2015."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "connaissais",
+        "tu": "connaissais",
+        "il/elle/on": "connaissait",
+        "nous": "connaissions",
+        "vous": "connaissiez",
+        "ils/elles": "connaissaient"
+      },
+      "example": {
+        "fr": "Je connaissais bien ce professeur.",
+        "en": "I knew this teacher well."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais connu",
+        "tu": "avais connu",
+        "il/elle/on": "avait connu",
+        "nous": "avions connu",
+        "vous": "aviez connu",
+        "ils/elles": "avaient connu"
+      },
+      "example": {
+        "fr": "J'avais connu cette situation auparavant.",
+        "en": "I had known this situation before."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "connaîtrai",
+        "tu": "connaîtras",
+        "il/elle/on": "connaîtra",
+        "nous": "connaîtrons",
+        "vous": "connaîtrez",
+        "ils/elles": "connaîtront"
+      },
+      "example": {
+        "fr": "Je connaîtrai la réponse demain.",
+        "en": "I will know the answer tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais connaître",
+        "tu": "vas connaître",
+        "il/elle/on": "va connaître",
+        "nous": "allons connaître",
+        "vous": "allez connaître",
+        "ils/elles": "vont connaître"
+      },
+      "example": {
+        "fr": "Je vais connaître ce film.",
+        "en": "I am going to know this movie."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "connaîtrais",
+        "tu": "connaîtrais",
+        "il/elle/on": "connaîtrait",
+        "nous": "connaîtrions",
+        "vous": "connaîtriez",
+        "ils/elles": "connaîtraient"
+      },
+      "example": {
+        "fr": "Je connaîtrais cette ville si j'avais le temps.",
+        "en": "I would know this city if I had the time."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "que_je": "connaisse",
+        "que_tu": "connaisses",
+        "qu_il_elle_on": "connaisse",
+        "que_nous": "connaissions",
+        "que_vous": "connaissiez",
+        "qu_ils_elles": "connaissent"
+      },
+      "example": {
+        "fr": "Il faut que je connaisse cette personne.",
+        "en": "It is necessary that I know this person."
+      }
+    },
+    "past_subjunctive": {
+      "forms": {
+        "que_je": "aie connu",
+        "que_tu": "aies connu",
+        "qu_il_elle_on": "ait connu",
+        "que_nous": "ayons connu",
+        "que_vous": "ayez connu",
+        "qu_ils_elles": "aient connu"
+      },
+      "example": {
+        "fr": "Je doute que j'aie connu cette vérité.",
+        "en": "I doubt that I knew this truth."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "connaît",
+        "nous": "connaissons",
+        "vous": "connaissez"
+      },
+      "example": {
+        "fr": "Connaissez-vous cet endroit ?",
+        "en": "Do you know this place?"
+      }
+    },
+    "present_infinitive": {
+      "form": "connaître",
+      "example": {
+        "fr": "Il aime connaître de nouvelles personnes.",
+        "en": "He loves to meet new people."
+      }
+    },
+    "past_infinitive": {
+      "form": "avoir connu",
+      "example": {
+        "fr": "Après avoir connu cette situation, il a changé.",
+        "en": "After having known this situation, he changed."
+      }
+    }
+  }
+}

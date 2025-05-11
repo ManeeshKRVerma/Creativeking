@@ -1,0 +1,161 @@
+{
+  "verb": "écrire",
+  "translation": "to write",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "écris",
+        "tu": "écris",
+        "il/elle/on": "écrit",
+        "nous": "écrivons",
+        "vous": "écrivez",
+        "ils/elles": "écrivent"
+      },
+      "example": {
+        "fr": "J'écris une lettre.",
+        "en": "I am writing a letter."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai écrit",
+        "tu": "as écrit",
+        "il/elle/on": "a écrit",
+        "nous": "avons écrit",
+        "vous": "avez écrit",
+        "ils/elles": "ont écrit"
+      },
+      "example": {
+        "fr": "Nous avons écrit un roman.",
+        "en": "We wrote a novel."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "écrivis",
+        "tu": "écrivis",
+        "il/elle/on": "écrivit",
+        "nous": "écrivîmes",
+        "vous": "écrivîtes",
+        "ils/elles": "écrivirent"
+      },
+      "example": {
+        "fr": "Il écrivit une lettre émouvante.",
+        "en": "He wrote a moving letter."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "écrivais",
+        "tu": "écrivais",
+        "il/elle/on": "écrivait",
+        "nous": "écrivions",
+        "vous": "écriviez",
+        "ils/elles": "écrivaient"
+      },
+      "example": {
+        "fr": "Elle écrivait tous les jours.",
+        "en": "She used to write every day."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais écrit",
+        "tu": "avais écrit",
+        "il/elle/on": "avait écrit",
+        "nous": "avions écrit",
+        "vous": "aviez écrit",
+        "ils/elles": "avaient écrit"
+      },
+      "example": {
+        "fr": "Ils avaient écrit avant notre arrivée.",
+        "en": "They had written before our arrival."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "écrirai",
+        "tu": "écriras",
+        "il/elle/on": "écrira",
+        "nous": "écrirons",
+        "vous": "écrirez",
+        "ils/elles": "écriront"
+      },
+      "example": {
+        "fr": "Je t'écrirai demain.",
+        "en": "I will write to you tomorrow."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "écrirais",
+        "tu": "écrirais",
+        "il/elle/on": "écrirait",
+        "nous": "écririons",
+        "vous": "écririez",
+        "ils/elles": "écriraient"
+      },
+      "example": {
+        "fr": "Je t'écrirais si j'avais le temps.",
+        "en": "I would write to you if I had time."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "écrive",
+        "tu": "écrives",
+        "il/elle/on": "écrive",
+        "nous": "écrivions",
+        "vous": "écriviez",
+        "ils/elles": "écrivent"
+      },
+      "example": {
+        "fr": "Il faut que tu écrives ton nom.",
+        "en": "You must write your name."
+      }
+    },
+    "imperatif": {
+      "forms": {
+        "tu": "écris",
+        "nous": "écrivons",
+        "vous": "écrivez"
+      },
+      "example": {
+        "fr": "Écris ton adresse ici.",
+        "en": "Write your address here."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "écrivant",
+        "example": {
+          "fr": "En écrivant, il écoutait de la musique.",
+          "en": "While writing, he listened to music."
+        }
+      },
+      "past": {
+        "form": "écrit",
+        "example": {
+          "fr": "Lettre écrite en hâte.",
+          "en": "Letter written in haste."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "écrire",
+        "example": {
+          "fr": "J'aime écrire.",
+          "en": "I like to write."
+        }
+      },
+      "past": {
+        "form": "avoir écrit",
+        "example": {
+          "fr": "Après avoir écrit, elle est sortie.",
+          "en": "After having written, she went out."
+        }
+      }
+    }
+  }
+}

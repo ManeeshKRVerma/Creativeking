@@ -1,0 +1,284 @@
+{
+  "verb": "faire",
+  "translation": "to do, to make",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "fais",
+        "tu": "fais",
+        "il/elle/on": "fait",
+        "nous": "faisons",
+        "vous": "faites",
+        "ils/elles": "font"
+      },
+      "example": {
+        "fr": "Je fais du sport tous les jours.",
+        "en": "I do sports every day."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai fait",
+        "tu": "as fait",
+        "il/elle/on": "a fait",
+        "nous": "avons fait",
+        "vous": "avez fait",
+        "ils/elles": "ont fait"
+      },
+      "example": {
+        "fr": "Nous avons fait nos devoirs.",
+        "en": "We did our homework."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "fis",
+        "tu": "fis",
+        "il/elle/on": "fit",
+        "nous": "fîmes",
+        "vous": "fîtes",
+        "ils/elles": "firent"
+      },
+      "example": {
+        "fr": "Il fit un excellent travail.",
+        "en": "He did an excellent job."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "faisais",
+        "tu": "faisais",
+        "il/elle/on": "faisait",
+        "nous": "faisions",
+        "vous": "faisiez",
+        "ils/elles": "faisaient"
+      },
+      "example": {
+        "fr": "Elle faisait toujours du bénévolat.",
+        "en": "She always did volunteer work."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "avais fait",
+        "tu": "avais fait",
+        "il/elle/on": "avait fait",
+        "nous": "avions fait",
+        "vous": "aviez fait",
+        "ils/elles": "avaient fait"
+      },
+      "example": {
+        "fr": "Ils avaient fait tout leur travail avant de partir.",
+        "en": "They had done all their work before leaving."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "ferai",
+        "tu": "feras",
+        "il/elle/on": "fera",
+        "nous": "ferons",
+        "vous": "ferez",
+        "ils/elles": "feront"
+      },
+      "example": {
+        "fr": "Je ferai les courses demain.",
+        "en": "I will do the shopping tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais faire",
+        "tu": "vas faire",
+        "il/elle/on": "va faire",
+        "nous": "allons faire",
+        "vous": "allez faire",
+        "ils/elles": "vont faire"
+      },
+      "example": {
+        "fr": "Je vais faire mes devoirs ce soir.",
+        "en": "I am going to do my homework tonight."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train de faire",
+        "tu": "seras en train de faire",
+        "il/elle/on": "sera en train de faire",
+        "nous": "serons en train de faire",
+        "vous": "serez en train de faire",
+        "ils/elles": "seront en train de faire"
+      },
+      "example": {
+        "fr": "Il sera en train de faire du sport à 10h.",
+        "en": "He will be doing sports at 10 AM."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "aurai fait",
+        "tu": "auras fait",
+        "il/elle/on": "aura fait",
+        "nous": "aurons fait",
+        "vous": "aurez fait",
+        "ils/elles": "auront fait"
+      },
+      "example": {
+        "fr": "Tu auras fait tout ce que tu devais faire.",
+        "en": "You will have done everything you had to do."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "ferais",
+        "tu": "ferais",
+        "il/elle/on": "ferait",
+        "nous": "ferions",
+        "vous": "feriez",
+        "ils/elles": "feraien"
+      },
+      "example": {
+        "fr": "Je ferais ça si j'avais plus de temps.",
+        "en": "I would do that if I had more time."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "aurais fait",
+        "tu": "aurais fait",
+        "il/elle/on": "aurait fait",
+        "nous": "aurions fait",
+        "vous": "auriez fait",
+        "ils/elles": "auraient fait"
+      },
+      "example": {
+        "fr": "Elle aurait fait les courses si elle avait eu le temps.",
+        "en": "She would have done the shopping if she had had the time."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "fasse",
+        "tu": "fasses",
+        "il/elle/on": "fasse",
+        "nous": "fassions",
+        "vous": "fassiez",
+        "ils/elles": "fassent"
+      },
+      "example": {
+        "fr": "Il faut que je fasse mes devoirs.",
+        "en": "I must do my homework."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "aie fait",
+        "tu": "aies fait",
+        "il/elle/on": "ait fait",
+        "nous": "ayons fait",
+        "vous": "ayez fait",
+        "ils/elles": "aient fait"
+      },
+      "example": {
+        "fr": "Je doute qu'il ait fait son travail.",
+        "en": "I doubt that he did his work."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "fasse",
+        "tu": "fasses",
+        "il/elle/on": "fît",
+        "nous": "fassions",
+        "vous": "fassiez",
+        "ils/elles": "fassent"
+      },
+      "example": {
+        "fr": "Il fallait qu'il fît ses devoirs.",
+        "en": "It was necessary for him to do his homework."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "eusse fait",
+        "tu": "eusses fait",
+        "il/elle/on": "eût fait",
+        "nous": "eussions fait",
+        "vous": "eussiez fait",
+        "ils/elles": "eussent fait"
+      },
+      "example": {
+        "fr": "Si j'eusse fait le travail, je l'aurais terminé à temps.",
+        "en": "If I had done the work, I would have finished it on time."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "eus fait",
+        "tu": "eus fait",
+        "il/elle/on": "eut fait",
+        "nous": "eûmes fait",
+        "vous": "eûtes fait",
+        "ils/elles": "eurent fait"
+      },
+      "example": {
+        "fr": "Dès qu'ils eurent fait leurs devoirs, ils partirent.",
+        "en": "As soon as they had done their homework, they left."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "fais",
+        "nous": "faisons",
+        "vous": "faites"
+      },
+      "example": {
+        "fr": "Fais-le maintenant !",
+        "en": "Do it now!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "aie fait",
+        "nous": "ayons fait",
+        "vous": "ayez fait"
+      },
+      "example": {
+        "fr": "Aie fait tes devoirs avant de sortir.",
+        "en": "Have done your homework before going out."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "faisant",
+        "example": {
+          "fr": "En faisant ses devoirs, il écoutait de la musique.",
+          "en": "While doing his homework, he was listening to music."
+        }
+      },
+      "past": {
+        "form": "fait",
+        "example": {
+          "fr": "Le travail est fait.",
+          "en": "The work is done."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "faire",
+        "example": {
+          "fr": "Il aime faire du vélo.",
+          "en": "He likes to ride a bike."
+        }
+      },
+      "past": {
+        "form": "avoir fait",
+        "example": {
+          "fr": "Après avoir fait les courses, elle est rentrée.",
+          "en": "After having done the shopping, she went home."
+        }
+      }
+    }
+  }
+}

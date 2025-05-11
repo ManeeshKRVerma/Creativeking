@@ -1,0 +1,284 @@
+{
+  "verb": "aller",
+  "translation": "to go",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "vais",
+        "tu": "vas",
+        "il/elle/on": "va",
+        "nous": "allons",
+        "vous": "allez",
+        "ils/elles": "vont"
+      },
+      "example": {
+        "fr": "Je vais à l'école.",
+        "en": "I go to school."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "suis allé(e)",
+        "tu": "es allé(e)",
+        "il/elle/on": "est allé(e)",
+        "nous": "sommes allé(e)s",
+        "vous": "êtes allé(e)(s)",
+        "ils/elles": "sont allé(e)s"
+      },
+      "example": {
+        "fr": "Elle est allée au marché.",
+        "en": "She went to the market."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "allai",
+        "tu": "allas",
+        "il/elle/on": "alla",
+        "nous": "allâmes",
+        "vous": "allâtes",
+        "ils/elles": "allèrent"
+      },
+      "example": {
+        "fr": "Il alla en France en 1802.",
+        "en": "He went to France in 1802."
+      }
+    },
+    "imparfait": {
+      "forms": {
+        "je": "allais",
+        "tu": "allais",
+        "il/elle/on": "allait",
+        "nous": "allions",
+        "vous": "alliez",
+        "ils/elles": "allaient"
+      },
+      "example": {
+        "fr": "Nous allions souvent à la plage.",
+        "en": "We used to go to the beach often."
+      }
+    },
+    "plus_que_parfait": {
+      "forms": {
+        "je": "étais allé(e)",
+        "tu": "étais allé(e)",
+        "il/elle/on": "était allé(e)",
+        "nous": "étions allé(e)s",
+        "vous": "étiez allé(e)(s)",
+        "ils/elles": "étaient allé(e)s"
+      },
+      "example": {
+        "fr": "Ils étaient allés au cinéma.",
+        "en": "They had gone to the cinema."
+      }
+    },
+    "futur": {
+      "forms": {
+        "je": "irai",
+        "tu": "iras",
+        "il/elle/on": "ira",
+        "nous": "irons",
+        "vous": "irez",
+        "ils/elles": "iront"
+      },
+      "example": {
+        "fr": "J'irai demain.",
+        "en": "I will go tomorrow."
+      }
+    },
+    "futur_proche": {
+      "forms": {
+        "je": "vais aller",
+        "tu": "vas aller",
+        "il/elle/on": "va aller",
+        "nous": "allons aller",
+        "vous": "allez aller",
+        "ils/elles": "vont aller"
+      },
+      "example": {
+        "fr": "Je vais aller à la bibliothèque.",
+        "en": "I'm going to go to the library."
+      }
+    },
+    "futur_continu": {
+      "forms": {
+        "je": "serai en train d'aller",
+        "tu": "seras en train d'aller",
+        "il/elle/on": "sera en train d'aller",
+        "nous": "serons en train d'aller",
+        "vous": "serez en train d'aller",
+        "ils/elles": "seront en train d'aller"
+      },
+      "example": {
+        "fr": "Il sera en train d'aller au travail.",
+        "en": "He will be going to work."
+      }
+    },
+    "futur_antérieur": {
+      "forms": {
+        "je": "serai allé(e)",
+        "tu": "seras allé(e)",
+        "il/elle/on": "sera allé(e)",
+        "nous": "serons allé(e)s",
+        "vous": "serez allé(e)(s)",
+        "ils/elles": "seront allé(e)s"
+      },
+      "example": {
+        "fr": "Nous serons allés avant midi.",
+        "en": "We will have gone before noon."
+      }
+    },
+    "conditionnel": {
+      "forms": {
+        "je": "irais",
+        "tu": "irais",
+        "il/elle/on": "irait",
+        "nous": "irions",
+        "vous": "iriez",
+        "ils/elles": "iraient"
+      },
+      "example": {
+        "fr": "Je irais si j'avais le temps.",
+        "en": "I would go if I had time."
+      }
+    },
+    "conditionnel_passé": {
+      "forms": {
+        "je": "serais allé(e)",
+        "tu": "serais allé(e)",
+        "il/elle/on": "serait allé(e)",
+        "nous": "serions allé(e)s",
+        "vous": "seriez allé(e)(s)",
+        "ils/elles": "seraient allé(e)s"
+      },
+      "example": {
+        "fr": "Elles seraient allées si elles avaient su.",
+        "en": "They would have gone if they had known."
+      }
+    },
+    "subjonctif": {
+      "forms": {
+        "je": "aille",
+        "tu": "ailles",
+        "il/elle/on": "aille",
+        "nous": "allions",
+        "vous": "alliez",
+        "ils/elles": "aillent"
+      },
+      "example": {
+        "fr": "Il faut que tu ailles chez le médecin.",
+        "en": "You must go to the doctor."
+      }
+    },
+    "subjonctif_passé": {
+      "forms": {
+        "je": "sois allé(e)",
+        "tu": "sois allé(e)",
+        "il/elle/on": "soit allé(e)",
+        "nous": "soyons allé(e)s",
+        "vous": "soyez allé(e)(s)",
+        "ils/elles": "soient allé(e)s"
+      },
+      "example": {
+        "fr": "Je doute qu'il soit allé là-bas.",
+        "en": "I doubt he went there."
+      }
+    },
+    "subjonctif_imparfait": {
+      "forms": {
+        "je": "allasse",
+        "tu": "allasses",
+        "il/elle/on": "allât",
+        "nous": "allassions",
+        "vous": "allassiez",
+        "ils/elles": "allassent"
+      },
+      "example": {
+        "fr": "Il fallait qu'elle allât.",
+        "en": "It was necessary that she went."
+      }
+    },
+    "subjonctif_plus_que_parfait": {
+      "forms": {
+        "je": "fusse allé(e)",
+        "tu": "fusses allé(e)",
+        "il/elle/on": "fût allé(e)",
+        "nous": "fussions allé(e)s",
+        "vous": "fussiez allé(e)(s)",
+        "ils/elles": "fussent allé(e)s"
+      },
+      "example": {
+        "fr": "Si je fusse allé, j’aurais su.",
+        "en": "If I had gone, I would have known."
+      }
+    },
+    "passé_antérieur": {
+      "forms": {
+        "je": "fus allé(e)",
+        "tu": "fus allé(e)",
+        "il/elle/on": "fut allé(e)",
+        "nous": "fûmes allé(e)s",
+        "vous": "fûtes allé(e)(s)",
+        "ils/elles": "furent allé(e)s"
+      },
+      "example": {
+        "fr": "Dès qu'il fut allé, elle arriva.",
+        "en": "As soon as he had gone, she arrived."
+      }
+    },
+    "impératif": {
+      "forms": {
+        "tu": "va",
+        "nous": "allons",
+        "vous": "allez"
+      },
+      "example": {
+        "fr": "Va te coucher !",
+        "en": "Go to bed!"
+      }
+    },
+    "impératif_passé": {
+      "forms": {
+        "tu": "sois allé(e)",
+        "nous": "soyons allé(e)s",
+        "vous": "soyez allé(e)(s)"
+      },
+      "example": {
+        "fr": "Soyez allé avant leur arrivée.",
+        "en": "Be gone before their arrival."
+      }
+    },
+    "participe": {
+      "present": {
+        "form": "allant",
+        "example": {
+          "fr": "Allant au travail, j'ai vu Marie.",
+          "en": "Going to work, I saw Marie."
+        }
+      },
+      "past": {
+        "form": "allé",
+        "example": {
+          "fr": "Il est allé rapidement.",
+          "en": "He went quickly."
+        }
+      }
+    },
+    "infinitif": {
+      "present": {
+        "form": "aller",
+        "example": {
+          "fr": "Il aime aller à la plage.",
+          "en": "He likes to go to the beach."
+        }
+      },
+      "past": {
+        "form": "être allé",
+        "example": {
+          "fr": "Après être allé au marché, il est rentré.",
+          "en": "After going to the market, he returned."
+        }
+      }
+    }
+  }
+}
