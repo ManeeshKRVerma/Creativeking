@@ -1,0 +1,55 @@
+{
+  "verb": "Irregular Verbs",
+  "translation": "",
+  "conjugations": {
+    "Irregular Verbs": {
+      "forms": {
+		"Avoir (to have)": "j’ai eu (I have had) -- j’aurai (I will have)",
+		"Être (to be)": "j’ai été (I have been) -- je serai (I will be)",  
+        "Connaitre (To Know)": "j’ai connu -- je connaîtrai",
+        "Reconnaitre (To Recognize)": "j’ai reconnu -- je reconnaîtrai",
+        "permettre (to warn)": "j’ai permis -- je permettrai",
+        "promettre (to promise/pledge)": "j’ai promis -- je promettrai",
+        "Mettre (To Put/Place)": "j’ai mis -- je mettrai",
+        "Conduire (to drive)": "j’ai conduit -- je conduirai",
+        "construire (to build)": "j’ai construit -- je construirai",
+        "detruire (to destroy)": "j’ai détruit -- je détruirai",
+        "produire (to produce)": "j’ai produit -- je produirai",
+        "traduire (to translate)": "j’ai traduit -- je traduirai",
+        "Ecrire (to write)": "j’ai écrit -- j’écrirai",
+        "decrire (to describe)": "j’ai décrit -- je décrirai",
+        "inscrire (to write)": "j’ai inscrit -- j’inscrirai",
+        "Dire (to say/tell)": "j’ai dit -- je dirai",
+        "contredire (to contradict)": "j’ai contredit -- je contredirai",
+        "Offrir (to offer)": "j’ai offert -- j’offrirai",
+        "decouvrir (to discover)": "j’ai découvert -- je découvrirai",
+        "ouvir (to open)": "j’ai ouvert -- j’ouvrirai",
+        "souffrir (to suffer)": "j’ai souffert -- je souffrirai",
+        "Partir (to leave)": "je suis parti(e) -- je partirai",
+        "sortir (to go out)": "je suis sorti(e) -- je sortirai",
+        "Prendre (to take)": "j’ai pris -- je prendrai",
+        "comprendre (to understand)": "j’ai compris -- je comprendrai",
+        "apprendre (to learn)": "j’ai appris -- j’apprendrai",
+        "rire (to laugh)": "j’ai ri -- je rirai",
+        "sourire (to smile)": "j’ai souri -- je sourirai",
+        "Venir (to Come)": "je suis venu(e) -- je viendrai",
+        "Devenir (to become)": "je suis devenu(e) -- je deviendrai",
+        "prevenir (to warn/tell in advance)": "j’ai prévenu -- je préviendrai",
+        "Revenir (to come back)": "je suis revenu(e) -- je reviendrai",
+        "se souvenir (to remember)": "je me suis souvenu(e) -- je me souviendrai",
+        "Recevoir (to receive)": "j’ai reçu -- je recevrai",
+        "Naitre (to be born)": "je suis né(e) -- je naîtrai",
+        "Envoyer (to send)": "j’ai envoyé -- j’enverrai",
+        "Accueillir (to welcome)": "j’ai accueilli -- j’accueillerai",
+        "se taire (to be quiet / to stop talking)": "je me suis tu(e) -- je me tairai",
+        "s'asseoir (to sit down)": "je me suis assis(e) -- je m’assiérai / m’assoirai",
+        "Refournir (to resupply / to provide again)": "j’ai refourni -- je refournirai",
+        "Croire (to believe)": "j’ai cru -- je croirai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+  }
+}
