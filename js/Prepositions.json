@@ -1,0 +1,102 @@
+{
+  "verb": "Prepositions",
+  "translation": "",
+  "conjugations": {
+    "Prepositions of Place / Direction (Lieux / Direction)": {
+      "forms": {
+        "à (to, at, in)": "Je vais à Paris.--I’m going to Paris.",
+        "chez (at the home of)": "Je suis chez moi.--I’m at home.",
+        "dans (in, inside)": "Le livre est dans le sac.--The book is in the bag.",
+        "entre (between)": "Il est entre deux voitures.--He’s between two cars.",
+        "sur (on)": "Le stylo est sur la table.--The pen is on the table.",
+        "sous (under)": "Le chat est sous la chaise.--The cat is under the chair.",
+        "devant (in front of)": "Il est devant la porte.--He’s in front of the door.",
+        "derrière (behind)": "Le jardin est derrière la maison.--The garden is behind the house.",
+        "Avant (Before)": "",
+        "Apres (after)": "",
+		"Avec (With)": "",
+        "Sans (without)": "",
+		"a gouche (to the left)": "",
+        "a droite de (to the right)": "",
+		"A cote de (next,near)": "",
+        "près de (near, close to, far)": "L’école est près de la gare.--The school is near the station.",
+        "loin de (far from)": "Elle habite loin de la ville.--She lives far from the city.",
+        "au-dessus de (above, over)": "L’avion vole au-dessus de la mer.--The plane flies above the sea.",
+        "au-dessous de (below, under)": "La cave est au-dessous de la maison.--The cellar is below the house.",
+		"autour de (around)": "",
+		"en face de (in front of, across from)": "",
+		"Vers (Towards/around)": "",
+		"au milien (in the middle of)": "",
+		"tous les de (Every other)": ""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+    "Prepositions of Time (Temps)": {
+      "forms": {
+        "à (at (specific time))": "Le train part à 8h.--The train leaves at 8.",
+        "en (in (months, years, duration))": "Il est né en juin.--He was born in June.",
+        "depuis (since, for (duration))": "J’habite ici depuis 2010.--I’ve lived here since 2010.",
+        "pendant (during, for)": "Il a dormi pendant 2 heures.--He slept for 2 hours.",
+        "avant (before)": "Je pars avant midi.--I’m leaving before noon.",
+        "après (after)": "On se voit après le travail.--We’ll see each other after work.",
+        "jusqu’à (until, up to)": "Il reste jusqu’à 18h.--He stays until 6 PM."
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Prepositions of Cause, Manner, Purpose (Cause, Manière, But)": {
+      "forms": {
+		"à cause de (because of (negative))":"Il est parti à cause de la pluie. → He left because of the rain.",
+		"grâce à (thanks to (positive))":"J’ai réussi grâce à toi. → I succeeded thanks to you.",
+		"pour (for, in order to)":"C’est pour toi. → It’s for you.",
+		"sans (without)":"Il est parti sans dire au revoir. → He left without saying goodbye.",
+		"selon (according to)":"Selon lui, c’est vrai. → According to him, it’s true.",
+		"avec (with)":"Je travaille avec elle. → I’m working with her.",
+		"comme (like, as)":"Il travaille comme serveur. → He works as a waiter."
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Prepositions in Fixed Expressions": {
+      "forms": {
+		"en face de (opposite)":"",
+		"au lieu de (instead of)":"",
+		"à propos de (about)":"",
+		"en train de (in the process of)":"",
+		"à partir de (starting from)":"",
+		"à côté de (next to)":"",
+		"à l’intérieur de (inside)":"",
+		"à l’extérieur de (outside)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Others": {
+      "forms": {
+		"Il y a (There is/are)":"",
+		"Il y avait (There was/were)":"",
+		"Ca va mieux (It's better)":"",
+		"Ensuite (Then)":"",
+		"Puis (Then)":"",
+		"meme (same)":"",
+		"drole (funny)":"",
+		"Parce-que (because)":"",
+		"souvent (often)":"",
+		"partout (Every where)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+  }
+}

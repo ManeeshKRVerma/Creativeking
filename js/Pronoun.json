@@ -1,0 +1,97 @@
+{
+  "verb": "Prepositions",
+  "translation": "",
+  "conjugations": {
+    "Reflexive Pronouns (Les pronoms réfléchis)": {
+      "forms": {
+        "me (myself)": "Je me lève à 7h. → I get up at 7.",
+        "te (yourself)": "Tu te brosses les dents. → You brush your teeth.",
+        "se (himself/herself/itself)": "Il se lave. → He washes himself.",
+        "nous (ourselves)": "Nous nous amusons. → We’re having fun.",
+        "vous (yourself/yourselves)": "Vous vous habillez vite. → You dress quickly.",
+        "se (themselves)": "Elles se parlent souvent. → They talk to each other often."
+      },
+      "example": {
+        "fr": "Used with reflexive verbs when the subject does something to themselves. ref65lexive pronouns + verb.",
+        "en": ""
+      }
+    },
+    "Direct Object Pronouns (Les pronoms compléments d’objet direct)": {
+      "forms": {
+        "me (me)": "Il me voit. → He sees me.",
+        "te (you)": "Je te connais. → I know you.",
+        "le (him/it)": "Elle le mange. → She eats it.",
+        "la (her/it)": "Je la vois. → I see her.",
+        "nous (us)": "Ils nous aiment. → They love us.",
+        "vous (you)": "Je vous entends. → I hear you.",
+        "les (them)": "Il les lit. → He reads them."
+      },
+      "example": {
+        "fr": "Replace the direct object (what or who receives the action directly).",
+        "en": ""
+      }
+    },
+    "Indirect Object Pronouns (Les pronoms compléments d’objet indirect)": {
+      "forms": {
+        "me (to me)": "Il me parle. → He talks to me.",
+        "te (to you)": "Je te téléphone. → I call you.",
+        "lui (to him/her)": "Elle lui écrit. → She writes to him/her.",
+        "nous (to us)": "Ils nous donnent un cadeau. → They give us a gift.",
+        "vous (to you)": "Je vous réponds. → I reply to you.",
+        "leur (to them)": "Il leur parle. → He talks to them."
+      },
+      "example": {
+        "fr": "Used when the verb is followed by à + person<br>In French, lui is an indirect object pronoun, and indirect object pronouns come before the verb",
+        "en": "Elle écrit une lettre à Marc. → Elle lui écrit."
+      }
+    },
+    "Disjunctive / Stressed Pronouns (Les pronoms disjoints)": {
+      "forms": {
+        "moi (me)":"C’est moi ! → It’s me!",
+	"toi (you)":"Pour toi, je ferais tout. → For you, I’d do anything.",
+	"lui (him)":"Je pense à lui. → I’m thinking about him.",
+	"elle (her)":"Avec elle, c’est toujours amusant. → With her, it’s always fun.",
+	"nous (us)":"Entre nous, c’est fini. → Between us, it’s over.",
+	"vous (you)":"Sans vous, je suis perdu. → Without you, I’m lost.",
+	"eux (them (masc))":"Je parle d’eux. → I’m talking about them.",
+	"elles (them (fem))":"J’ai vu elles aussi. → I saw them too.",
+	"soi (oneself)":"Chacun pense à soi. → Everyone thinks of themselves."
+      },
+      "example": {
+        "fr": "Used for emphasis, after prepositions, or alone.",
+        "en": ""
+      }
+    },
+   "Possessive Pronouns (Les pronoms possessifs)": {
+   "forms": {
+        "le mien / la mienne (mine)":"Ce livre est le mien. → That book is mine.",
+"les miens / les miennes (mine (pl.))":"Ce sont les miens. → They are mine.",
+"le tien / la tienne les tiens / les tiennes (yours (inf.))":"La voiture ? C’est la tienne. → The car? It’s yours.",
+"le sien / la sienne /les siens / les siennes (his/hers)":"Ce stylo est le sien. → That pen is his.",
+"le nôtre / la nôtre /  les nôtres (ours)":"Cette idée est la nôtre. → This idea is ours.",
+"le vôtre / la vôtre /  les vôtres (yours (formal/pl.))":"Voilà le vôtre. → Here’s yours.",
+"le leur / la leur /les leurs (theirs)":"C’est le leur. → It’s theirs."
+      },
+      "example": {
+        "fr": "Replace a noun and show ownership.",
+        "en": ""
+      }
+    },
+	"Demonstrative Pronouns (Les pronoms démonstratifs)": {
+      "forms": {
+        "Celui-là":"That one (masculine)",
+"Celles-ci":"These ones (feminine)",
+"Point to something/someone already mentioned or known":"",
+"celui (the one (masc))":"Celui que je préfère est bleu. → The one I prefer is blue.",
+"celle (the one (fem))":"Celle-ci est jolie. → This one is pretty.",
+"ceux (the ones (masc))":"J’aime ceux du fond. → I like the ones in the back.",
+"celles (the ones (fem))":"Celles que tu vois sont nouvelles. → The ones you see are new.",
+"ceci / cela / ça (this / that)":"Ceci est important. → This is important., Ça va ? → How’s it going?, Cela ne me plaît pas. → I don’t like that."
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+  }
+}
