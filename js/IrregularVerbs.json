@@ -2,49 +2,220 @@
   "verb": "Irregular Verbs",
   "translation": "",
   "conjugations": {
-    "Irregular Verbs": {
+	"Bring": {
       "forms": {
-		"Avoir (to have)": "j’ai eu (I have had) -- j’aurai (I will have)",
-		"Être (to be)": "j’ai été (I have been) -- je serai (I will be)",  
-        "Connaitre (To Know)": "j’ai connu -- je connaîtrai",
-        "Reconnaitre (To Recognize)": "j’ai reconnu -- je reconnaîtrai",
-        "permettre (to warn)": "j’ai permis -- je permettrai",
+		"Amener": "to bring (a person/animal) to a place. <br> You're taking someone with you to somewhere, and usually leaving them there.<br>Je vais amener mon fils chez le médecin.(I'm going to bring my son to the doctor.)",
+		"Emmener": "to take (a person/animal) away from a place. <br> You're taking someone with you and staying together or continuing elsewhere.<br>J'emmène ma sœur en vacances.(I'm taking my sister on vacation.)",  
+        "Apporter": "to bring (an object) to a place. <br> Usually involves carrying something and delivering it somewhere. <br> Il a apporté un gâteau à la fête.(He brought a cake to the party.)",
+        "Emporter": "to take (an object) away from a place. <br>You are taking something with you, often to use elsewhere. <br>J'ai emporté mon ordinateur pour travailler. (I took my laptop to work.)"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Connaitre(To Know)": {
+      "forms": {
+		"Connaitre (To Know)": "j’ai connu -- je connaîtrai",
+		"Reconnaitre (To Recognize)": "j’ai reconnu -- je reconnaîtrai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Mettre (To Put/Place)": {
+      "forms": {
+		"permettre (to warn)": "j’ai permis -- je permettrai",
         "promettre (to promise/pledge)": "j’ai promis -- je promettrai",
-        "Mettre (To Put/Place)": "j’ai mis -- je mettrai",
+        "Mettre (To Put/Place)": "j’ai mis -- je mettrai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Conduire (to drive)": {
+      "forms": {
         "Conduire (to drive)": "j’ai conduit -- je conduirai",
         "construire (to build)": "j’ai construit -- je construirai",
         "detruire (to destroy)": "j’ai détruit -- je détruirai",
         "produire (to produce)": "j’ai produit -- je produirai",
-        "traduire (to translate)": "j’ai traduit -- je traduirai",
+        "traduire (to translate)": "j’ai traduit -- je traduirai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Ecrire (to write)": {
+      "forms": {
         "Ecrire (to write)": "j’ai écrit -- j’écrirai",
         "decrire (to describe)": "j’ai décrit -- je décrirai",
-        "inscrire (to write)": "j’ai inscrit -- j’inscrirai",
+        "inscrire (to write)": "j’ai inscrit -- j’inscrirai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Dire (to say/tell)": {
+      "forms": {
         "Dire (to say/tell)": "j’ai dit -- je dirai",
-        "contredire (to contradict)": "j’ai contredit -- je contredirai",
+        "contredire (to contradict)": "j’ai contredit -- je contredirai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Offrir (to offer)": {
+      "forms": {
         "Offrir (to offer)": "j’ai offert -- j’offrirai",
         "decouvrir (to discover)": "j’ai découvert -- je découvrirai",
         "ouvir (to open)": "j’ai ouvert -- j’ouvrirai",
-        "souffrir (to suffer)": "j’ai souffert -- je souffrirai",
-        "Partir (to leave)": "je suis parti(e) -- je partirai",
-        "sortir (to go out)": "je suis sorti(e) -- je sortirai",
+        "souffrir (to suffer)": "j’ai souffert -- je souffrirai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Prendre (to take)": {
+      "forms": {
         "Prendre (to take)": "j’ai pris -- je prendrai",
         "comprendre (to understand)": "j’ai compris -- je comprendrai",
-        "apprendre (to learn)": "j’ai appris -- j’apprendrai",
+        "apprendre (to learn)": "j’ai appris -- j’apprendrai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Partir (to leave)": {
+      "forms": {
+        "Partir (to leave)": "je suis parti(e) -- je partirai",
+        "sortir (to go out)": "je suis sorti(e) -- je sortirai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"rire (to laugh)": {
+      "forms": {
         "rire (to laugh)": "j’ai ri -- je rirai",
-        "sourire (to smile)": "j’ai souri -- je sourirai",
+        "sourire (to smile)": "j’ai souri -- je sourirai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Venir (to Come)": {
+      "forms": {
         "Venir (to Come)": "je suis venu(e) -- je viendrai",
         "Devenir (to become)": "je suis devenu(e) -- je deviendrai",
         "prevenir (to warn/tell in advance)": "j’ai prévenu -- je préviendrai",
         "Revenir (to come back)": "je suis revenu(e) -- je reviendrai",
-        "se souvenir (to remember)": "je me suis souvenu(e) -- je me souviendrai",
-        "Recevoir (to receive)": "j’ai reçu -- je recevrai",
-        "Naitre (to be born)": "je suis né(e) -- je naîtrai",
-        "Envoyer (to send)": "j’ai envoyé -- j’enverrai",
-        "Accueillir (to welcome)": "j’ai accueilli -- j’accueillerai",
+        "se souvenir (to remember)": "je me suis souvenu(e) -- je me souviendrai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"préférer (to prefer)": {
+      "forms": {
+		"préférer (to prefer)" : "j'ai préféré  --  je préférerai",
+		"répéter (to repeat)" : "j'ai répété  --  je répéterai",
+		"espérer (to hope)" : "j'ai espéré  --  j'espérerai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },	
+	"préférer (to prefer)": {
+      "forms": {
+		"préférer (to prefer)" : "j'ai préféré  --  je préférerai",
+		"répéter (to repeat)" : "j'ai répété  --  je répéterai",
+		"espérer (to hope)" : "j'ai espéré  --  j'espérerai",
+		"accélérer (to accelerate)" : "j'ai accéléré  --  j'accélérerai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Manger (to Eat)": {
+      "forms": {
+		"ranger (to tidy up / to put away)" : "",
+		"Changer (To Change)" : "",
+		"Voyager (To Travel)" : "",
+		"menager (to manage/care for (a home))" : "",
+		"corriger (to correct)" : "",
+		"Nager(To Swim)" : ""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"amener (to bring (a person))": {
+      "forms": {
+		"acheter (to buy)" : "j'ai acheté  --  j'achèterai",
+   		"se lever (to get up)" : "je me suis levé(e)  --  je me lèverai",
+		"amener (to bring (a person))" : "j'ai amené  --  j'amènerai",
+		"se promener (to take a walk)" : "je me suis promené(e)  --  je me promènerai"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"essayer (to try)": {
+      "forms": {
+		"essayer (to try)" : "j'ai essayé  --  j'essaierai (or essayerai)",
+		"payer (to pay)" : "j'ai payé  --  je paierai (or payerai)"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+
+	"Irregular Verbs": {
+      "forms": {
+		"Avoir (to have)": "j’ai eu (I have had) -- j’aurai (I will have)",
+		"Naitre (to be born)": "je suis né(e) -- je naîtrai",
         "se taire (to be quiet / to stop talking)": "je me suis tu(e) -- je me tairai",
-        "s'asseoir (to sit down)": "je me suis assis(e) -- je m’assiérai / m’assoirai",
+		"boire (to drink)" : "j'ai bu  --  je boirai",
+		"devoir (to have to, must)" : "j'ai dû  --  je devrai",
+		"lire (to read)" : "j'ai lu  --  je lirai",
+		"pouvoir (to be able to, can)" : "j'ai pu  --  je pourrai",
+		"savoir (to know (a fact))" : "j'ai su  --  je saurai",
+		"voir (to see)" : "j'ai vu  --  je verrai",
+		"Être (to be)": "j’ai été (I have been) -- je serai (I will be)",  
+        "Recevoir (to receive)": "j’ai reçu -- je recevrai",
+		"Envoyer (to send)": "j’ai envoyé -- j’enverrai",
+        "Accueillir (to welcome)": "j’ai accueilli -- j’accueillerai",
+		"s'asseoir (to sit down)": "je me suis assis(e) -- je m’assiérai / m’assoirai",
         "Refournir (to resupply / to provide again)": "j’ai refourni -- je refournirai",
-        "Croire (to believe)": "j’ai cru -- je croirai"
+        "Croire (to believe)": "j’ai cru -- je croirai",
+		"aller (to go)" : "je suis allé(e)  --  j'irai",
+		"apercevoir (to notice, glimpse)" : "j'ai aperçu  --  j'apercevrai",
+		"appeler (to call)" : "j'ai appelé  --  j'appellerai",
+		"courir (to run)" : "j'ai couru  --  je courrai",
+		"dormir (to sleep)" : "j'ai dormi  --  je dormirai",
+		"faire (to do, to make)" : "j'ai fait  --  je ferai",
+		"falloir (to be necessary)" : "il a fallu (impersonal)  --  il faudra (impersonal)",
+		"mourir (to die)" : "je suis mort(e)  --  je mourrai",
+		"pleuvoir (to rain)" : "il a plu (impersonal)  --  il pleuvra (impersonal)",
+		"s'apercevoir (to notice, realize)" : "je me suis aperçu(e)  --  je m'apercevrai",
+		"suivre (to follow)" : "j'ai suivi  --  je suivrai",
+		"vivre (to live)" : "j'ai vécu  --  je vivrai",
+		"vouloir (to want)" : "j'ai voulu  --  je voudrai"
       },
       "example": {
         "fr": "",
