@@ -1,0 +1,157 @@
+{
+  "verb": "s'asseoir",
+  "translation": "to sit down",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "m'assois",
+        "tu": "t'assois",
+        "il/elle/on": "s'assoit",
+        "nous": "nous asseyons",
+        "vous": "vous asseyez",
+        "ils/elles": "s'assoient"
+      },
+      "example": {
+        "fr": "Je m'assois sur la chaise.",
+        "en": "I sit down on the chair."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "me suis assis(e)",
+        "tu": "t'es assis(e)",
+        "il/elle/on": "s'est assis(e)",
+        "nous": "nous sommes assis(es)",
+        "vous": "vous êtes assis(es)",
+        "ils/elles": "se sont assis(es)"
+      },
+      "example": {
+        "fr": "Il s'est assis près de la fenêtre.",
+        "en": "He sat down near the window."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "m'assis",
+        "tu": "t'assis",
+        "il/elle/on": "s'assit",
+        "nous": "nous assîmes",
+        "vous": "vous assîtes",
+        "ils/elles": "s'assirent"
+      },
+      "example": {
+        "fr": "Elle s'assit sur le banc et attendit.",
+        "en": "She sat on the bench and waited."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "m'assoyais",
+        "tu": "t'assoyais",
+        "il/elle/on": "s'assoyait",
+        "nous": "nous asseyions",
+        "vous": "vous asseyiez",
+        "ils/elles": "s'asseyaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je m'asseyais toujours là.",
+        "en": "When I was young, I always sat there."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "m'étais assis(e)",
+        "tu": "t'étais assis(e)",
+        "il/elle/on": "s'était assis(e)",
+        "nous": "nous étions assis(es)",
+        "vous": "vous étiez assis(es)",
+        "ils/elles": "s'étaient assis(es)"
+      },
+      "example": {
+        "fr": "Il s'était assis avant moi.",
+        "en": "He had sat down before me."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "m'assoirai",
+        "tu": "t'assoiras",
+        "il/elle/on": "s'assoirra",
+        "nous": "nous assoirons",
+        "vous": "vous assoirez",
+        "ils/elles": "s'assoiront"
+      },
+      "example": {
+        "fr": "Je m'assoirai ici demain.",
+        "en": "I will sit here tomorrow."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "m'assoirais",
+        "tu": "t'assoirais",
+        "il/elle/on": "s'assoirait",
+        "nous": "nous assoirions",
+        "vous": "vous assoiriez",
+        "ils/elles": "s'assoiraient"
+      },
+      "example": {
+        "fr": "Nous nous assoirions si la chaise était libre.",
+        "en": "We would sit if the chair were free."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "m'assoie",
+        "tu": "t'assoies",
+        "il/elle/on": "s'assoie",
+        "nous": "nous asseyions",
+        "vous": "vous asseyiez",
+        "ils/elles": "s'assoient"
+      },
+      "example": {
+        "fr": "Il faut que je m'assoie ici.",
+        "en": "It is necessary that I sit here."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "assois-toi",
+        "nous": "asseyons-nous",
+        "vous": "asseyez-vous"
+      },
+      "example": {
+        "fr": "Assieds-toi et détends-toi.",
+        "en": "Sit down and relax."
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "asseyant",
+        "past": "assis"
+      },
+      "example": {
+        "fr": "En s'asseyant, il a trouvé un endroit calme.",
+        "en": "By sitting down, he found a quiet place."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "s'asseoir"
+      },
+      "example": {
+        "fr": "Elle aime s'asseoir dans le jardin.",
+        "en": "She likes to sit in the garden."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "être assis"
+      },
+      "example": {
+        "fr": "Après être assis, il a commencé à lire.",
+        "en": "After sitting down, he started reading."
+      }
+    }
+  }
+}

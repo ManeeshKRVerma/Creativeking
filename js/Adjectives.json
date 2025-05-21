@@ -1,0 +1,48 @@
+{
+  "verb": "Adjectives",
+  "translation": " Most descriptive adjectives come after the noun, but some common short adjectives (like beau, grand, petit, joli, bon, mauvais) go before the noun.<br>Une jolie robe.<br>Un homme intelligent",
+  "conjugations": {
+    "Possesive Adjectives": {
+      "forms": {
+        "Je" : "Mon - Ma - Mes",
+		"Je" : "Moi - Me",
+		"Tu" : "Ton - Ta - Tes",
+		"il/elle" : "Son - Sa - Ses",
+		"Nous" : "Notre - Notre - Nos",
+		"Vous" : "Votre - VOtre - Vos",
+		"ils/Elles" : "Leur - Leur - Leurs"
+      },
+      "example": {
+        "fr": "if Noun is feminine and starts with vowels then use mon/ton/son",
+        "en": ""
+      }
+    },
+    "Interrogative Adjectives": {
+      "forms": {
+        "Quel (Masculin singulier)" : "What/Which",
+		"Quels (Masculin pluirel)" : "What/Which",
+		"Quelle (Feminine singulier)" : "What/Which",
+		"Quelles (Feminine pluirel)" : "What/Which"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+    "Demonstrative Adjectives": {
+      "forms": {
+        "Ce (Masculin singulier)" : "This/That ",
+		"Cet (Masculin singulier with vowels and silent h)" : "This/That",
+		"Cette (Feminine singulier/pluirel)" : "This/That",
+		"Ces (Feminine & Masculin pluirel)" : "These/Those",
+		"Ca" : "This/It (formal)",
+		"Cela" : "This/It (Informal)",
+		"Ci" : "This/It"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+}
+}

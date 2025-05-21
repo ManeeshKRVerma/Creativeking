@@ -91,7 +91,33 @@
 		"drole (funny)":"",
 		"Parce-que (because)":"",
 		"souvent (often)":"",
-		"partout (Every where)":""
+		"partout (Every where)":"",
+		"Tout le monde (Everyone)":"",
+		"Tout (Everything)" :"",
+		"Chaque fois (Everytime)":"",
+		"Quelque part (somewhere)":"",
+		"Quelqu’un (someone)":"",
+		"Quelque chose (something)":"",
+		"Quelquefois / Parfois (sometime)":"",
+		"Un jour (One Day)":"",
+		"Il était une fois (Once upon a time)":"",
+		"Comme ci, comme ça (so-so)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Adverbs of Quantity": {
+      "forms": {
+		"Assez de":"enough",
+		"Beaucoup de":"a lot, many",
+		"Combien de":"How much/How many",
+		"Plus de":"more",
+		"Moins de":"less",
+		"Un peu de":"few, a little",
+		"Trop de":"too much/too many",
+		"Tant de":"So much/So many"
       },
       "example": {
         "fr": "",

@@ -1,0 +1,117 @@
+{
+  "verb": "falloir",
+  "translation": "to be necessary / must / have to <br> Since falloir is an impersonal verb, it is only conjugated in the third person singular (il) in all tenses.",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "il": "faut"
+      },
+      "example": {
+        "fr": "Il faut étudier tous les jours.",
+        "en": "One must study every day."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "il": "a fallu"
+      },
+      "example": {
+        "fr": "Il a fallu partir tôt.",
+        "en": "It was necessary to leave early."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "il": "fallut"
+      },
+      "example": {
+        "fr": "Il fallut attendre une heure.",
+        "en": "It was necessary to wait an hour."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "il": "fallait"
+      },
+      "example": {
+        "fr": "Il fallait faire attention.",
+        "en": "It was necessary to be careful."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "il": "avait fallu"
+      },
+      "example": {
+        "fr": "Il avait fallu demander de l'aide.",
+        "en": "It had been necessary to ask for help."
+      }
+    },
+    "future": {
+      "forms": {
+        "il": "faudra"
+      },
+      "example": {
+        "fr": "Il faudra y aller demain.",
+        "en": "It will be necessary to go there tomorrow."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "il": "faudrait"
+      },
+      "example": {
+        "fr": "Il faudrait lui parler.",
+        "en": "It would be necessary to speak to him."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "il": "faille"
+      },
+      "example": {
+        "fr": "Il faut qu’il faille faire un choix.",
+        "en": "It is necessary that a choice must be made."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "—",
+        "nous": "—",
+        "vous": "—"
+      },
+      "example": {
+        "fr": "Falloir n’a pas d’impératif.",
+        "en": "Falloir has no imperative form."
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "—",
+        "past": "fallu"
+      },
+      "example": {
+        "fr": "Il a agi comme s’il avait fallu courir.",
+        "en": "He acted as if it had been necessary to run."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "falloir"
+      },
+      "example": {
+        "fr": "Il semble falloir une autorisation.",
+        "en": "It seems necessary to have authorization."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir fallu"
+      },
+      "example": {
+        "fr": "Après avoir fallu intervenir, ils sont partis.",
+        "en": "After it had been necessary to intervene, they left."
+      }
+    }
+  }
+}

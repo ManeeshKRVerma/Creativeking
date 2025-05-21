@@ -1,0 +1,157 @@
+{
+  "verb": "appeler",
+  "translation": "to call",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "appelle",
+        "tu": "appelles",
+        "il/elle/on": "appelle",
+        "nous": "appelons",
+        "vous": "appelez",
+        "ils/elles": "appellent"
+      },
+      "example": {
+        "fr": "Je t'appelle ce soir.",
+        "en": "I’ll call you tonight."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai appelé",
+        "tu": "as appelé",
+        "il/elle/on": "a appelé",
+        "nous": "avons appelé",
+        "vous": "avez appelé",
+        "ils/elles": "ont appelé"
+      },
+      "example": {
+        "fr": "Nous avons appelé le médecin.",
+        "en": "We called the doctor."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "appelai",
+        "tu": "appelas",
+        "il/elle/on": "appela",
+        "nous": "appelâmes",
+        "vous": "appelâtes",
+        "ils/elles": "appelèrent"
+      },
+      "example": {
+        "fr": "Elle appela son ami immédiatement.",
+        "en": "She called her friend immediately."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "appelais",
+        "tu": "appelais",
+        "il/elle/on": "appelait",
+        "nous": "appelions",
+        "vous": "appeliez",
+        "ils/elles": "appelaient"
+      },
+      "example": {
+        "fr": "Quand j’étais enfant, j’appelais souvent ma grand-mère.",
+        "en": "When I was a child, I used to call my grandmother often."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais appelé",
+        "tu": "avais appelé",
+        "il/elle/on": "avait appelé",
+        "nous": "avions appelé",
+        "vous": "aviez appelé",
+        "ils/elles": "avaient appelé"
+      },
+      "example": {
+        "fr": "Ils avaient déjà appelé avant mon arrivée.",
+        "en": "They had already called before I arrived."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "appellerai",
+        "tu": "appelleras",
+        "il/elle/on": "appellera",
+        "nous": "appellerons",
+        "vous": "appelerez",
+        "ils/elles": "appelleront"
+      },
+      "example": {
+        "fr": "Je t’appellerai demain matin.",
+        "en": "I will call you tomorrow morning."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "appellerais",
+        "tu": "appellerais",
+        "il/elle/on": "appellerait",
+        "nous": "appellerions",
+        "vous": "appelleriez",
+        "ils/elles": "appelleraient"
+      },
+      "example": {
+        "fr": "Il appellerait s’il avait le temps.",
+        "en": "He would call if he had the time."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "appelle",
+        "tu": "appelles",
+        "il/elle/on": "appelle",
+        "nous": "appelions",
+        "vous": "appeliez",
+        "ils/elles": "appellent"
+      },
+      "example": {
+        "fr": "Il faut que tu appelles ta sœur.",
+        "en": "You must call your sister."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "appelle",
+        "nous": "appelons",
+        "vous": "appelez"
+      },
+      "example": {
+        "fr": "Appelez-moi dès que possible.",
+        "en": "Call me as soon as possible."
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "appelant",
+        "past": "appelé"
+      },
+      "example": {
+        "fr": "En appelant trop tard, elle a manqué la réunion.",
+        "en": "By calling too late, she missed the meeting."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "appeler"
+      },
+      "example": {
+        "fr": "Il préfère appeler plutôt qu’écrire.",
+        "en": "He prefers to call rather than write."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir appelé"
+      },
+      "example": {
+        "fr": "Après avoir appelé, il a envoyé un message.",
+        "en": "After having called, he sent a message."
+      }
+    }
+  }
+}

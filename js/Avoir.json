@@ -1,0 +1,157 @@
+{
+  "verb": "avoir",
+  "translation": "to have",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "ai",
+        "tu": "as",
+        "il/elle/on": "a",
+        "nous": "avons",
+        "vous": "avez",
+        "ils/elles": "ont"
+      },
+      "example": {
+        "fr": "J'ai un chien.",
+        "en": "I have a dog."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai eu",
+        "tu": "as eu",
+        "il/elle/on": "a eu",
+        "nous": "avons eu",
+        "vous": "avez eu",
+        "ils/elles": "ont eu"
+      },
+      "example": {
+        "fr": "Elle a eu une idée brillante.",
+        "en": "She had a brilliant idea."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "eus",
+        "tu": "eus",
+        "il/elle/on": "eut",
+        "nous": "eûmes",
+        "vous": "eûtes",
+        "ils/elles": "eurent"
+      },
+      "example": {
+        "fr": "Il eut une révélation soudaine.",
+        "en": "He had a sudden revelation."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "avais",
+        "tu": "avais",
+        "il/elle/on": "avait",
+        "nous": "avions",
+        "vous": "aviez",
+        "ils/elles": "avaient"
+      },
+      "example": {
+        "fr": "Quand j'étais petit, j'avais un vélo rouge.",
+        "en": "When I was little, I had a red bike."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais eu",
+        "tu": "avais eu",
+        "il/elle/on": "avait eu",
+        "nous": "avions eu",
+        "vous": "aviez eu",
+        "ils/elles": "avaient eu"
+      },
+      "example": {
+        "fr": "Nous avions eu des problèmes similaires.",
+        "en": "We had had similar problems."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "aurai",
+        "tu": "auras",
+        "il/elle/on": "aura",
+        "nous": "aurons",
+        "vous": "aurez",
+        "ils/elles": "auront"
+      },
+      "example": {
+        "fr": "Tu auras du succès.",
+        "en": "You will have success."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "aurais",
+        "tu": "aurais",
+        "il/elle/on": "aurait",
+        "nous": "aurions",
+        "vous": "auriez",
+        "ils/elles": "auraient"
+      },
+      "example": {
+        "fr": "J'aurais plus de temps demain.",
+        "en": "I would have more time tomorrow."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "aie",
+        "tu": "aies",
+        "il/elle/on": "ait",
+        "nous": "ayons",
+        "vous": "ayez",
+        "ils/elles": "aient"
+      },
+      "example": {
+        "fr": "Il faut que tu aies confiance.",
+        "en": "You need to have confidence."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "aie",
+        "nous": "ayons",
+        "vous": "ayez"
+      },
+      "example": {
+        "fr": "Aie confiance en toi.",
+        "en": "Have confidence in yourself."
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "ayant",
+        "past": "eu"
+      },
+      "example": {
+        "fr": "Ayant fini, il partit.",
+        "en": "Having finished, he left."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "avoir"
+      },
+      "example": {
+        "fr": "Il espère avoir une réponse bientôt.",
+        "en": "He hopes to have an answer soon."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir eu"
+      },
+      "example": {
+        "fr": "Après avoir eu la grippe, elle s’est reposée.",
+        "en": "After having had the flu, she rested."
+      }
+    }
+  }
+}

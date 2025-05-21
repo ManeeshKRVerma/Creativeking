@@ -1,0 +1,157 @@
+{
+  "verb": "dormir",
+  "translation": "to sleep",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "dors",
+        "tu": "dors",
+        "il/elle/on": "dort",
+        "nous": "dormons",
+        "vous": "dormez",
+        "ils/elles": "dorment"
+      },
+      "example": {
+        "fr": "Je dors huit heures par nuit.",
+        "en": "I sleep eight hours a night."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai dormi",
+        "tu": "as dormi",
+        "il/elle/on": "a dormi",
+        "nous": "avons dormi",
+        "vous": "avez dormi",
+        "ils/elles": "ont dormi"
+      },
+      "example": {
+        "fr": "Ils ont dormi pendant tout le vol.",
+        "en": "They slept during the whole flight."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "dormis",
+        "tu": "dormis",
+        "il/elle/on": "dormit",
+        "nous": "dormîmes",
+        "vous": "dormîtes",
+        "ils/elles": "dormirent"
+      },
+      "example": {
+        "fr": "Elle dormit profondément toute la nuit.",
+        "en": "She slept deeply all night."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "dormais",
+        "tu": "dormais",
+        "il/elle/on": "dormait",
+        "nous": "dormions",
+        "vous": "dormiez",
+        "ils/elles": "dormaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je dormais toute la matinée.",
+        "en": "When I was young, I used to sleep all morning."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais dormi",
+        "tu": "avais dormi",
+        "il/elle/on": "avait dormi",
+        "nous": "avions dormi",
+        "vous": "aviez dormi",
+        "ils/elles": "avaient dormi"
+      },
+      "example": {
+        "fr": "Elle avait dormi avant de partir.",
+        "en": "She had slept before leaving."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "dormirai",
+        "tu": "dormiras",
+        "il/elle/on": "dormira",
+        "nous": "dormirons",
+        "vous": "dormirez",
+        "ils/elles": "dormiront"
+      },
+      "example": {
+        "fr": "Je dormirai après ce long voyage.",
+        "en": "I will sleep after this long trip."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "dormirais",
+        "tu": "dormirais",
+        "il/elle/on": "dormirait",
+        "nous": "dormirions",
+        "vous": "dormiriez",
+        "ils/elles": "dormiraient"
+      },
+      "example": {
+        "fr": "Nous dormirions si nous avions un lit confortable.",
+        "en": "We would sleep if we had a comfortable bed."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "dorme",
+        "tu": "dormes",
+        "il/elle/on": "dorme",
+        "nous": "dormions",
+        "vous": "dormiez",
+        "ils/elles": "dorment"
+      },
+      "example": {
+        "fr": "Il faut que tu dormes bien ce soir.",
+        "en": "You must sleep well tonight."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "dors",
+        "nous": "dormons",
+        "vous": "dormez"
+      },
+      "example": {
+        "fr": "Dors bien !",
+        "en": "Sleep well!"
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "dormant",
+        "past": "dormi"
+      },
+      "example": {
+        "fr": "En dormant trop tard, il a raté son rendez-vous.",
+        "en": "By sleeping too late, he missed his appointment."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "dormir"
+      },
+      "example": {
+        "fr": "Il aime dormir tôt.",
+        "en": "He likes to sleep early."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir dormi"
+      },
+      "example": {
+        "fr": "Après avoir dormi, il s'est senti mieux.",
+        "en": "After having slept, he felt better."
+      }
+    }
+  }
+}

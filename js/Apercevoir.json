@@ -1,0 +1,157 @@
+{
+  "verb": "apercevoir",
+  "translation": "to perceive/to notice/catch sight of",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "aperçois",
+        "tu": "aperçois",
+        "il/elle/on": "aperçoit",
+        "nous": "apercevons",
+        "vous": "apercevez",
+        "ils/elles": "aperçoivent"
+      },
+      "example": {
+        "fr": "Je perçois une silhouette au loin.",
+        "en": "I perceive a silhouette in the distance."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai aperçu",
+        "tu": "as aperçu",
+        "il/elle/on": "a aperçu",
+        "nous": "avons aperçu",
+        "vous": "avez aperçu",
+        "ils/elles": "ont aperçu"
+      },
+      "example": {
+        "fr": "Elle a aperçu son ami dans la foule.",
+        "en": "She noticed her friend in the crowd."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "aperçus",
+        "tu": "aperçus",
+        "il/elle/on": "aperçut",
+        "nous": "aperçûmes",
+        "vous": "aperçûtes",
+        "ils/elles": "aperçurent"
+      },
+      "example": {
+        "fr": "Ils aperçurent un oiseau rare dans le ciel.",
+        "en": "They spotted a rare bird in the sky."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "apercevais",
+        "tu": "apercevais",
+        "il/elle/on": "apercevait",
+        "nous": "apercevions",
+        "vous": "aperceviez",
+        "ils/elles": "apercevaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, j'apercevais souvent des animaux dans la forêt.",
+        "en": "When I was young, I often noticed animals in the forest."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais aperçu",
+        "tu": "avais aperçu",
+        "il/elle/on": "avait aperçu",
+        "nous": "avions aperçu",
+        "vous": "aviez aperçu",
+        "ils/elles": "avaient aperçu"
+      },
+      "example": {
+        "fr": "Il avait aperçu un problème avant que tout le monde ne le voie.",
+        "en": "He had noticed a problem before everyone else saw it."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "apercevrai",
+        "tu": "apercevras",
+        "il/elle/on": "apercevra",
+        "nous": "apercevrons",
+        "vous": "apercevrez",
+        "ils/elles": "apercevront"
+      },
+      "example": {
+        "fr": "Je percevrai un changement dans l'atmosphère demain.",
+        "en": "I will perceive a change in the atmosphere tomorrow."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "apercevrais",
+        "tu": "apercevrais",
+        "il/elle/on": "apercevrait",
+        "nous": "apercevrions",
+        "vous": "apercevriez",
+        "ils/elles": "apercevraient"
+      },
+      "example": {
+        "fr": "Nous apercevrions plus clairement avec des lunettes.",
+        "en": "We would perceive more clearly with glasses."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "aperçoive",
+        "tu": "aperçoives",
+        "il/elle/on": "aperçoive",
+        "nous": "apercevions",
+        "vous": "aperceviez",
+        "ils/elles": "aperçoivent"
+      },
+      "example": {
+        "fr": "Il faut que tu aperçoives ce détail.",
+        "en": "You must notice this detail."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "aperçois",
+        "nous": "apercevons",
+        "vous": "apercevez"
+      },
+      "example": {
+        "fr": "Aperçois cette différence !",
+        "en": "Notice this difference!"
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "apercevant",
+        "past": "aperçu"
+      },
+      "example": {
+        "fr": "En apercevant les indices, elle a résolu le mystère.",
+        "en": "By noticing the clues, she solved the mystery."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "apercevoir"
+      },
+      "example": {
+        "fr": "Je veux apercevoir la beauté dans les petites choses.",
+        "en": "I want to notice the beauty in small things."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir aperçu"
+      },
+      "example": {
+        "fr": "Après avoir aperçu le message, elle a réagi immédiatement.",
+        "en": "After having noticed the message, she reacted immediately."
+      }
+    }
+  }
+}

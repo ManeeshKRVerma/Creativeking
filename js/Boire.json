@@ -1,0 +1,157 @@
+{
+  "verb": "boire",
+  "translation": "to drink",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "bois",
+        "tu": "bois",
+        "il/elle/on": "boit",
+        "nous": "buvons",
+        "vous": "buvez",
+        "ils/elles": "boivent"
+      },
+      "example": {
+        "fr": "Je bois un verre d'eau.",
+        "en": "I drink a glass of water."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai bu",
+        "tu": "as bu",
+        "il/elle/on": "a bu",
+        "nous": "avons bu",
+        "vous": "avez bu",
+        "ils/elles": "ont bu"
+      },
+      "example": {
+        "fr": "Ils ont bu du vin rouge.",
+        "en": "They drank red wine."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "bus",
+        "tu": "bus",
+        "il/elle/on": "but",
+        "nous": "bûmes",
+        "vous": "bûtes",
+        "ils/elles": "burent"
+      },
+      "example": {
+        "fr": "Elle but tout le thé.",
+        "en": "She drank all the tea."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "buvais",
+        "tu": "buvais",
+        "il/elle/on": "buvait",
+        "nous": "buvions",
+        "vous": "buviez",
+        "ils/elles": "buvaient"
+      },
+      "example": {
+        "fr": "Nous buvions du jus chaque matin.",
+        "en": "We used to drink juice every morning."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais bu",
+        "tu": "avais bu",
+        "il/elle/on": "avait bu",
+        "nous": "avions bu",
+        "vous": "aviez bu",
+        "ils/elles": "avaient bu"
+      },
+      "example": {
+        "fr": "Il avait bu trop de café.",
+        "en": "He had drunk too much coffee."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "boirai",
+        "tu": "boiras",
+        "il/elle/on": "boira",
+        "nous": "boirons",
+        "vous": "boirez",
+        "ils/elles": "boiront"
+      },
+      "example": {
+        "fr": "Je boirai un café après le repas.",
+        "en": "I will drink a coffee after the meal."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "boirais",
+        "tu": "boirais",
+        "il/elle/on": "boirait",
+        "nous": "boirions",
+        "vous": "boiriez",
+        "ils/elles": "boiraient"
+      },
+      "example": {
+        "fr": "Nous boirions volontiers un verre.",
+        "en": "We would gladly drink a glass."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "boive",
+        "tu": "boives",
+        "il/elle/on": "boive",
+        "nous": "buvions",
+        "vous": "buviez",
+        "ils/elles": "boivent"
+      },
+      "example": {
+        "fr": "Il faut que tu boives plus d'eau.",
+        "en": "You must drink more water."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "bois",
+        "nous": "buvons",
+        "vous": "buvez"
+      },
+      "example": {
+        "fr": "Buvez de l'eau !",
+        "en": "Drink water!"
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "buvant",
+        "past": "bu"
+      },
+      "example": {
+        "fr": "En buvant trop vite, il s’est étouffé.",
+        "en": "By drinking too quickly, he choked."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "boire"
+      },
+      "example": {
+        "fr": "Elle aime boire du thé vert.",
+        "en": "She likes to drink green tea."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir bu"
+      },
+      "example": {
+        "fr": "Après avoir bu, ils sont partis.",
+        "en": "After having drunk, they left."
+      }
+    }
+  }
+}

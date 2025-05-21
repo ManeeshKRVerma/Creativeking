@@ -1,0 +1,157 @@
+{
+  "verb": "croire",
+  "translation": "to believe",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "crois",
+        "tu": "crois",
+        "il/elle/on": "croit",
+        "nous": "croyons",
+        "vous": "croyez",
+        "ils/elles": "croient"
+      },
+      "example": {
+        "fr": "Je crois en toi.",
+        "en": "I believe in you."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai cru",
+        "tu": "as cru",
+        "il/elle/on": "a cru",
+        "nous": "avons cru",
+        "vous": "avez cru",
+        "ils/elles": "ont cru"
+      },
+      "example": {
+        "fr": "Ils ont cru en leur succès.",
+        "en": "They believed in their success."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "crus",
+        "tu": "crus",
+        "il/elle/on": "crut",
+        "nous": "crûmes",
+        "vous": "crûtes",
+        "ils/elles": "crurent"
+      },
+      "example": {
+        "fr": "Elle crut tout ce qu'il lui disait.",
+        "en": "She believed everything he told her."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "croyais",
+        "tu": "croyais",
+        "il/elle/on": "croyait",
+        "nous": "croyions",
+        "vous": "croyiez",
+        "ils/elles": "croyaient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je croyais aux contes de fées.",
+        "en": "When I was young, I believed in fairy tales."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais cru",
+        "tu": "avais cru",
+        "il/elle/on": "avait cru",
+        "nous": "avions cru",
+        "vous": "aviez cru",
+        "ils/elles": "avaient cru"
+      },
+      "example": {
+        "fr": "Il avait cru qu'il gagnerait.",
+        "en": "He had believed that he would win."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "croirai",
+        "tu": "croiras",
+        "il/elle/on": "croira",
+        "nous": "croirons",
+        "vous": "croirez",
+        "ils/elles": "croiront"
+      },
+      "example": {
+        "fr": "Je croirai en toi, quoi qu'il arrive.",
+        "en": "I will believe in you, no matter what."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "croirais",
+        "tu": "croirais",
+        "il/elle/on": "croirait",
+        "nous": "croirions",
+        "vous": "croiriez",
+        "ils/elles": "croiraient"
+      },
+      "example": {
+        "fr": "Nous croirions si nous voyions des preuves.",
+        "en": "We would believe if we saw proof."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "croie",
+        "tu": "croies",
+        "il/elle/on": "croie",
+        "nous": "croyions",
+        "vous": "croyiez",
+        "ils/elles": "croient"
+      },
+      "example": {
+        "fr": "Il faut que tu croies en toi.",
+        "en": "You must believe in yourself."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "crois",
+        "nous": "croyons",
+        "vous": "croyez"
+      },
+      "example": {
+        "fr": "Croyez en vous !",
+        "en": "Believe in yourself!"
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "croyant",
+        "past": "cru"
+      },
+      "example": {
+        "fr": "En croyant en ses rêves, elle a réussi.",
+        "en": "By believing in her dreams, she succeeded."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "croire"
+      },
+      "example": {
+        "fr": "Je veux croire en ce projet.",
+        "en": "I want to believe in this project."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir cru"
+      },
+      "example": {
+        "fr": "Après avoir cru en lui, elle l’a soutenu.",
+        "en": "After having believed in him, she supported him."
+      }
+    }
+  }
+}

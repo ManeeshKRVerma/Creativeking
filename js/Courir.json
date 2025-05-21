@@ -1,0 +1,157 @@
+{
+  "verb": "courir",
+  "translation": "to run",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "cours",
+        "tu": "cours",
+        "il/elle/on": "court",
+        "nous": "courons",
+        "vous": "courez",
+        "ils/elles": "courent"
+      },
+      "example": {
+        "fr": "Je cours tous les matins.",
+        "en": "I run every morning."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai couru",
+        "tu": "as couru",
+        "il/elle/on": "a couru",
+        "nous": "avons couru",
+        "vous": "avez couru",
+        "ils/elles": "ont couru"
+      },
+      "example": {
+        "fr": "Nous avons couru pendant une heure.",
+        "en": "We ran for an hour."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "courus",
+        "tu": "courus",
+        "il/elle/on": "courut",
+        "nous": "courûmes",
+        "vous": "courûtes",
+        "ils/elles": "coururent"
+      },
+      "example": {
+        "fr": "Il courut jusqu'à la ligne d'arrivée.",
+        "en": "He ran to the finish line."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "courais",
+        "tu": "courais",
+        "il/elle/on": "courait",
+        "nous": "courions",
+        "vous": "couriez",
+        "ils/elles": "couraient"
+      },
+      "example": {
+        "fr": "Quand j'étais jeune, je courais tous les jours.",
+        "en": "When I was young, I used to run every day."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais couru",
+        "tu": "avais couru",
+        "il/elle/on": "avait couru",
+        "nous": "avions couru",
+        "vous": "aviez couru",
+        "ils/elles": "avaient couru"
+      },
+      "example": {
+        "fr": "Elle avait couru avant de partir.",
+        "en": "She had run before leaving."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "courrai",
+        "tu": "courras",
+        "il/elle/on": "courra",
+        "nous": "courrons",
+        "vous": "courrez",
+        "ils/elles": "courront"
+      },
+      "example": {
+        "fr": "Je courrai demain matin.",
+        "en": "I will run tomorrow morning."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "courrais",
+        "tu": "courrais",
+        "il/elle/on": "courrait",
+        "nous": "courrions",
+        "vous": "courriez",
+        "ils/elles": "courraient"
+      },
+      "example": {
+        "fr": "Nous courrions s'il faisait beau.",
+        "en": "We would run if the weather were nice."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "coures",
+        "tu": "coures",
+        "il/elle/on": "coures",
+        "nous": "courions",
+        "vous": "couriez",
+        "ils/elles": "courent"
+      },
+      "example": {
+        "fr": "Il faut que tu courses plus vite.",
+        "en": "You must run faster."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "cours",
+        "nous": "courons",
+        "vous": "courez"
+      },
+      "example": {
+        "fr": "Cours plus vite !",
+        "en": "Run faster!"
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "courant",
+        "past": "couru"
+      },
+      "example": {
+        "fr": "En courant tous les jours, elle a gagné en endurance.",
+        "en": "By running every day, she gained endurance."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "courir"
+      },
+      "example": {
+        "fr": "J'aime courir le matin.",
+        "en": "I like to run in the morning."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir couru"
+      },
+      "example": {
+        "fr": "Après avoir couru, il s'est reposé.",
+        "en": "After having run, he rested."
+      }
+    }
+  }
+}

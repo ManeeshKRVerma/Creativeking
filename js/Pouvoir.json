@@ -1,0 +1,157 @@
+{
+  "verb": "pouvoir",
+  "translation": "to be able to / can",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "peux",
+        "tu": "peux",
+        "il/elle/on": "peut",
+        "nous": "pouvons",
+        "vous": "pouvez",
+        "ils/elles": "peuvent"
+      },
+      "example": {
+        "fr": "Je peux venir ce soir.",
+        "en": "I can come tonight."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai pu",
+        "tu": "as pu",
+        "il/elle/on": "a pu",
+        "nous": "avons pu",
+        "vous": "avez pu",
+        "ils/elles": "ont pu"
+      },
+      "example": {
+        "fr": "Elle a pu finir à temps.",
+        "en": "She was able to finish on time."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "pus",
+        "tu": "pus",
+        "il/elle/on": "put",
+        "nous": "pûmes",
+        "vous": "pûtes",
+        "ils/elles": "purent"
+      },
+      "example": {
+        "fr": "Il put s'échapper discrètement.",
+        "en": "He was able to escape quietly."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "pouvais",
+        "tu": "pouvais",
+        "il/elle/on": "pouvait",
+        "nous": "pouvions",
+        "vous": "pouviez",
+        "ils/elles": "pouvaient"
+      },
+      "example": {
+        "fr": "Nous pouvions le faire hier.",
+        "en": "We could do it yesterday."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais pu",
+        "tu": "avais pu",
+        "il/elle/on": "avait pu",
+        "nous": "avions pu",
+        "vous": "aviez pu",
+        "ils/elles": "avaient pu"
+      },
+      "example": {
+        "fr": "Ils avaient pu terminer avant midi.",
+        "en": "They had been able to finish before noon."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "pourrai",
+        "tu": "pourras",
+        "il/elle/on": "pourra",
+        "nous": "pourrons",
+        "vous": "pourrez",
+        "ils/elles": "pourront"
+      },
+      "example": {
+        "fr": "Tu pourras le faire demain.",
+        "en": "You will be able to do it tomorrow."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "pourrais",
+        "tu": "pourrais",
+        "il/elle/on": "pourrait",
+        "nous": "pourrions",
+        "vous": "pourriez",
+        "ils/elles": "pourraient"
+      },
+      "example": {
+        "fr": "Je pourrais t’aider si j’avais le temps.",
+        "en": "I could help you if I had time."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "puisse",
+        "tu": "puisses",
+        "il/elle/on": "puisse",
+        "nous": "puissions",
+        "vous": "puissiez",
+        "ils/elles": "puissent"
+      },
+      "example": {
+        "fr": "Il faut que tu puisses comprendre.",
+        "en": "You must be able to understand."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "—",
+        "nous": "—",
+        "vous": "—"
+      },
+      "example": {
+        "fr": "Pouvoir n’a pas d’impératif usuel.",
+        "en": "Pouvoir does not have a standard imperative."
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "pouvant",
+        "past": "pu"
+      },
+      "example": {
+        "fr": "Pouvant parler plusieurs langues, elle a trouvé un emploi facilement.",
+        "en": "Being able to speak several languages, she found a job easily."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "pouvoir"
+      },
+      "example": {
+        "fr": "J’aimerais pouvoir voyager plus.",
+        "en": "I would like to be able to travel more."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir pu"
+      },
+      "example": {
+        "fr": "Après avoir pu le faire, il était soulagé.",
+        "en": "After having been able to do it, he was relieved."
+      }
+    }
+  }
+}

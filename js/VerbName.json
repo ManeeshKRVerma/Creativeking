@@ -1,0 +1,129 @@
+[
+
+{
+	"verb": "Apercevoir",
+	"translation": "to notice/catch sight of",
+	"Similar Conj.": "",
+	"File Name": "Apercevoir.json"
+},
+{
+	"verb": "Appeler",
+	"translation": "to call",
+	"Similar Conj.": "",
+	"File Name": "Appeler.json"
+},
+{
+	"verb": "Avoir",
+	"translation": "to have",
+	"Similar Conj.": "",
+	"File Name": "Avoir.json"
+},
+{
+	"verb": "Boire",
+	"translation": "to drink",
+	"Similar Conj.": "",
+	"File Name": "Boire.json"
+},
+{
+	"verb": "Courir",
+	"translation": "to run",
+	"Similar Conj.": "",
+	"File Name": "Courir.json"
+},
+{
+	"verb": "Croire",
+	"translation": "to believe",
+	"Similar Conj.": "",
+	"File Name": "Croire.json"
+},
+{
+	"verb": "Devoir",
+	"translation": "to have to / must",
+	"Similar Conj.": "",
+	"File Name": "Devoir.json"
+},
+{
+	"verb": "Dormir",
+	"translation": "to sleep",
+	"Similar Conj.": "",
+	"File Name": "Dormir.json"
+},
+{
+	"verb": "Etre",
+	"translation": "to be",
+	"Similar Conj.": "",
+	"File Name": "Etre.json"
+},
+{
+	"verb": "Faire",
+	"translation": "to do / make",
+	"Similar Conj.": "",
+	"File Name": "Faire.json"
+},
+{
+	"verb": "Falloir",
+	"translation": "to be necessary",
+	"Similar Conj.": "",
+	"File Name": "Falloir.json"
+},
+{
+	"verb": "Lire",
+	"translation": "to read",
+	"Similar Conj.": "",
+	"File Name": "Lire.json"
+},
+{
+	"verb": "Mourire",
+	"translation": "to die",
+	"Similar Conj.": "",
+	"File Name": "Mourire.json"
+},
+{
+	"verb": "Pleuvoir"	,
+	"translation": "to rain",
+	"Similar Conj.": "",
+	"File Name": "Pleuvoir.json"
+},
+{
+	"verb": "Pouvoir",
+	"translation": "to be able to (can)",
+	"Similar Conj.": "",
+	"File Name": "Pouvoir.json"
+},
+{
+	"verb": "S'Asseoir"	,
+	"translation": "to sit down",
+	"Similar Conj.": "",
+	"File Name": "S_Asseoir.json"
+},
+{
+	"verb": "Savoir",
+	"translation": "to know (fact)", 
+	"Similar Conj.": "", 
+	"File Name": "Savoir.json"
+ },
+{
+	"verb": "Suivre",
+	"translation": "to follow", 
+	"Similar Conj.": "", 
+	"File Name": "Suivre.json"
+ },
+{
+	"verb": "Vivre",
+	"translation": "to live", 
+	"Similar Conj.": "", 
+	"File Name": "Vivre.json"
+ },
+{
+	"verb": "Voir",
+	"translation": "to see", 
+	"Similar Conj.": "", 
+	"File Name": "Voir.json"
+ },
+{
+	"verb": "Vouloir",
+	"translation": "to want", 
+	"Similar Conj.": "", 
+	"File Name": "Vouloir.json"
+}	 
+]

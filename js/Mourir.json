@@ -1,0 +1,157 @@
+{
+  "verb": "mourir",
+  "translation": "to die",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "meurs",
+        "tu": "meurs",
+        "il/elle/on": "meurt",
+        "nous": "mourons",
+        "vous": "mourrez",
+        "ils/elles": "meurent"
+      },
+      "example": {
+        "fr": "Je meurs d'envie de te voir.",
+        "en": "I die to see you."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "suis mort(e)",
+        "tu": "es mort(e)",
+        "il/elle/on": "est mort(e)",
+        "nous": "sommes morts/mortes",
+        "vous": "êtes morts/mortes",
+        "ils/elles": "sont morts/mortes"
+      },
+      "example": {
+        "fr": "Il est mort il y a deux ans.",
+        "en": "He died two years ago."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "mourus",
+        "tu": "mourus",
+        "il/elle/on": "mourut",
+        "nous": "mourûmes",
+        "vous": "mourûtes",
+        "ils/elles": "moururent"
+      },
+      "example": {
+        "fr": "Elle mourut dans la paix.",
+        "en": "She died in peace."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "mourais",
+        "tu": "mourais",
+        "il/elle/on": "mourait",
+        "nous": "mourions",
+        "vous": "mouriez",
+        "ils/elles": "mouraient"
+      },
+      "example": {
+        "fr": "Il mourait lentement à cause de la maladie.",
+        "en": "He was dying slowly because of the illness."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "étais mort(e)",
+        "tu": "étais mort(e)",
+        "il/elle/on": "était mort(e)",
+        "nous": "étions morts/mortes",
+        "vous": "étiez morts/mortes",
+        "ils/elles": "étaient morts/mortes"
+      },
+      "example": {
+        "fr": "Ils étaient morts avant d'arriver.",
+        "en": "They had died before arriving."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "mourrai",
+        "tu": "mourras",
+        "il/elle/on": "mourra",
+        "nous": "mourrons",
+        "vous": "mourrez",
+        "ils/elles": "mourront"
+      },
+      "example": {
+        "fr": "Je mourrai un jour, comme tout le monde.",
+        "en": "I will die one day, like everyone."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "mourrais",
+        "tu": "mourrais",
+        "il/elle/on": "mourrait",
+        "nous": "mourrions",
+        "vous": "mourriez",
+        "ils/elles": "mourraient"
+      },
+      "example": {
+        "fr": "Nous mourrions de faim si nous ne mangions pas.",
+        "en": "We would die of hunger if we didn't eat."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "meure",
+        "tu": "meures",
+        "il/elle/on": "meure",
+        "nous": "mourions",
+        "vous": "mouriez",
+        "ils/elles": "meurent"
+      },
+      "example": {
+        "fr": "Il faut que je meure avant lui.",
+        "en": "I must die before him."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "meurs",
+        "nous": "mourons",
+        "vous": "mourrez"
+      },
+      "example": {
+        "fr": "Meurs avec dignité.",
+        "en": "Die with dignity."
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "mourant",
+        "past": "mort"
+      },
+      "example": {
+        "fr": "En mourant, il a laissé un grand vide.",
+        "en": "By dying, he left a great void."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "mourir"
+      },
+      "example": {
+        "fr": "Il ne veut pas mourir si jeune.",
+        "en": "He doesn't want to die so young."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "être mort"
+      },
+      "example": {
+        "fr": "Après être mort, il a été oublié.",
+        "en": "After dying, he was forgotten."
+      }
+    }
+  }
+}

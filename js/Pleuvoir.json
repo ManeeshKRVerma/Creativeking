@@ -1,0 +1,117 @@
+{
+  "verb": "pleuvoir",
+  "translation": "to rain",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "il": "pleut"
+      },
+      "example": {
+        "fr": "Il pleut souvent en automne.",
+        "en": "It often rains in autumn."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "il": "a plu"
+      },
+      "example": {
+        "fr": "Il a plu toute la journée.",
+        "en": "It rained all day."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "il": "plut"
+      },
+      "example": {
+        "fr": "Il plut sans arrêt pendant trois jours.",
+        "en": "It rained non-stop for three days."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "il": "pleuvait"
+      },
+      "example": {
+        "fr": "Il pleuvait quand nous sommes partis.",
+        "en": "It was raining when we left."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "il": "avait plu"
+      },
+      "example": {
+        "fr": "Il avait plu avant notre arrivée.",
+        "en": "It had rained before our arrival."
+      }
+    },
+    "future": {
+      "forms": {
+        "il": "pleuvra"
+      },
+      "example": {
+        "fr": "Il pleuvra demain.",
+        "en": "It will rain tomorrow."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "il": "pleuvrait"
+      },
+      "example": {
+        "fr": "Il pleuvrait s’il faisait plus froid.",
+        "en": "It would rain if it were colder."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "il": "pleuve"
+      },
+      "example": {
+        "fr": "Il est possible qu’il pleuve ce soir.",
+        "en": "It is possible that it will rain tonight."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "—",
+        "nous": "—",
+        "vous": "—"
+      },
+      "example": {
+        "fr": "Pleuvoir n’a pas de forme impérative.",
+        "en": "Pleuvoir has no imperative form."
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "—",
+        "past": "plu"
+      },
+      "example": {
+        "fr": "Il a plu toute la soirée.",
+        "en": "It rained all evening."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "pleuvoir"
+      },
+      "example": {
+        "fr": "Il va pleuvoir bientôt.",
+        "en": "It’s going to rain soon."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir plu"
+      },
+      "example": {
+        "fr": "Après avoir plu, le soleil est revenu.",
+        "en": "After it had rained, the sun came back."
+      }
+    }
+  }
+}

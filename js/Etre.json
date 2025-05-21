@@ -1,0 +1,157 @@
+{
+  "verb": "être",
+  "translation": "to be",
+  "conjugations": {
+    "present": {
+      "forms": {
+        "je": "suis",
+        "tu": "es",
+        "il/elle/on": "est",
+        "nous": "sommes",
+        "vous": "êtes",
+        "ils/elles": "sont"
+      },
+      "example": {
+        "fr": "Je suis étudiant.",
+        "en": "I am a student."
+      }
+    },
+    "passe_compose": {
+      "forms": {
+        "je": "ai été",
+        "tu": "as été",
+        "il/elle/on": "a été",
+        "nous": "avons été",
+        "vous": "avez été",
+        "ils/elles": "ont été"
+      },
+      "example": {
+        "fr": "Elle a été malade hier.",
+        "en": "She was sick yesterday."
+      }
+    },
+    "passe_simple": {
+      "forms": {
+        "je": "fus",
+        "tu": "fus",
+        "il/elle/on": "fut",
+        "nous": "fûmes",
+        "vous": "fûtes",
+        "ils/elles": "furent"
+      },
+      "example": {
+        "fr": "Il fut roi pendant dix ans.",
+        "en": "He was king for ten years."
+      }
+    },
+    "imperfect": {
+      "forms": {
+        "je": "étais",
+        "tu": "étais",
+        "il/elle/on": "était",
+        "nous": "étions",
+        "vous": "étiez",
+        "ils/elles": "étaient"
+      },
+      "example": {
+        "fr": "Nous étions heureux à Paris.",
+        "en": "We were happy in Paris."
+      }
+    },
+    "past_perfect": {
+      "forms": {
+        "je": "avais été",
+        "tu": "avais été",
+        "il/elle/on": "avait été",
+        "nous": "avions été",
+        "vous": "aviez été",
+        "ils/elles": "avaient été"
+      },
+      "example": {
+        "fr": "J'avais été très occupé.",
+        "en": "I had been very busy."
+      }
+    },
+    "future": {
+      "forms": {
+        "je": "serai",
+        "tu": "seras",
+        "il/elle/on": "sera",
+        "nous": "serons",
+        "vous": "serez",
+        "ils/elles": "seront"
+      },
+      "example": {
+        "fr": "Tu seras content demain.",
+        "en": "You will be happy tomorrow."
+      }
+    },
+    "conditional": {
+      "forms": {
+        "je": "serais",
+        "tu": "serais",
+        "il/elle/on": "serait",
+        "nous": "serions",
+        "vous": "seriez",
+        "ils/elles": "seraient"
+      },
+      "example": {
+        "fr": "Il serait ravi de venir.",
+        "en": "He would be delighted to come."
+      }
+    },
+    "subjunctive": {
+      "forms": {
+        "je": "sois",
+        "tu": "sois",
+        "il/elle/on": "soit",
+        "nous": "soyons",
+        "vous": "soyez",
+        "ils/elles": "soient"
+      },
+      "example": {
+        "fr": "Il faut que je sois patient.",
+        "en": "I must be patient."
+      }
+    },
+    "imperative": {
+      "forms": {
+        "tu": "sois",
+        "nous": "soyons",
+        "vous": "soyez"
+      },
+      "example": {
+        "fr": "Soyez prudents !",
+        "en": "Be careful!"
+      }
+    },
+    "participles": {
+      "forms": {
+        "present": "étant",
+        "past": "été"
+      },
+      "example": {
+        "fr": "Étant fatigué, il s'est couché tôt.",
+        "en": "Being tired, he went to bed early."
+      }
+    },
+    "present_infinitive": {
+      "forms": {
+        "infinitive": "être"
+      },
+      "example": {
+        "fr": "J'aime être seul de temps en temps.",
+        "en": "I like to be alone from time to time."
+      }
+    },
+    "past_infinitive": {
+      "forms": {
+        "infinitive": "avoir été"
+      },
+      "example": {
+        "fr": "Après avoir été promu, il a changé de bureau.",
+        "en": "After having been promoted, he changed offices."
+      }
+    }
+  }
+}
