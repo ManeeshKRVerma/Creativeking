@@ -1,0 +1,80 @@
+{
+  "verb": "Exceptions",
+  "translation": "",
+  "conjugations": {
+    "La with noun with out ending e": {
+      "forms": {
+		"La Maison":"",
+"La saison":"",
+"La main (the hand)":"",
+"La peau (the skin)":"",
+"La dent (the tooth)":"",
+"La télévision (the television)":"",
+"La radio (the radio)":"",
+"La voix (the voice)":"",
+"La loi (the law)":"",
+"La mer (the sea)":"",
+"La nuit (the night)":"",
+"La chaleur (the heat)":"",
+"La souris (the mouse)":"",
+"La foi (the faith)":"",
+"La fin (the end)":""
+
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+    "Le with noun with ending e": {
+      "forms": {
+		"Le livre (the book)":"",
+		"Le rêve (the dream)":"",
+		"Le sucre (the sugar)":"",
+		"Le face (the face)":"",
+		"Le Bebe (The Baby)":"",
+		"Le Café (cofee)":"",
+		"":"",
+		"Le cube (the cube)":"",
+		"Le chiffre (the number/digit)":"",
+		"Le volume (the volume)":"",
+		"Le casque (the helmet)":"",
+		"Le problème (the problem)":"",
+		"Le collège (the middle school)":"",
+		"":"",
+		"Le système (the system)":"",
+		"Le programme (the program)":"",
+		"Le thème (the theme)":"",
+		"Le code (the code)":"",
+		"Le musée (the museum)":"",
+		"Le service (the service)":"",
+		"Le courage (the courage)":"",
+		"Le charme (the charm)":"",
+		"Le doute (the doubt)":"",
+		"Le rite (the ritual)":"",
+		"Le steak (the steak)":"",
+		"Le câble (the cable)":"",
+		"Le modèle (the model)":"",
+		"Le signe (the sign)":"",
+		"Le rôle (the role)":"",
+		"Le côté (the side)":"",
+		"Le geste (the gesture)":"",
+		"Le mode (the mode)":"",
+		"Le crime (the crime)":"",
+		"Le texte (the text)":"",
+		"Le sexe (the sex/gender)":"",
+		"Le lycée (the high school)":"",
+		"Le traite (the traitor)":"",
+		"Le style (the style)":"",
+		"Le cadre (the frame)":"",
+		"Le juge (the judge)":"",
+		"Le terme (the term)":"",
+		"Le banque (the bank, though this is regional in usage, in some places it’s masculine)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+  }
+}

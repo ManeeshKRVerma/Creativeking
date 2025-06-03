@@ -1,0 +1,115 @@
+{
+  "verb": "Adverbs",
+  "translation": "",
+  "conjugations": {
+    "Adverbs of Time (le temps)": {
+      "forms": {
+		"bientôt":"soon",
+		"tôt":"early",
+		"encore":"again / still",
+		"enfin":"finally",
+		"rarement":"rarely",
+		"jamais":"never",
+		"aujourd’hui":"today",
+		"demain":"tomorrow",
+		"hier":"yesterday",
+		"maintenant":"now",
+		"tard":"late",
+		"déjà":"already",
+		"toujours":"always / still",
+		"parfois":"sometimes",
+		"souvent":"often"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+    "Adverbs of Place (le lieu)": {
+      "forms": {
+		"ici >> here":"",
+		"là >> there":"",
+		"là-bas >> over there":"",
+		"partout >> everywhere":"",
+		"nulle part >> nowhere":"",
+		"dedans >> inside":"",
+		"dehors >> outside":"",
+		"en haut >> upstairs / above":"",
+		"en bas >> downstairs / below":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Adverbs of Manner (la manière)": {
+      "forms": {
+"bien >> well":"",
+"mal >> badly":"",
+"vite / rapidement >> quickly / fast":"",
+"lentement >> slowly":"",
+"doucement >> gently / softly":"",
+"facilement >> easily":"",
+"difficilement >> with difficulty":"",
+"poliment >> politely":"",
+"bruyamment >> noisily":""
+
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Adverbs of Quantity (la quantité)": {
+      "forms": {
+		"très >> very":"",
+		"tellement >> so / so much":"",
+		"davantage >> more":"",
+		"Assez de":"enough",
+		"Beaucoup de":"a lot, many",
+		"Combien de":"How much/How many",
+		"Plus de":"more",
+		"Moins de":"less",
+		"Un peu de":"few, a little",
+		"Trop de":"too much/too many",
+		"Tant de":"So much/So many"
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Adverbs of Frequency (la fréquence)": {
+      "forms": {
+		"toujours >> always":"",
+		"souvent >> often":"",
+		"parfois >> sometimes":"",
+		"rarement >> rarely":"",
+		"jamais >> never":"",
+		"de temps en temps >> from time to time":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Other": {
+      "forms": {
+"peut-être >> maybe / perhaps":"",
+"aussi >> also / too":"",
+"seulement >> only":"",
+"ensemble >> together":"",
+"séparément >> separately":"",
+"alors >> so / then":"",
+"ainsi >> thus / in this way":"",
+"donc >> therefore":"",
+"également >> equally / also":"",
+"surtout >> especially":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+  }
+}

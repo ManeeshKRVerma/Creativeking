@@ -1,0 +1,102 @@
+{
+  "verb": "Prepositions",
+  "translation": "",
+  "conjugations": {
+    "Weather Terms": {
+      "forms": {
+		"Glace – Ice":"",
+		"Arbres – Trees":"",
+		"Feuilles – Leaves":"",
+		"Ciel – Sky":"",
+		"Terre – Earth /Ground":"",
+		"Jaunes – Yellow(plural)":"",
+		"Mûrir – To ripe (used for fruit, or metaphorically for growth/maturity)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+    "Weather Events": {
+      "forms": {
+        "L’éclair / La foudre - Lightning":"",
+		"L’orage – The storm":"",
+		"La foudre – The lightning":"",
+		"Le tonnerre – The thunder":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Weather Verb": {
+      "forms": {
+		"Neiger – To snow":"",
+		"Pleuvoir - To Rain":"",
+		"Souffler - To blow":"",
+		"Tomber – To fall":"",
+		"Deviennent – (Tey) become":""
+
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Seasons": {
+      "forms": {
+		"L’été – Summer":"",
+		"L’hiver – Winter":"",
+		"L’automne – Autumn / Fall":"",
+		"Le printemps – Spring":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Temrature and Conditions": {
+      "forms": {
+		"Chaud – Hot / Warm":"",
+		"Froide – Cold (feminine form of 'froid')":"",
+		"Frais – Cool / fresh":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Weather Phrases": {
+      "forms": {
+		"Il fait beau – The weather is nice":"",
+		"Il fait chaud – The weather is hot":"",
+		"Il fait du vent – The weather is windy / It is windy / There is wind":"",
+		"Il temps est frais – The weather is cool / fresh":"",
+		"Il fait chaud. → It is hot.":"",
+		"Il fait froid.→ It is cold.":"",
+		"Il fait frais. → It is cool.":"",
+		"Il fait beau. → The weather is nice.":"",
+		"Il fait mauvais. → The weather is bad.":"",
+		"Il fait du soleil. → It is sunny.":"",
+		"Il fait du vent. → It is windy.":"",
+		"Il fait humide. → It is humid.":"",
+		"Il pleut. → It is raining.":"",
+		"Il pleut beaucoup. → It is raining a lot.":"",
+		"Il neige. → It is snowing.":"",
+		"Il y a du brouillard. → There is fog.":"",
+		"Il y a une tempête. → There is a storm.":"",
+		"Il y a des nuages. → There are clouds.":"",
+		"Il y a un orage. → There is a thunderstorm.":"",
+		"Le ciel est clair. → The sky is clear.":"",
+		"Le ciel est couvert. → The sky is overcast.":"",
+		"Il y a des éclairs. → There is lightning.":"",
+		"Il y a du tonnerre. → There is thunder.":"",
+		"La température est agréable. → The temperature is pleasant.":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+  }
+}
