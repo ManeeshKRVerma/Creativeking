@@ -1,0 +1,24 @@
+{
+  "verb": "Sentence Formation",
+  "translation": "",
+  "conjugations": {
+    "Sequence": {
+      "forms": {
+		"S + V + O + Adj + Adv + prepositional phrase": "",
+		" Marie lit un livre intéressant rapidement dans le salon.": "Marie reads an interesting book quickly in the living room.",
+		"Marie lit rapidement un livre intéressant dans le salon.": "Marie quickly reads an interesting book in the living room.",
+		"Marie lit un livre rapidement intéressant. (Wrong phrase formation)": "In French, you cannot place an adverb between the noun and its adjective like that — it's ungrammatical.",
+        "[Subject/Pronoun] + [Verb] + [Object/Noun] + [Adjective] + [Adverb] + [Conjunction] + [Second Clause...]": "",
+        "Le chien (subject) court (verb) vite (adverb) dans le jardin (noun/phrase) parce qu’il (conjunction + pronoun) est (verb) content (adjective).": "he dog runs fast in the garden because he is happy.",
+        "[Subject] + [Reflexive Pronoun] + [Verb] + [Adverb] + [Object] + [Adjective] + [Conjunction] + [Second Clause]": "",
+        "Nous (subject) nous (Ref pro) préparons (verb) rapidement (adverb) pour la fête (noun) parce que (conjunction) nous sommes contents (adj.)": "We get ready quickly for the party because we are happy.",
+        "Subject + Verb + [Possessive Adj + Noun] + Adjective + Adverb + Conjunction + (second clause)": "",
+        " Ma sœur (subject) parle (verb) à son ami (possessive + noun) italien (adjective) très gentiment (adverb), et (conjunction) il (subject) l'écoute (verb + pronoun).": "My sister speaks to her Italian friend very kindly, and he listens to her."
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+  }
+}

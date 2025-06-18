@@ -1,0 +1,130 @@
+{
+  "verb": "Relations",
+  "translation": "",
+  "conjugations": {
+    "Les relations familiales": {
+      "forms": {
+		"la famille    (family)":"",
+		"le père    (father)":"",
+		"la mère    (mother)":"",
+		"les parents    (parents)":"",
+		"le fils    (son)":"",
+		"la fille    (daughter / girl)":"",
+		"le frère    (brother)":"",
+		"la sœur    (sister)":"",
+		"les enfants    (children)":"",
+		"le mari    (husband)":"",
+		"la femme    (wife / woman)":"",
+		"les grands-parents    (grandparents)":"",
+		"le grand-père    (grandfather)":"",
+		"la grand-mère    (grandmother)":"",
+		"le petit-fils    (grandson)":"",
+		"la petite-fille    (granddaughter)":"",
+		"l’oncle    (uncle)":"",
+		"la tante    (aunt)":"",
+		"le cousin / la cousine    (cousin (male/female))":"",
+		"le neveu    (nephew)":"",
+		"la nièce    (niece)":"",
+		"le beau-père    (stepfather / father-in-law)":"",
+		"la belle-mère    (stepmother / mother-in-law)":"",
+		"Belle -fille - step daughter    ()":"",
+		"le beau-frère    (brother-in-law)":"",
+		"la belle-sœur    (sister-in-law)":"",
+		"le demi-frère    (half-brother)":"",
+		"la demi-sœur    (half-sister)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+    "Romantic Relationships (Les relations amoureuses)": {
+      "forms": {
+		"l’amour (m)  (love)":"",
+		"être amoureux / amoureuse  (to be in love (male/female))":"",
+		"un petit ami  (boyfriend)":"",
+		"une petite amie  (girlfriend)":"",
+		"un compagnon  (partner (male))":"",
+		"une compagne  (partner (female))":"",
+		"un fiancé  (fiancé)":"",
+		"une fiancée  (fiancée)":"",
+		"les fiançailles (f)  (engagement)":"",
+		"un mari  (husband)":"",
+		"une femme  (wife)":"",
+		"un ex / une ex  (ex-boyfriend/girlfriend)":"",
+		"tomber amoureux de  (to fall in love with)":"",
+		"sortir avec quelqu’un  (to date someone)":"",
+		"se marier  (to get married)":"",
+		"être marié(e)  (to be married)":"",
+		"divorcer  (to get divorced)":"",
+		"un divorce  (a divorce)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+	"Social Relationships (Les relations sociales)": {
+      "forms": {
+		"un ami / une amie (friend (m/f))":"",
+  "un copain / une copine (friend / boyfriend / girlfriend (context matters))":"",
+  "un camarade (classmate / companion)":"",
+  "une connaissance (acquaintance)":"",
+  "un collègue (coworker)":"",
+  "un voisin / une voisine (neighbor (m/f))":"",
+  "une relation (connection / relationship)":"",
+  "un partenaire (partner (in work or love))":"",
+  "une personne (a person)":"",
+  "un étranger / une étrangère (stranger / foreigner)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+ "Prepositions in Fixed Expressions": {
+      "forms": {
+  "en face de (opposite)":"",
+  "au lieu de (instead of)":"",
+  "à propos de (about)":"",
+  "en train de (in the process of)":"",
+  "à partir de (starting from)":"",
+  "à côté de (next to)":"",
+  "à l’intérieur de (inside)":"",
+  "à l’extérieur de (outside)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    },
+ "Others": {
+      "forms": {
+  "Il y a (There is/are)":"",
+  "Il y avait (There was/were)":"",
+  "Ca va mieux (It's better)":"",
+  "Ensuite (Then)":"",
+  "Puis (Then)":"",
+  "meme (same)":"",
+  "drole (funny)":"",
+  "Parce-que (because)":"",
+  "souvent (often)":"",
+  "partout (Every where)":"",
+  "Tout le monde (Everyone)":"",
+  "Tout (Everything)" :"",
+  "Chaque fois (Everytime)":"",
+  "Quelque part (somewhere)":"",
+  "Quelqu’un (someone)":"",
+  "Quelque chose (something)":"",
+  "Quelquefois / Parfois (sometime)":"",
+  "Un jour (One Day)":"",
+  "Il était une fois (Once upon a time)":"",
+  "Comme ci, comme ça (so-so)":""
+      },
+      "example": {
+        "fr": "",
+        "en": ""
+      }
+    }
+  }
+}

@@ -6,7 +6,11 @@
       "forms": {
 		"bientôt":"soon",
 		"tôt":"early",
-		"encore":"again / still",
+		"encore":"again / still/ more (repetation of same thing/task)",
+		"      Il a echoue encore":"He failed again",
+		"      Tu es encore la":"You are still here",
+		"      Je veux encore du gateau":"I want more cake",
+		"a nouveau":"again, in a new way (nouveau = new)",
 		"enfin":"finally",
 		"rarement":"rarely",
 		"jamais":"never",
@@ -18,7 +22,9 @@
 		"déjà":"already",
 		"toujours":"always / still",
 		"parfois":"sometimes",
-		"souvent":"often"
+		"souvent":"often",
+		"prochaine >> Next":"Next week - la semaine prochaine (F.) Next month - mois prochain  (M.)",
+		"prochainement >> soon/shortly":""
       },
       "example": {
         "fr": "",
