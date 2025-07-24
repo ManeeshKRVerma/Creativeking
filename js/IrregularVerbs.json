@@ -187,6 +187,12 @@
 
 	"Irregular Verbs": {
       "forms": {
+		"Peindre": "paint",
+		"Se souvenir": "remember",
+		"Devoir": "owe (or must)",
+		"Se sentir": "feel",
+		"Ressentir": "feel",
+		"Avoir": "have (feel)",
 		"Avoir (to have)": "j’ai eu (I have had) -- j’aurai (I will have)",
 		"Naitre (to be born)": "je suis né(e) -- je naîtrai",
         "se taire (to be quiet / to stop talking)": "je me suis tu(e) -- je me tairai",
